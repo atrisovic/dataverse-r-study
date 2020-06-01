@@ -1,0 +1,5 @@
+env/
+env3/
+.pyc
+.idea/
+.ipynb_checkpoints/
