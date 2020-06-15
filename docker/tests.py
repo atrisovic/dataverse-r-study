@@ -28,6 +28,13 @@ class SimpleTest(unittest.TestCase):
         correct = "source(basename(\'Dropbox/user/anotherfile.R\'))"
         self.assertEqual(fix_abs_paths(line,index), correct)
 
+    def test_fix_abs_paths2_2(self):
+        from set_environment import fix_abs_paths
+        line = "source(   \'Dropbox/user/anotherfile.R\')"
+        index = line.find('source(')+7
+        correct = "source(basename(   \'Dropbox/user/anotherfile.R\'))"
+        self.assertEqual(fix_abs_paths(line,index), correct)
+
     def test_fix_abs_paths3(self):
         from set_environment import fix_abs_path_in_readcsv
         line = "data1 <- read.csv(\"data/vilno_1.csv\", header=FALSE)"
@@ -38,6 +45,18 @@ class SimpleTest(unittest.TestCase):
         from set_environment import fix_abs_path_in_readcsv
         line = "data1 <- read.csv(\"data/vilno_1.csv\")"
         correct = "data1 <- read.csv(basename(\"data/vilno_1.csv\"))"
+        self.assertEqual(fix_abs_path_in_readcsv(line), correct)
+
+    def test_fix_abs_paths5(self):
+        from set_environment import fix_abs_path_in_readcsv
+        line = "data1 <- read.csv (\"data/vilno_1.csv\")"
+        correct = "data1 <- read.csv (basename(\"data/vilno_1.csv\"))"
+        self.assertEqual(fix_abs_path_in_readcsv(line), correct)
+
+    def test_fix_abs_paths6(self):
+        from set_environment import fix_abs_path_in_readcsv
+        line = "data1 <- read.csv ( \"data/vilno_1.csv\", header=FALSE)"
+        correct = "data1 <- read.csv (basename( \"data/vilno_1.csv\"), header=FALSE)"
         self.assertEqual(fix_abs_path_in_readcsv(line), correct)
 
     def test_detect_encoding(self):
