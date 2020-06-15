@@ -43,6 +43,7 @@ def parse_dependencies(line):
 def fix_abs_paths(line, index):
     ''' returns file name without absolute path '''
     rest = line[index:]
+
     count = 0 # when -1 add ")"
     for i,w in enumerate(rest):
         if w == "(":
@@ -56,19 +57,23 @@ def fix_abs_paths(line, index):
 
 
 def fix_abs_path_in_readcsv(line):
-    index = line.find('read.csv(')+9
+    index = line.find('read.csv')+8
     rest = line[index:]
+    # find (
+    b = rest.find("(")+1
+    rest = line[index + b:]
+
     count = 0 # when -1 add ")"
     for i,w in enumerate(rest):
-        if w == "," and count == 0:
+        if w == "," and count == 0: # in this case there are arguments
             break
         if w == "(":
             count = count +1
         if w == ")":
             count = count -1
-        if count == -1:
+        if count == -1: # found both open and closed brackets
             break
-    newline = line[:index]+"basename("+rest[:i]+")"+rest[i:]
+    newline = line[:index + b]+"basename("+rest[:i]+")"+rest[i:]
     return newline
 
 
@@ -80,6 +85,9 @@ def main():
         libraries_no = 0 # libraries per file
         comments_no = 0 # count of comments per file
         lines_no = 0 # count of total lines of code per file
+        func_no = 0 # count of functions 
+        test_no =0 # count of 'test' appearance 
+        class_no=0 # count 'class' appearances
 
         for linenum, line in enumerate(fileinput.input(r_file, inplace=True)):
             lines_no +=1 # increase no of lines
@@ -90,33 +98,57 @@ def main():
 
             if ("#" in line) or (line.strip().startswith('"')): # count comments
                 comments_no += 1
+                print(line.rstrip())
+                continue # go to the next line 
 
             if line.strip().startswith("setwd"): # setwd already set, remove this to avoid absolute paths
                 print(line.replace(line, ''))
+                continue
 
-            elif line.strip().startswith("library"):
+            if "library" in line.strip():
                 libraries_no += 1
-                print(line.replace(line, parse_dependencies(line)))
-                print(line.rstrip())
 
-            elif line.strip().startswith("install.packages("):
+                # more than one lib
+                import re
+                for match in re.finditer("library", line):
+                    print(line.replace(line, parse_dependencies(line[match.start():])))
+                print(line.rstrip())
+                continue
+
+            elif line.strip().startswith("install.packages"):
                 libraries_no += 1
                 print(line.rstrip())
+                continue
                 
             elif line.strip().startswith("require"):
                 libraries_no += 1
                 print(line.replace(line, parse_dependencies(line)))
                 print(line.rstrip())
+                continue
 
-            elif "file.path(" in line:
-                index = line.find('file.path(')
+            temp_line = line.replace(" ", "") # remove white spaces to detect function calls easier
+            if "test" in line:
+                test_no += 1
+        
+            if "<-function(" in temp_line: # use temp line
+                func_no += 1
+        
+            if "class(" in temp_line: # use temp line
+                class_no += 1
+
+            if "file.path(" in temp_line:
+                index = line.find('file.path')
                 print(line.replace(line, fix_abs_paths(line, index)))
 
-            elif "source(" in line and "/" in line:
-                index = line.find('source(')+7
+            elif "source(" in temp_line and "/" in line:
+                index = line.find('source')+6
+                rest = line[index:]
+                # find (
+                b = rest.find("(")+1
+                index = index + b
                 print(line.replace(line, fix_abs_paths(line, index)))
 
-            elif "read.csv(" in line and "/" in line:
+            elif "read.csv(" in temp_line and "/" in line:
                 print(line.replace(line, fix_abs_path_in_readcsv(line)))
 
             else: # for all other lines
@@ -129,7 +161,8 @@ def main():
         encoding, confidence = detect_encoding(open(r_file, 'r').read())
         with open('run_log_st1.csv','a') as f:
             # file_name, total lines, number of comments, number of dependencies
-            f.write("{},{},{},{},{},{}\n".format(r_file, lines_no, comments_no, libraries_no, encoding, confidence))
+            f.write("{},{},{},{},{},{},{},{},{}\n".format(r_file, \
+                lines_no, comments_no, libraries_no, func_no, test_no, class_no, encoding, confidence))
 
 
     with open('run_log_st.csv','a') as f:

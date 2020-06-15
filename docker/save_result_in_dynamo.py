@@ -87,8 +87,11 @@ with open('run_log_st1.csv') as csv_file:
 					'total_lines':rows[1],
             		'comments_no':rows[2],
             		'dep_no':rows[3],
-					'encoding':rows[4],
-					'confidence':rows[5]
+					'func_no':rows[4],
+					'test_no':rows[5],
+					'class_no':rows[6],
+					'encoding':rows[7],
+					'confidence':rows[8]
         	}
         	items.append(mydict)
 	print(items)
