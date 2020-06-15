@@ -8,13 +8,7 @@ python2 download_dataset.py "$doi"
 python2 set_environment.py $PWD
 
 # execute R files
-timeout 1h Rscript exec_r_files.R "$doi"
-
-# detect and note if timeout exceeded 
-if [ $? -eq 124 ]
-then
-    echo "$doi,unknown,source,time limit exceeded" >> run_log.csv
-fi
+Rscript exec_r_files.R "$doi"
 
 FILE=run_log.csv
 if [ -f "$FILE" ]; then
