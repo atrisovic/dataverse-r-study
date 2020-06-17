@@ -1,0 +1,2003 @@
+DOI,publicationDate,publisher,subject
+doi:10.7910/DVN/U3QJQZ,2020,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/HRLHA4,2016,pan,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/RJWU7A,2015,intertransferuschina,Social Sciences
+doi:10.7910/DVN/FAAMAX,2018,BLS-PNAS,Social Sciences
+doi:10.7910/DVN/PAHRCK,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/XY2TUK,2018,isq,Social Sciences
+doi:10.7910/DVN/26905,2016,monogan,Social Sciences
+doi:10.7910/DVN/JMAQLD,2019,govdept,Social Sciences
+doi:10.7910/DVN/QXCFO2,2016,pan,Social Sciences
+doi:10.7910/DVN/IILJ4B,2020,restat,Social Sciences
+doi:10.7910/DVN/LADWHL,2019,palcomms,Social Sciences
+doi:10.7910/DVN/LFFJRV,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/GJTFKQ,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/G76EDS,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/EAXEET,2019,txtlab,Arts and Humanities
+doi:10.7910/DVN/UN54HD,2015,wmoore,Social Sciences
+doi:10.7910/DVN/MX5NIV,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/9RTI0V,2015,jop,Social Sciences
+doi:10.7910/DVN/CZYUJH,2018,PSRM,Social Sciences
+doi:10.7910/DVN/88MXJS,2018,PSRM,Social Sciences
+doi:10.7910/DVN/A4A3UO,2019,byers,Social Sciences
+doi:10.7910/DVN/EHGCOF,2017,GCP,Social Sciences
+doi:10.7910/DVN/K2TLDB,2015,alexandercoppock,Social Sciences
+doi:10.7910/DVN/R1M1ID,2018,isq,Social Sciences
+doi:10.7910/DVN/6KEXM7,2020,harvard,Social Sciences
+doi:10.7910/DVN/JSR0OE,2018,the_review,Social Sciences
+doi:10.7910/DVN/1WZCEA,2019,pan,Social Sciences
+doi:10.7910/DVN/OXIIDD,2019,jlc,Law;Social Sciences
+doi:10.7910/DVN/EEUTHP,2019,harvard,Social Sciences
+doi:10.7910/DVN/3RA7YG,2016,jop,Social Sciences
+doi:10.7910/DVN/FS90RJ,2016,ajps,Social Sciences
+doi:10.7910/DVN/Q92PMT,2016,jop,Law;Social Sciences
+doi:10.7910/DVN/WBI9RT,2015,harvard,Social Sciences
+doi:10.7910/DVN/1IWN5N,2018,jslapin,Social Sciences
+doi:10.7910/DVN/CF44OW,2017,jop,Social Sciences
+doi:10.7910/DVN/T0W5IM,2019,fixingahole,Social Sciences
+doi:10.7910/DVN/8GRBRZ,2019,fbnonuse,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/PASJJ8,2016,annerosenisser,Social Sciences
+doi:10.7910/DVN/VVX0K7,2020,dalstonward,Social Sciences
+doi:10.7910/DVN/N0PBQ9,2015,harvard,Social Sciences
+doi:10.7910/DVN/HSCUNB,2018,harvard,Social Sciences
+doi:10.7910/DVN/A47LUM,2018,pan,Social Sciences
+doi:10.7910/DVN/567RS6,2016,pan,Social Sciences
+doi:10.7910/DVN/CEVZPL,2017,costarica,Earth and Environmental Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/YQ2HFG,2019,govdept,Social Sciences
+doi:10.7910/DVN/GBZZXL,2019,jop,Social Sciences
+doi:10.7910/DVN/OYORNJ,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/SR0NMB,2016,jop,Law;Social Sciences
+doi:10.7910/DVN/CMCZBR,2020,jop,Law;Social Sciences
+doi:10.7910/DVN/LJN4BO,2019,harvard,Social Sciences
+doi:10.7910/DVN/HUZ1CD,2019,ilundberg,Social Sciences
+doi:10.7910/DVN/KNXKIY,2019,harvard,Social Sciences
+doi:10.7910/DVN/IVPBRF,2016,PSRM,Social Sciences
+doi:10.7910/DVN/WAQNXD,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/KZRWPM,2016,gov2001,Computer and Information Science;Mathematical Sciences;Other;Physics
+doi:10.7910/DVN/K2QBK6,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/DCKXHT,2016,mkscroggs,Social Sciences
+doi:10.7910/DVN/3PBN6J,2018,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/OFK4L6,2018,jop,Social Sciences
+doi:10.7910/DVN/MQAWKE,2020,perspectives,Social Sciences
+doi:10.7910/DVN/FSNEZY,2019,IOJ,Social Sciences
+doi:10.7910/DVN/OEM7DW,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/9HKISQ,2019,BJPolS,Law;Social Sciences
+doi:10.7910/DVN/QJSRZF,2016,harvard,Social Sciences
+doi:10.7910/DVN/ABT3OE,2018,restat,Social Sciences
+doi:10.7910/DVN/Q0XAPV,2015,jop,Social Sciences
+doi:10.7910/DVN/SWV9GJ,2017,xps,Social Sciences
+doi:10.7910/DVN/JRDCUN,2020,harvard,Social Sciences
+doi:10.7910/DVN/YHJUCJ,2019,gender_promotion,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/CORRXG,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/URHMUA,2018,harvard,Social Sciences
+doi:10.7910/DVN/BNRWDL,2019,trabalho_davi,Social Sciences
+doi:10.7910/DVN/YCSFSC,2019,IOJ,Social Sciences
+doi:10.7910/DVN/4MTMXW,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/AUX9W1,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/3E7RG4,2018,harvard,Social Sciences
+doi:10.7910/DVN/K7OCDX,2018,ajps,Social Sciences
+doi:10.7910/DVN/SUPM3R,2016,jop,Social Sciences
+doi:10.7910/DVN/5CBVXA,2019,harvard,Social Sciences
+doi:10.7910/DVN/4NUU2J,2020,JAERE,Social Sciences
+doi:10.7910/DVN/DRVBZY,2019,michaelaklin,Social Sciences
+doi:10.7910/DVN/IYAX3D,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/MPQGZP,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/WX6ZPC,2019,jop,Social Sciences
+doi:10.7910/DVN/RZPNLY,2019,perspectives,Social Sciences
+doi:10.7910/DVN/BPGCF0,2016,bullock,Social Sciences
+doi:10.7910/DVN/TCOFXX,2019,harvard,Social Sciences
+doi:10.7910/DVN/KHBJVZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/YTWNA2,2019,harvard,Social Sciences
+doi:10.7910/DVN/NQVP7K,2018,pan,Social Sciences
+doi:10.7910/DVN/A3ROXD,2017,harvard,Agricultural Sciences
+doi:10.7910/DVN/0PTKDP,2016,harvard,Social Sciences
+doi:10.7910/DVN/B4XDZP,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/RRF7EU,2019,perspectives,Social Sciences
+doi:10.7910/DVN/HT1WSA,2018,isq,Social Sciences
+doi:10.7910/DVN/FPYKTP,2019,ajps,Social Sciences
+doi:10.7910/DVN/MHN3NY,2017,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/AOY452,2018,pan,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/OUFGTX,2018,ssoroka,Social Sciences
+doi:10.7910/DVN/SOT2WM,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/HI1X4O,2018,ajps,Social Sciences
+doi:10.7910/DVN/1KIEXG,2018,xps,Social Sciences
+doi:10.7910/DVN/KYVPKZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/DOP4UB,2017,harvard,Social Sciences
+doi:10.7910/DVN/M9RWZN,2019,stateofaadhaar,Social Sciences
+doi:10.7910/DVN/KOVT5Y,2019,world-politics,Social Sciences
+doi:10.7910/DVN/XHDOZU,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/ELUQVD,2016,facebook,Business and Management;Computer and Information Science;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/KIVXRA,2018,harvard,Social Sciences
+doi:10.7910/DVN/VE6VSR,2019,alexandercoppock,Social Sciences
+doi:10.7910/DVN/XN2TZL,2018,jop,Social Sciences
+doi:10.7910/DVN/ZATAJM,2019,hm,Social Sciences
+doi:10.7910/DVN/H13U6G,2018,ajps,Social Sciences
+doi:10.7910/DVN/GYMPE7,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/XRZW4O,2018,gov2001,Social Sciences
+doi:10.7910/DVN/27702,2016,PSRM,Social Sciences
+doi:10.7910/DVN/ABSCFP,2018,jackpaine,Social Sciences
+doi:10.7910/DVN/VGNMQP,2019,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/7PZHF6,2020,the_review,Social Sciences
+doi:10.7910/DVN/ZAZAD6,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/BJNAPD,2019,culturalanalytics,Arts and Humanities;Computer and Information Science;Social Sciences
+doi:10.7910/DVN/53KIX8,2019,harvard,Social Sciences
+doi:10.7910/DVN/PSWLYR,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/5JMNRV,2018,isq,Social Sciences
+doi:10.7910/DVN/8XU5R6,2020,ilundberg,Social Sciences
+doi:10.7910/DVN/VSN1O0,2017,Jrenshon,Social Sciences
+doi:10.7910/DVN/2NJV2P,2017,ipa,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/6QE7NN,2019,lsq,Social Sciences
+doi:10.7910/DVN/28731,2015,restat,Social Sciences
+doi:10.7910/DVN/ECGSUB,2018,PSRM,Social Sciences
+doi:10.7910/DVN/XO0FXY,2019,pac,Arts and Humanities;Computer and Information Science;Other;Social Sciences
+doi:10.7910/DVN/TT17NY,2017,harvard,Social Sciences
+doi:10.7910/DVN/NP8SDI,2018,timothyfraser,Social Sciences
+doi:10.7910/DVN/QPVRNG,2019,harvard,Social Sciences
+doi:10.7910/DVN/ZT1EZG,2017,leuenberger17,Medicine; Health and Life Sciences
+doi:10.7910/DVN/PGGXDO,2020,PSRM,Social Sciences
+doi:10.7910/DVN/X6TKOO,2017,chanret,Social Sciences
+doi:10.7910/DVN/FRBXQW,2020,polbehavior,Social Sciences
+doi:10.7910/DVN/5WOMCQ,2018,vif-ergm,Social Sciences
+doi:10.7910/DVN/Q2Z5NV,2019,harvard,Social Sciences
+doi:10.7910/DVN/MGUYVO,2019,gov2001,Social Sciences
+doi:10.7910/DVN/6L6JHG,2019,Replication_GU_GenderLPGAdoption,Social Sciences
+doi:10.7910/DVN/PJOMF1,2019,harvard,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/PVQVWD,2018,miwahirofumi,Social Sciences
+doi:10.7910/DVN/XIT20Z,2017,isq,Social Sciences
+doi:10.7910/DVN/BXBJFW,2018,jop,Social Sciences
+doi:10.7910/DVN/5SW2HJ,2019,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/IGYXEF,2019,restat,Social Sciences
+doi:10.7910/DVN/B1EJBO,2019,baleato,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/PNPR8C,2019,pan,Social Sciences
+doi:10.7910/DVN/A3M7PY,2019,jop,Social Sciences
+doi:10.7910/DVN/GS3IKP,2017,harvard,Social Sciences
+doi:10.7910/DVN/OL3EVW,2019,fbailo,Social Sciences
+doi:10.7910/DVN/V9LWUQ,2017,harvard,Social Sciences
+doi:10.7910/DVN/EJSXMK,2016,heireport_pm10,Earth and Environmental Sciences;Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/KRE6KH,2020,harvard,Social Sciences
+doi:10.7910/DVN/C3RRZD,2020,harvard,Social Sciences
+doi:10.7910/DVN/6CMBEI,2016,PSRM,Social Sciences
+doi:10.7910/DVN/PQHGIJ,2018,LAPS,Social Sciences
+doi:10.7910/DVN/ZRUDFC,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/VCE7KN,2020,the_review,Social Sciences
+doi:10.7910/DVN/ZSBLXF,2017,jhomola,Social Sciences
+doi:10.7910/DVN/6KPFOK,2019,ajps,Social Sciences
+doi:10.7910/DVN/AIPWNU,2019,harvard,Social Sciences
+doi:10.7910/DVN/CKLIY1,2018,laughterperception,Social Sciences
+doi:10.7910/DVN/XHCWHE,2016,harvard,Social Sciences
+doi:10.7910/DVN/GVEKYP,2019,harvard,Social Sciences
+doi:10.7910/DVN/HREANC,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/LFQZVU,2018,the_review,Social Sciences
+doi:10.7910/DVN/7TRL0I,2018,xps,Social Sciences
+doi:10.7910/DVN/19FSQZ,2019,jop,Social Sciences
+doi:10.7910/DVN/JVBAWN,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/EA011Q,2019,maxgroemping,Social Sciences
+doi:10.7910/DVN/4IOIWV,2016,pan,Social Sciences
+doi:10.7910/DVN/LD8MDG,2018,jslapin,Social Sciences
+doi:10.7910/DVN/ZAD5UE,2017,jop,Social Sciences
+doi:10.7910/DVN/CRPAA8,2018,the_review,Social Sciences
+doi:10.7910/DVN/PPVW17,2019,tboas,Social Sciences
+doi:10.7910/DVN/YFLR9W,2019,harvard,Law;Social Sciences
+doi:10.7910/DVN/FTFJTV,2019,ajps,Social Sciences
+doi:10.7910/DVN/E43MOQ,2019,jop,Social Sciences
+doi:10.7910/DVN/WKCZ9Z,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/38BFML,2019,the_review,Social Sciences
+doi:10.7910/DVN/JWJRME,2019,jop,Social Sciences
+doi:10.7910/DVN/GA0X38,2017,the_review,Social Sciences
+doi:10.7910/DVN/NO90AJ,2016,pan,Social Sciences
+doi:10.7910/DVN/GBNGDF,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/LQ8B4W,2016,harvard,Social Sciences
+doi:10.7910/DVN/FYJ6YT,2017,harvard,Arts and Humanities;Medicine; Health and Life Sciences;Other
+doi:10.7910/DVN/PYWNTB,2015,jop,Social Sciences
+doi:10.7910/DVN/5TWA0G,2015,jop,Social Sciences
+doi:10.7910/DVN/GOWSAQ,2019,PSRM,Social Sciences
+doi:10.7910/DVN/B2EGF3,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/NSRKXC,2015,leeper,Social Sciences
+doi:10.7910/DVN/61JSZQ,2017,jop,Social Sciences
+doi:10.7910/DVN/WQWUAL,2019,jlc,Law;Social Sciences
+doi:10.7910/DVN/AEOMG5,2018,harvard,Social Sciences
+doi:10.7910/DVN/HKDFTY,2019,harvard,Social Sciences
+doi:10.7910/DVN/EHRNTO,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/IBK1LH,2018,mattingram,Computer and Information Science;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/OMUPIZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/LVPPP7,2019,patrickbayer,Social Sciences
+doi:10.7910/DVN/5LYJNZ,2016,gov2001,Social Sciences
+doi:10.7910/DVN/V3LLLE,2019,harvard,Social Sciences
+doi:10.7910/DVN/IDBNZC,2019,state_networks,Social Sciences
+doi:10.7910/DVN/LCLJTT,2018,isq,Social Sciences
+doi:10.7910/DVN/92SKA2,2017,jop,Social Sciences
+doi:10.7910/DVN/HVRCKM,2020,agendaseeding,Social Sciences
+doi:10.7910/DVN/JMPGZX,2018,jasonjjones,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/NQFPF3,2019,xps,Social Sciences
+doi:10.7910/DVN/RJW5VN,2018,harvard,Other
+doi:10.7910/DVN/83TXKI,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/NDZV42,2020,crescenzi,Social Sciences
+doi:10.7910/DVN/TX3VWP,2018,isq,Social Sciences
+doi:10.7910/DVN/11ZIRS,2017,securityforceethnicity,Social Sciences
+doi:10.7910/DVN/FV7UOH,2019,perspectives,Social Sciences
+doi:10.7910/DVN/YVCPDT,2018,harvard,Social Sciences
+doi:10.7910/DVN/HFIV1A,2017,Mr_DLib,Computer and Information Science
+doi:10.7910/DVN/WNMLPA,2018,jop,Social Sciences
+doi:10.7910/DVN/MNK26U,2018,xps,Social Sciences
+doi:10.7910/DVN/RG3OYS,2020,harvard,Social Sciences
+doi:10.7910/DVN/AB5XYQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/SCN9LA,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/NZCGYX,2018,isq,Social Sciences
+doi:10.7910/DVN/GIJBUU,2019,jop,Social Sciences
+doi:10.7910/DVN/NH8ZQC,2017,securityforceethnicity,Social Sciences
+doi:10.7910/DVN/YINHYL,2017,tpmnewsletter,Social Sciences
+doi:10.7910/DVN/WNBBPZ,2018,rebeccacordell,Social Sciences
+doi:10.7910/DVN/DL4JY8,2017,harvard,Social Sciences
+doi:10.7910/DVN/BSUNGB,2019,harvard,Social Sciences
+doi:10.7910/DVN/1B1MXY,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/YT45AO,2016,restat,Social Sciences
+doi:10.7910/DVN/FAWCGP,2016,PSRM,Social Sciences
+doi:10.7910/DVN/OTDDYP,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/PEXMHA,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/BFE6IU,2017,harvard,Social Sciences
+doi:10.7910/DVN/1CCXS9,2017,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/OTEWG2,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/SQH6IF,2018,the_review,Social Sciences
+doi:10.7910/DVN/IIYY15,2017,chanret,Law;Social Sciences
+doi:10.7910/DVN/ECBF7Y,2018,jop,Social Sciences
+doi:10.7910/DVN/8RCE84,2019,places,Earth and Environmental Sciences
+doi:10.7910/DVN/SVSLO2,2020,isq,Social Sciences
+doi:10.7910/DVN/2F8CWX,2019,pan,Social Sciences
+doi:10.7910/DVN/JXOB6N,2019,world-politics,Social Sciences
+doi:10.7910/DVN/KUWA5X,2016,ajps,Social Sciences
+doi:10.7910/DVN/29497,2016,monogan,Social Sciences
+doi:10.7910/DVN/GUAY8P,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/THCWHJ,2019,PSRM,Social Sciences
+doi:10.7910/DVN/QQYHQS,2016,restat,Social Sciences
+doi:10.7910/DVN/QE27H9,2015,pan,Social Sciences
+doi:10.7910/DVN/WEGMVK,2019,gov2001,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/ZH5YFY,2017,PSRM,Social Sciences
+doi:10.7910/DVN/A5ECON,2016,holger-doering,Social Sciences
+doi:10.7910/DVN/7CJQ6H,2020,JAERE,Social Sciences
+doi:10.7910/DVN/2HRRC7,2018,harvard,Social Sciences
+doi:10.7910/DVN/CT9AFP,2016,shanepsingh,Social Sciences
+doi:10.7910/DVN/2JDGQT,2019,samharper,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/WIRN6R,2017,pan,Social Sciences
+doi:10.7910/DVN/4K7SQC,2017,marinagduque,Social Sciences
+doi:10.7910/DVN/G3YJXY,2020,PSRM,Social Sciences
+doi:10.7910/DVN/C1XYRJ,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/PBEOJZ,2017,PSRM,Social Sciences
+doi:10.7910/DVN/ZPDOYT,2019,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/ON8RBD,2019,jop,Social Sciences
+doi:10.7910/DVN/QKP9EJ,2017,restat,Social Sciences
+doi:10.7910/DVN/BIZFP2,2016,PSRM,Social Sciences
+doi:10.7910/DVN/BHEM8T,2017,jhomola,Social Sciences
+doi:10.7910/DVN/9ZYFBX,2018,the_review,Social Sciences
+doi:10.7910/DVN/F1CFFM,2018,PSRM,Social Sciences
+doi:10.7910/DVN/ZAYTWC,2019,harvard,Social Sciences
+doi:10.7910/DVN/KY3WAE,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/VGWY3L,2020,harvard,Social Sciences
+doi:10.7910/DVN/AY32JZ,2018,the_review,Social Sciences
+doi:10.7910/DVN/TDSJHE,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/CY7YWE,2020,pan,Social Sciences
+doi:10.7910/DVN/2PTJJV,2019,PSRM,Social Sciences
+doi:10.7910/DVN/8XSAZD,2020,harvard,Social Sciences
+doi:10.7910/DVN/SS4LNN,2019,harvard,Social Sciences
+doi:10.7910/DVN/EEZBDE,2019,uw_comm_luyuema_general_exam_method_,Other
+doi:10.7910/DVN/GTFAQW,2019,harvard,Social Sciences
+doi:10.7910/DVN/96DG2V,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/F6CVMG,2020,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/4R6NEQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/WKJJ3Z,2018,ajps,Social Sciences
+doi:10.7910/DVN/KOM12J,2017,apezzola,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/YT8KWK,2016,PSRM,Social Sciences
+doi:10.7910/DVN/DZ7JLC,2017,sfm,Social Sciences
+doi:10.7910/DVN/M046SB,2019,ajps,Social Sciences
+doi:10.7910/DVN/XKOVUN,2020,perspectives,Social Sciences
+doi:10.7910/DVN/NWHYIQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/LPZLBF,2018,restat,Social Sciences
+doi:10.7910/DVN/TMB5YV,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/9AWUYJ,2017,ajps,Social Sciences
+doi:10.7910/DVN/NFZLI3,2019,the_review,Social Sciences
+doi:10.7910/DVN/LUJC8I,2019,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/T9WESH,2017,jop,Social Sciences
+doi:10.7910/DVN/MWGOZS,2018,perspectives,Social Sciences
+doi:10.7910/DVN/UHYIUW,2018,harvard,Social Sciences
+doi:10.7910/DVN/UZSQTV,2017,harvard,Social Sciences
+doi:10.7910/DVN/9P0GXR,2020,harvard,Social Sciences
+doi:10.7910/DVN/UAUEWV,2018,jlc,Law;Social Sciences
+doi:10.7910/DVN/JOXCZY,2016,jop,Social Sciences
+doi:10.7910/DVN/OQ64S8,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/96AJMC,2016,harvard,Social Sciences
+doi:10.7910/DVN/RXWV0T,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/80J7OL,2018,jslapin,Social Sciences
+doi:10.7910/DVN/SLXRVJ,2020,ajps,Social Sciences
+doi:10.7910/DVN/ZPC0D3,2018,harvard,Social Sciences
+doi:10.7910/DVN/XW0D8Q,2016,jmryan,Social Sciences
+doi:10.7910/DVN/6YNZTE,2019,ajps,Social Sciences
+doi:10.7910/DVN/LTF688,2015,ahlquist,Social Sciences
+doi:10.7910/DVN/3KOQWQ,2018,the_review,Social Sciences
+doi:10.7910/DVN/2QCPOI,2018,bpsr,Social Sciences
+doi:10.7910/DVN/DUW1QY,2019,jop,Arts and Humanities
+doi:10.7910/DVN/DZ6XJH,2019,harvard,Arts and Humanities
+doi:10.7910/DVN/L8N4TR,2019,harvard,Social Sciences
+doi:10.7910/DVN/X9KKQW,2017,governator,Social Sciences
+doi:10.7910/DVN/EPBIDE,2017,internationalinteractions,Social Sciences
+doi:10.7910/DVN/D8S4UY,2019,harvard,Social Sciences
+doi:10.7910/DVN/JHOK6X,2019,harvard,Social Sciences
+doi:10.7910/DVN/W9VWAJ,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/WBBAE3,2015,jop,Social Sciences
+doi:10.7910/DVN/CLIGCI,2019,harvard,Social Sciences
+doi:10.7910/DVN/VT4KJA,2016,ajps,Social Sciences
+doi:10.7910/DVN/IJNZWK,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/SI5KBL,2017,harvard,Social Sciences
+doi:10.7910/DVN/8OKVHY,2018,jop,Social Sciences
+doi:10.7910/DVN/EZDWZH,2019,schimpfch,Social Sciences
+doi:10.7910/DVN/2PAZJX,2018,harvard,Social Sciences
+doi:10.7910/DVN/Q1VWG4,2020,timothyfraser,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/YMMSIC,2016,the_review,Law;Social Sciences
+doi:10.7910/DVN/QTWTFF,2019,lsq,Social Sciences
+doi:10.7910/DVN/VX59QI,2016,PSRM,Social Sciences
+doi:10.7910/DVN/BX8N8S,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/MHE2PO,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/NOFKNI,2018,chanret,Law;Social Sciences
+doi:10.7910/DVN/D9H5LH,2018,lsq,Social Sciences
+doi:10.7910/DVN/TQYWJR,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/DAPJMB,2015,beber,Social Sciences
+doi:10.7910/DVN/45GXK5,2019,pomeroy,Social Sciences
+doi:10.7910/DVN/27KBWG,2017,isq,Social Sciences
+doi:10.7910/DVN/N9TTIA,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/J4WZGT,2020,IOJ,Social Sciences
+doi:10.7910/DVN/AIF4PI,2017,harvard,Social Sciences
+doi:10.7910/DVN/7UBRAC,2018,jop,Social Sciences
+doi:10.7910/DVN/SKV8MC,2018,gov2001,Social Sciences
+doi:10.7910/DVN/QOD8ZU,2015,thinking-modulated-recent-linguistic-experience,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/KQNNLQ,2020,bk,Social Sciences
+doi:10.7910/DVN/X7NKSL,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/7Q9ZSR,2017,jop,Social Sciences
+doi:10.7910/DVN/YRGXYU,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/M2U0KV,2020,researchandpolitics,Social Sciences
+doi:10.7910/DVN/UHIFDK,2019,harvard,Social Sciences
+doi:10.7910/DVN/E2187A,2015,jop,Social Sciences
+doi:10.7910/DVN/CKTAZX,2018,SBIR-STTR_Data,Social Sciences
+doi:10.7910/DVN/XKMNAO,2019,the_review,Social Sciences
+doi:10.7910/DVN/JTAXAD,2019,harvard,Social Sciences
+doi:10.7910/DVN/ZRMLCR,2019,harvard,Social Sciences
+doi:10.7910/DVN/5DPHSO,2020,dellaposta,Social Sciences
+doi:10.7910/DVN/6HALRE,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/R9PVOF,2017,isq,Social Sciences
+doi:10.7910/DVN/FAG8BP,2018,isq,Social Sciences
+doi:10.7910/DVN/HZNJRU,2019,harvard,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/TTCTIY,2017,harvard,Social Sciences
+doi:10.7910/DVN/IK9MQE,2019,harvard,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/DKKP4I,2018,jop,Social Sciences
+doi:10.7910/DVN/9Z1URU,2019,roumanias,Social Sciences
+doi:10.7910/DVN/0O1GW1,2019,Bioversity,Agricultural Sciences;Earth and Environmental Sciences
+doi:10.7910/DVN/ORTDUM,2016,PSRM,Social Sciences
+doi:10.7910/DVN/TL0PZD,2020,ajps,Social Sciences
+doi:10.7910/DVN/YLVI5Z,2016,jjm_polbeh,Social Sciences
+doi:10.7910/DVN/FGNBHX,2018,culturalanalytics,Arts and Humanities
+doi:10.7910/DVN/ZJG8EQ,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/S9MIJU,2016,ajps,Social Sciences
+doi:10.7910/DVN/RPZLMY,2016,pan,Social Sciences
+doi:10.7910/DVN/CJZB8X,2016,PSRM,Social Sciences
+doi:10.7910/DVN/HHOIA4,2018,pan,Social Sciences
+doi:10.7910/DVN/VLOHVI,2016,harvard,Social Sciences
+doi:10.7910/DVN/PVWSOY,2020,lockinlighting,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/YDJZC0,2019,harvard,Arts and Humanities;Business and Management;Computer and Information Science;Law;Social Sciences
+doi:10.7910/DVN/L2IOZO,2017,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/WUOAB7,2018,jop,Social Sciences
+doi:10.7910/DVN/KE92DO,2017,SpaceBetweenUs,Social Sciences
+doi:10.7910/DVN/EUQMPP,2019,harvard,Social Sciences
+doi:10.7910/DVN/HMI4WY,2019,jop,Social Sciences
+doi:10.7910/DVN/PE8TWP,2016,harvard,Social Sciences
+doi:10.7910/DVN/TXEFZI,2017,jop,Social Sciences
+doi:10.7910/DVN/PCRG1D,2018,harvard,Social Sciences
+doi:10.7910/DVN/29489,2015,zucco,Social Sciences
+doi:10.7910/DVN/FP8THH,2017,harvard,Social Sciences
+doi:10.7910/DVN/FFGFEG,2018,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/7QHIXX,2015,tboas,Social Sciences
+doi:10.7910/DVN/OFQUAN,2020,zucco,Social Sciences
+doi:10.7910/DVN/PVNEPJ,2019,harvard,Social Sciences
+doi:10.7910/DVN/ADFBT7,2018,monogan,Social Sciences
+doi:10.7910/DVN/LBMRFX,2017,jop,Social Sciences
+doi:10.7910/DVN/COXYJQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/AYXQIJ,2019,harvard,Social Sciences
+doi:10.7910/DVN/ICBCM2,2018,jop,Social Sciences
+doi:10.7910/DVN/JUCGYS,2016,PSRM,Social Sciences
+doi:10.7910/DVN/P5TAFD,2020,ajps,Social Sciences
+doi:10.7910/DVN/FMX62W,2019,jop,Social Sciences
+doi:10.7910/DVN/UFL6MI,2020,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/EYME7H,2018,montag,Social Sciences
+doi:10.7910/DVN/0HDTYM,2017,xps,Social Sciences
+doi:10.7910/DVN/W1TDGZ,2016,ajps,Social Sciences
+doi:10.7910/DVN/BKI1X3,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/IIYGGX,2016,ajps,Social Sciences
+doi:10.7910/DVN/BMKKTY,2017,harvard,Arts and Humanities
+doi:10.7910/DVN/ELI51F,2020,Clarifying-Ideology-Policy-Diffusion,Social Sciences
+doi:10.7910/DVN/5JDXHS,2016,economics,Social Sciences
+doi:10.7910/DVN/ZELWZ7,2019,perspectives,Social Sciences
+doi:10.7910/DVN/X9NUOJ,2017,jhomola,Social Sciences
+doi:10.7910/DVN/EXVUEA,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/8HFVU8,2019,jop,Social Sciences
+doi:10.7910/DVN/KPDD0E,2020,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/TR4OUK,2017,ajps,Social Sciences
+doi:10.7910/DVN/AKLOHE,2019,bobreednz,Business and Management;Social Sciences
+doi:10.7910/DVN/99OJBV,2019,harvard,Social Sciences
+doi:10.7910/DVN/2RORMS,2019,EDCC,Agricultural Sciences
+doi:10.7910/DVN/KBMBJP,2020,harvard,Social Sciences
+doi:10.7910/DVN/DDQDMS,2015,jop,Social Sciences
+doi:10.7910/DVN/8UWS1R,2019,patrick_mello,Social Sciences
+doi:10.7910/DVN/4C1KJT,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/3JA2GK,2018,jslapin,Social Sciences
+doi:10.7910/DVN/MR7YZK,2020,harvard,Social Sciences
+doi:10.7910/DVN/JP2JHH,2017,harvard,Social Sciences
+doi:10.7910/DVN/1YG7BI,2018,PSRM,Social Sciences
+doi:10.7910/DVN/NZIVED,2018,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/EAI1BB,2018,xps,Social Sciences
+doi:10.7910/DVN/L8YEDW,2017,xps,Social Sciences
+doi:10.7910/DVN/VOW9OB,2020,harvard,Social Sciences
+doi:10.7910/DVN/ZMYDWN,2018,harvard,Social Sciences
+doi:10.7910/DVN/3UXBOJ,2016,culturalanalytics,Arts and Humanities
+doi:10.7910/DVN/JZZIYU,2016,harvard,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/QEMNP1,2020,ajps,Social Sciences
+doi:10.7910/DVN/JYKL9M,2019,ajps,Social Sciences
+doi:10.7910/DVN/PVPJWM,2018,palcomms,Social Sciences
+doi:10.7910/DVN/ZXZMJB,2015,ajps,Social Sciences
+doi:10.7910/DVN/HCSQBD,2018,pan,Social Sciences
+doi:10.7910/DVN/XF7UBI,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/OSIQ8I,2019,lsq,Social Sciences
+doi:10.7910/DVN/PHVXJK,2018,isq,Social Sciences
+doi:10.7910/DVN/UHKDG4,2016,harvard,Social Sciences
+doi:10.7910/DVN/ZIO43M,2018,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/SWORPS,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/U1GGGQ,2016,kbanda,Social Sciences
+doi:10.7910/DVN/44XF6M,2018,isq,Social Sciences
+doi:10.7910/DVN/SWTEAN,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/8DQFXQ,2019,vinicius_santana_ad_ufpe_2019,Social Sciences
+doi:10.7910/DVN/GFGWDO,2020,harvard,Agricultural Sciences
+doi:10.7910/DVN/5HC6SV,2019,harvard,Social Sciences
+doi:10.7910/DVN/FRPRDP,2019,world-politics,Social Sciences
+doi:10.7910/DVN/HLAGNR,2019,zucco,Social Sciences
+doi:10.7910/DVN/SWFNQE,2019,world-politics,Social Sciences
+doi:10.7910/DVN/YDBMNI,2020,the_review,Social Sciences
+doi:10.7910/DVN/MV8SWC,2018,pomeroy,Computer and Information Science;Law;Social Sciences
+doi:10.7910/DVN/TPZPIO,2020,jop,Social Sciences
+doi:10.7910/DVN/TZTW1J,2018,perspectives,Social Sciences
+doi:10.7910/DVN/ORH029,2016,harvard,Social Sciences
+doi:10.7910/DVN/MKAI7J,2017,harvard,Social Sciences
+doi:10.7910/DVN/WDMSOL,2018,Bioversity,Agricultural Sciences
+doi:10.7910/DVN/G0HJLV,2019,ESD_GouldUrpelainen_EduationAttitudesLPG,Social Sciences
+doi:10.7910/DVN/TJ1ZXX,2018,ajps,Social Sciences
+doi:10.7910/DVN/DNWDSR,2017,internationalinteractions,Social Sciences
+doi:10.7910/DVN/86YEER,2018,gov2001,Social Sciences
+doi:10.7910/DVN/W3VOOP,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/AZXYIB,2017,chanret,Law;Social Sciences
+doi:10.7910/DVN/O11QZU,2016,harvard,Social Sciences
+doi:10.7910/DVN/SYOKZW,2019,harvard,Social Sciences
+doi:10.7910/DVN/UKOSTN,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/VSS3KO,2020,harvard,Social Sciences
+doi:10.7910/DVN/OVRHOG,2018,mattingram,Computer and Information Science;Law;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/GHXJYL,2018,world-politics,Social Sciences
+doi:10.7910/DVN/FXVVDQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/GSBOEU,2017,harvard,Social Sciences
+doi:10.7910/DVN/T9IKQT,2016,PSRM,Social Sciences
+doi:10.7910/DVN/6UNLQM,2017,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/RXMV9W,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/RRBPUD,2019,the_review,Social Sciences
+doi:10.7910/DVN/PZC0DM,2016,PSRM,Social Sciences
+doi:10.7910/DVN/CMK05F,2020,harvard,Social Sciences
+doi:10.7910/DVN/NGTWWJ,2019,ajps,Social Sciences
+doi:10.7910/DVN/GXXKU0,2020,kadeem-gilbert,Medicine; Health and Life Sciences;Other
+doi:10.7910/DVN/JPU0BX,2017,harvard,Social Sciences
+doi:10.7910/DVN/VJCL6D,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/QTOIQF,2019,the_review,Social Sciences
+doi:10.7910/DVN/Y0YCO9,2017,chanret,Social Sciences
+doi:10.7910/DVN/80WUQB,2017,pan,Social Sciences
+doi:10.7910/DVN/HXNVTQ,2017,samharper,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/IUXG2I,2019,jop,Social Sciences
+doi:10.7910/DVN/26VAXI,2019,harvard,Social Sciences
+doi:10.7910/DVN/XERE2A,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/CX6BKT,2017,governator,Social Sciences
+doi:10.7910/DVN/JQV0DJ,2019,Rodrigues-Silveira,Social Sciences
+doi:10.7910/DVN/LJIO0F,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/UDZZSH,2017,PSRM,Social Sciences
+doi:10.7910/DVN/FR73RE,2020,harvard,Social Sciences
+doi:10.7910/DVN/RT8CHM,2019,harvard,Social Sciences
+doi:10.7910/DVN/TPAB95,2017,isq,Social Sciences
+doi:10.7910/DVN/8XUKIH,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/IUB62M,2018,jop,Social Sciences
+doi:10.7910/DVN/GKW5Q5,2019,xps,Social Sciences
+doi:10.7910/DVN/L0SO7L,2019,harvard,Social Sciences
+doi:10.7910/DVN/7ZZKC7,2020,pomelo_metec_2019,Other
+doi:10.7910/DVN/RSI8NR,2017,harvard,Social Sciences
+doi:10.7910/DVN/HJF8UO,2018,jslapin,Social Sciences
+doi:10.7910/DVN/229VVX,2016,napaxton,Social Sciences
+doi:10.7910/DVN/CXSECU,2020,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/OK5PUL,2019,restat,Social Sciences
+doi:10.7910/DVN/XNOARV,2019,mine2018,Social Sciences
+doi:10.7910/DVN/TRTXLP,2016,clucas,Social Sciences
+doi:10.7910/DVN/SJI4IA,2018,the_review,Social Sciences
+doi:10.7910/DVN/B8JYZW,2020,pan,Social Sciences
+doi:10.7910/DVN/5J4YZZ,2020,harvard,Earth and Environmental Sciences;Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/PMKK9S,2020,educationandcontext,Social Sciences
+doi:10.7910/DVN/MIA6DY,2020,PSRM,Social Sciences
+doi:10.7910/DVN/8ZJBLI,2018,ajps,Social Sciences
+doi:10.7910/DVN/FECIO3,2019,the_review,Social Sciences
+doi:10.7910/DVN/6N2PN4,2016,jop,Social Sciences
+doi:10.7910/DVN/KKQFKA,2019,ajps,Social Sciences
+doi:10.7910/DVN/NOYBCQ,2019,ajps,Social Sciences
+doi:10.7910/DVN/OWUY5F,2016,harvard,Other
+doi:10.7910/DVN/EB8DD8,2019,CJFariss,Social Sciences
+doi:10.7910/DVN/TYSETW,2018,harvard,Social Sciences
+doi:10.7910/DVN/QMBTPP,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/R8PNCP,2017,xps,Social Sciences
+doi:10.7910/DVN/HEGV1N,2018,laronwilliams,Social Sciences
+doi:10.7910/DVN/T7PXKJ,2020,IOJ,Social Sciences
+doi:10.7910/DVN/QWEK63,2020,harvard,Social Sciences
+doi:10.7910/DVN/U1JEC0,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/QB1TUJ,2020,jop,Social Sciences
+doi:10.7910/DVN/LD0ITE,2018,pan,Social Sciences
+doi:10.7910/DVN/D5CQA7,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/03CDTK,2018,the_review,Social Sciences
+doi:10.7910/DVN/AQB4MP,2016,pan,Social Sciences
+doi:10.7910/DVN/3EONKV,2018,jop,Other
+doi:10.7910/DVN/ERNXOP,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/N6CT4V,2018,isq,Social Sciences
+doi:10.7910/DVN/Z09KDS,2018,perspectives,Social Sciences
+doi:10.7910/DVN/OMS7VI,2018,MarkusGastinger,Social Sciences
+doi:10.7910/DVN/ZRZGTT,2019,ajps,Social Sciences
+doi:10.7910/DVN/NIGQBX,2016,jop,Social Sciences
+doi:10.7910/DVN/KYSD5S,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/ZRMAKU,2017,harvard,Computer and Information Science
+doi:10.7910/DVN/NSRG8T,2017,G6PD-flow-cytometric,Medicine; Health and Life Sciences
+doi:10.7910/DVN/UI7OFK,2020,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/QO6EMT,2017,ajps,Social Sciences
+doi:10.7910/DVN/ZCSCRI,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/XBBOHV,2016,jop,Social Sciences
+doi:10.7910/DVN/G8AF5G,2018,isq,Social Sciences
+doi:10.7910/DVN/QXDOPZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/2HXTR8,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/AU3BTQ,2017,xps,Social Sciences
+doi:10.7910/DVN/V5NBER,2017,samharper,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/DX4HLQ,2016,FPA,Social Sciences
+doi:10.7910/DVN/TCYTEO,2020,sentencasCriminais,Arts and Humanities;Law;Social Sciences
+doi:10.7910/DVN/VZAKYC,2017,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/FSN6ZY,2019,restat,Social Sciences
+doi:10.7910/DVN/IJKAUR,2018,alkon,Agricultural Sciences;Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/MZUOWG,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/HAU0EX,2016,the_review,Social Sciences
+doi:10.7910/DVN/SMBFOZ,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/LIVJLZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/MT7XU0,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/NURHVT,2020,jkarreth,Social Sciences
+doi:10.7910/DVN/OE6UMR,2019,joshuabecker,Social Sciences
+doi:10.7910/DVN/T1DDVF,2018,mbuntaine,Social Sciences
+doi:10.7910/DVN/3AA5CQ,2016,nh2376_qmss_thesis,Social Sciences
+doi:10.7910/DVN/TVLHQX,2016,ll2937,Social Sciences
+doi:10.7910/DVN/MTHVD4,2015,harvard,Social Sciences
+doi:10.7910/DVN/A3NO2G,2019,speeches,Social Sciences
+doi:10.7910/DVN/WHBK7K,2019,jlc,Law;Social Sciences
+doi:10.7910/DVN/27564,2014,pan,Law;Social Sciences
+doi:10.7910/DVN/BG1FEO,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/3ADWK8,2020,jop,Social Sciences
+doi:10.7910/DVN/OJA7YS,2019,ajps,Social Sciences
+doi:10.7910/DVN/FN7XIV,2017,harvard,Social Sciences
+doi:10.7910/DVN/8KQJBJ,2018,restat,Social Sciences
+doi:10.7910/DVN/6IOACK,2018,ajps,Social Sciences
+doi:10.7910/DVN/KRIR6G,2020,ajps,Social Sciences
+doi:10.7910/DVN/OGVWDE,2018,ajps,Social Sciences
+doi:10.7910/DVN/7LIY1U,2018,holger-doering,Social Sciences
+doi:10.7910/DVN/WUQRIQ,2017,xps,Social Sciences
+doi:10.7910/DVN/NRAQRH,2018,ajps,Social Sciences
+doi:10.7910/DVN/WOED4N,2019,IOJ,Social Sciences
+doi:10.7910/DVN/HWH5YN,2016,rdarps,Social Sciences
+doi:10.7910/DVN/XRR0HM,2017,pan,Social Sciences
+doi:10.7910/DVN/E3FDAV,2018,jop,Social Sciences
+doi:10.7910/DVN/AMYHNJ,2017,PSRM,Social Sciences
+doi:10.7910/DVN/EWISS3,2016,PSRM,Social Sciences
+doi:10.7910/DVN/F43LHM,2018,isq,Social Sciences
+doi:10.7910/DVN/DMMQ4L,2015,harvard,Social Sciences
+doi:10.7910/DVN/26HDEO,2020,IOJ,Social Sciences
+doi:10.7910/DVN/K5MT68,2018,isq,Social Sciences
+doi:10.7910/DVN/6JGSZP,2019,xps,Social Sciences
+doi:10.7910/DVN/WAEHOI,2018,jop,Social Sciences
+doi:10.7910/DVN/Z5RBBT,2019,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/9SAX3K,2016,jop,Social Sciences
+doi:10.7910/DVN/EEMRS9,2018,jop,Social Sciences
+doi:10.7910/DVN/YTTDWH,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/W1YYEV,2020,perspectives,Social Sciences
+doi:10.7910/DVN/NN9KZT,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/LPF2BK,2017,harvard,Computer and Information Science
+doi:10.7910/DVN/YUM3K8,2019,ajps,Social Sciences
+doi:10.7910/DVN/JERJ0C,2020,ilundberg,Social Sciences
+doi:10.7910/DVN/1ELYGA,2017,harvard,Social Sciences
+doi:10.7910/DVN/Q7V70C,2016,pan,Social Sciences
+doi:10.7910/DVN/6PQOPQ,2019,gov2001,Social Sciences
+doi:10.7910/DVN/NFPJAQ,2019,culturalanalytics,Arts and Humanities;Computer and Information Science
+doi:10.7910/DVN/FUC2AH,2017,tpmnewsletter,Social Sciences
+doi:10.7910/DVN/D9FAZL,2018,isq,Social Sciences
+doi:10.7910/DVN/YRAJHO,2019,harvard,Social Sciences
+doi:10.7910/DVN/BBDYUZ,2017,KITE,Earth and Environmental Sciences
+doi:10.7910/DVN/HUKSID,2018,the_review,Social Sciences
+doi:10.7910/DVN/PSETMP,2018,Advances_Self_Monitoring,Social Sciences
+doi:10.7910/DVN/HETS9K,2016,djmallinson,Social Sciences
+doi:10.7910/DVN/JJMCTA,2016,economics,Social Sciences
+doi:10.7910/DVN/X9528P,2017,ilundberg,Social Sciences
+doi:10.7910/DVN/UWMHET,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/T5DKRO,2017,the_review,Social Sciences
+doi:10.7910/DVN/ENFMZY,2016,PSRM,Social Sciences
+doi:10.7910/DVN/EEP5MT,2017,pan,Social Sciences
+doi:10.7910/DVN/8XT86F,2020,ajps,Social Sciences
+doi:10.7910/DVN/UTAP1V,2017,the_review,Social Sciences
+doi:10.7910/DVN/ZSTE1X,2017,jop,Social Sciences
+doi:10.7910/DVN/WYCMVV,2016,harvard,Social Sciences
+doi:10.7910/DVN/UPMOHW,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/PMPSWJ,2019,harvard,Social Sciences
+doi:10.7910/DVN/O1PMGO,2018,isq,Social Sciences
+doi:10.7910/DVN/2LY2WB,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/WRVUOT,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/UN9JWF,2020,harvard,Social Sciences
+doi:10.7910/DVN/NNXBHP,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/CCUHUY,2018,harvard,Social Sciences
+doi:10.7910/DVN/XUVHCH,2020,harvard,Social Sciences
+doi:10.7910/DVN/DMWWS5,2019,jop,Social Sciences
+doi:10.7910/DVN/1GDKSV,2016,arwhite,Social Sciences
+doi:10.7910/DVN/J5GCZQ,2019,DJHOPKINS,Social Sciences
+doi:10.7910/DVN/RGIUEV,2020,restat,Social Sciences
+doi:10.7910/DVN/MTELU8,2017,harvard,Social Sciences
+doi:10.7910/DVN/FB3O9W,2019,jop,Social Sciences
+doi:10.7910/DVN/RZWQQK,2018,SpaceBetweenUs,Social Sciences
+doi:10.7910/DVN/MB2UKU,2019,ajps,Social Sciences
+doi:10.7910/DVN/IKM2A4,2020,ajps,Social Sciences
+doi:10.7910/DVN/O2BK85,2017,PSRM,Social Sciences
+doi:10.7910/DVN/SLZ2OA,2018,PSRM,Social Sciences
+doi:10.7910/DVN/O7HHKB,2019,harvard,Social Sciences
+doi:10.7910/DVN/IYBIUP,2020,areeves,Social Sciences
+doi:10.7910/DVN/UYXRI8,2019,ajps,Social Sciences
+doi:10.7910/DVN/LBUXPQ,2017,jop,Social Sciences
+doi:10.7910/DVN/8TB7GO,2019,king,Computer and Information Science;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/AESELE,2020,harvard,Social Sciences
+doi:10.7910/DVN/GQQUQU,2018,PSRM,Social Sciences
+doi:10.7910/DVN/2IT7IF,2016,PSRM,Social Sciences
+doi:10.7910/DVN/HMVALS,2018,cjip,Social Sciences
+doi:10.7910/DVN/H7QR3Q,2018,PSRM,Social Sciences
+doi:10.7910/DVN/PGQY2F,2018,pan,Social Sciences
+doi:10.7910/DVN/KYQSY8,2020,ruralelectrificationcamps,Social Sciences
+doi:10.7910/DVN/MFSZJH,2020,harvard,Social Sciences
+doi:10.7910/DVN/L4IOHC,2018,jop,Social Sciences
+doi:10.7910/DVN/YQSBOA,2020,ajps,Social Sciences
+doi:10.7910/DVN/9IYGIX,2015,harvard,Social Sciences
+doi:10.7910/DVN/8FK7PC,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/FV9AVG,2020,leeper,Social Sciences
+doi:10.7910/DVN/ERX5D1,2016,harvard,Social Sciences
+doi:10.7910/DVN/JYCAKM,2015,BJPolS,Social Sciences
+doi:10.7910/DVN/PTPGED,2018,harvard,Computer and Information Science
+doi:10.7910/DVN/JAOQSD,2018,jop,Social Sciences
+doi:10.7910/DVN/Z4S2E8,2020,harvard,Social Sciences
+doi:10.7910/DVN/HDREIJ,2018,harvard,Social Sciences
+doi:10.7910/DVN/ZWOOHV,2017,internationalinteractions,Social Sciences
+doi:10.7910/DVN/RHFPVV,2018,harvard,Social Sciences
+doi:10.7910/DVN/ISEJMI,2020,ahlquist,Business and Management;Social Sciences
+doi:10.7910/DVN/3KBCJF,2019,harvard,Social Sciences
+doi:10.7910/DVN/K1TVXL,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/82GIUZ,2017,chanret,Social Sciences
+doi:10.7910/DVN/VS3CG6,2017,jop,Social Sciences
+doi:10.7910/DVN/R4LJIT,2020,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/AIP0V8,2016,harvard,Social Sciences
+doi:10.7910/DVN/FMJDCD,2016,ajps,Social Sciences
+doi:10.7910/DVN/LEFLDF,2019,harvard,Social Sciences
+doi:10.7910/DVN/VUY8UI,2019,PSRM,Social Sciences
+doi:10.7910/DVN/9SUPHG,2019,restat,Social Sciences
+doi:10.7910/DVN/XAUYEM,2017,harvard,Social Sciences
+doi:10.7910/DVN/J0GBTX,2020,the_review,Social Sciences
+doi:10.7910/DVN/A8WOCU,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/GXX1TS,2019,borbademiranda,Social Sciences
+doi:10.7910/DVN/EJWXAO,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/MIB7AG,2017,harvard,Social Sciences
+doi:10.7910/DVN/XWLKFM,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/CVL1Q7,2017,xps,Social Sciences
+doi:10.7910/DVN/MWJHD2,2018,gov2001,Medicine; Health and Life Sciences
+doi:10.7910/DVN/9B8HQN,2019,the_review,Social Sciences
+doi:10.7910/DVN/PUIROM,2019,jop,Social Sciences
+doi:10.7910/DVN/MUFWVT,2016,mbuntaine,Social Sciences
+doi:10.7910/DVN/AXCVFN,2016,PSRM,Social Sciences
+doi:10.7910/DVN/3IC00L,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/XLVC6T,2020,xps,Social Sciences
+doi:10.7910/DVN/74N5YH,2020,harvard,Social Sciences
+doi:10.7910/DVN/L55JBL,2019,ps,Social Sciences
+doi:10.7910/DVN/N9XP0Y,2019,RandyCragun,Social Sciences
+doi:10.7910/DVN/SNQG8P,2017,jop,Social Sciences
+doi:10.7910/DVN/FY7SVG,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/VNHM17,2018,the_review,Social Sciences
+doi:10.7910/DVN/LMW871,2019,the_review,Social Sciences
+doi:10.7910/DVN/2CS1VF,2018,jop,Social Sciences
+doi:10.7910/DVN/0EVV7C,2016,harvard,Social Sciences
+doi:10.7910/DVN/4QCWML,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/BLEBHI,2019,restat,Social Sciences
+doi:10.7910/DVN/MPBGXL,2019,jop,Social Sciences
+doi:10.7910/DVN/B47FTE,2018,isq,Social Sciences
+doi:10.7910/DVN/NEZPZ6,2019,gov2001,Social Sciences
+doi:10.7910/DVN/UX39M4,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/5DLNMA,2017,restat,Social Sciences
+doi:10.7910/DVN/72GCGD,2018,isec,Social Sciences
+doi:10.7910/DVN/VA3N1L,2019,harvard,Social Sciences
+doi:10.7910/DVN/UEARI0,2020,ajps,Social Sciences
+doi:10.7910/DVN/QXWX4Q,2017,governator,Social Sciences
+doi:10.7910/DVN/J0G6K3,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/I6DUQY,2018,laronwilliams,Social Sciences
+doi:10.7910/DVN/3M9OD8,2015,jop,Social Sciences
+doi:10.7910/DVN/TRIEF2,2019,jop,Social Sciences
+doi:10.7910/DVN/FQPO0E,2019,PSRM,Social Sciences
+doi:10.7910/DVN/NAMZXJ,2019,jop,Social Sciences
+doi:10.7910/DVN/VXVBNI,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/WDPAZV,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/GOYSFK,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/P4VOCQ,2019,harvard,Social Sciences
+doi:10.7910/DVN/26584,2016,ajps,Social Sciences
+doi:10.7910/DVN/0BPVCH,2020,PSRM,Social Sciences
+doi:10.7910/DVN/YETMOY,2018,isq,Social Sciences
+doi:10.7910/DVN/HGIHGC,2020,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/UXIBNO,2017,dutchparl,Social Sciences
+doi:10.7910/DVN/HCJ6OM,2016,harvard,Social Sciences
+doi:10.7910/DVN/W8TQHB,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/LGBXWX,2019,lsq,Social Sciences
+doi:10.7910/DVN/ELT9VD,2017,BJPolS,Engineering;Mathematical Sciences;Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/Q86FEQ,2019,fdfdferer323213asreadme2adme2,Social Sciences
+doi:10.7910/DVN/EX7LIV,2019,harvard,Social Sciences
+doi:10.7910/DVN/ZLGGEG,2018,harvard,Social Sciences
+doi:10.7910/DVN/U3ZQYY,2020,IOJ,Social Sciences
+doi:10.7910/DVN/BSYAK5,2018,gov2001,Social Sciences
+doi:10.7910/DVN/H6RZA7,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/HIIMRK,2019,turning-out-but-not-voting,Social Sciences
+doi:10.7910/DVN/I8XQPM,2018,isq,Social Sciences
+doi:10.7910/DVN/0EIQXL,2020,ajps,Social Sciences
+doi:10.7910/DVN/DSZHIP,2019,xps,Social Sciences
+doi:10.7910/DVN/XX1KYY,2018,isq,Social Sciences
+doi:10.7910/DVN/OW7M4S,2015,samharper,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/KDKPJQ,2018,isq,Social Sciences
+doi:10.7910/DVN/UHWZXX,2019,sfm,Social Sciences
+doi:10.7910/DVN/1LAK3R,2017,mleven,Social Sciences
+doi:10.7910/DVN/NFXS5Z,2019,PSRM,Social Sciences
+doi:10.7910/DVN/CTZNJV,2018,the_review,Social Sciences
+doi:10.7910/DVN/Q8VDN0,2017,bullock,Social Sciences
+doi:10.7910/DVN/FZCXVN,2017,harvard,Social Sciences
+doi:10.7910/DVN/JQEAG2,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/3IHOLN,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/9V0LLB,2018,zucco,Social Sciences
+doi:10.7910/DVN/RYNSDG,2018,ajps,Social Sciences
+doi:10.7910/DVN/QC0RSU,2018,ajps,Social Sciences
+doi:10.7910/DVN/IK3DGT,2019,PSRM,Social Sciences
+doi:10.7910/DVN/F0NDJP,2016,harvard,Social Sciences
+doi:10.7910/DVN/LD6NL8,2017,ajps,Social Sciences
+doi:10.7910/DVN/Q8NRTS,2018,the_review,Social Sciences
+doi:10.7910/DVN/NLMJIP,2017,harvard,Social Sciences
+doi:10.7910/DVN/DEGC9Q,2019,PSRM,Social Sciences
+doi:10.7910/DVN/GZRCCJ,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/3WGSR0,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/KVIJSY,2019,jop,Social Sciences
+doi:10.7910/DVN/M98FXF,2020,jop,Social Sciences
+doi:10.7910/DVN/KFQOCV,2019,policing_bias_bounds,Social Sciences
+doi:10.7910/DVN/RYHXMW,2017,tomlouwerse,Social Sciences
+doi:10.7910/DVN/QN94IG,2019,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/JQHLAT,2020,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/HS9HW3,2019,ajps,Social Sciences
+doi:10.7910/DVN/KRKWK8,2015,pan,Social Sciences
+doi:10.7910/DVN/URSNLH,2016,PSRM,Social Sciences
+doi:10.7910/DVN/LUGBL1,2016,pan,Social Sciences
+doi:10.7910/DVN/OU5RKQ,2016,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/QVI6MS,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/XJ1UQK,2020,IOJ,Social Sciences
+doi:10.7910/DVN/FROKE5,2020,perspectives,Social Sciences
+doi:10.7910/DVN/PWVLTU,2015,CCAFSbaseline,Earth and Environmental Sciences;Agricultural Sciences;Medicine; Health and Life Sciences;Other;Social Sciences
+doi:10.7910/DVN/YQNLWF,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/CLTYZP,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/PTGUWE,2019,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/OIBDLC,2019,harvard,Social Sciences
+doi:10.7910/DVN/AZHTBT,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/F6LJP8,2015,jop,Social Sciences
+doi:10.7910/DVN/T24N31,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/N1HOB1,2019,xps,Social Sciences
+doi:10.7910/DVN/MHWTTS,2020,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/6NVI9C,2018,xps,Social Sciences
+doi:10.7910/DVN/5DX7DP,2020,IOJ,Social Sciences
+doi:10.7910/DVN/NOWHWG,2019,the_review,Social Sciences
+doi:10.7910/DVN/JBYLAS,2017,world-politics,Social Sciences
+doi:10.7910/DVN/NKGCNA,2015,jjharden,Social Sciences
+doi:10.7910/DVN/C1SICS,2018,jop,Social Sciences
+doi:10.7910/DVN/CMKMGF,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/AW6L1P,2019,the_review,Social Sciences
+doi:10.7910/DVN/TVB65V,2019,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/W4XWVU,2020,sjuhl,Social Sciences
+doi:10.7910/DVN/26935,2015,king,Social Sciences
+doi:10.7910/DVN/ZTLUF1,2018,jkarreth,Social Sciences
+doi:10.7910/DVN/V1SVZ4,2016,harvard,Social Sciences
+doi:10.7910/DVN/5OG9VV,2019,hkwon,Social Sciences
+doi:10.7910/DVN/CJBG5J,2018,jop,Social Sciences
+doi:10.7910/DVN/FHD6M2,2019,govdept,Social Sciences
+doi:10.7910/DVN/DY1282,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/VV12WS,2020,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/2NDL6R,2018,isq,Social Sciences
+doi:10.7910/DVN/POGK8L,2020,dissetacao,Social Sciences
+doi:10.7910/DVN/MF2Q7U,2018,harvard,Social Sciences
+doi:10.7910/DVN/6A2J2T,2018,the_review,Social Sciences
+doi:10.7910/DVN/GLFP8L,2018,cqs,Social Sciences
+doi:10.7910/DVN/OY86T9,2017,harvard,Social Sciences
+doi:10.7910/DVN/KXMJMZ,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/NL5BBJ,2015,harvard,Social Sciences
+doi:10.7910/DVN/Q2M1AS,2020,arzheimer,Social Sciences
+doi:10.7910/DVN/URMQXW,2018,vcharnysh,Social Sciences
+doi:10.7910/DVN/LVYOKM,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/DAE3PG,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/SBHNSW,2019,PSRM,Social Sciences
+doi:10.7910/DVN/YYZCA0,2020,harvard,Social Sciences
+doi:10.7910/DVN/PBQRGQ,2019,ajps,Social Sciences
+doi:10.7910/DVN/ZAYG8D,2019,harvard,Social Sciences
+doi:10.7910/DVN/LCDBRU,2017,ajps,Social Sciences
+doi:10.7910/DVN/ZVQ90X,2020,FPA,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/MM2VWC,2019,the_review,Social Sciences
+doi:10.7910/DVN/NUERNZ,2017,mlross,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/Y2EMIO,2018,isq,Social Sciences
+doi:10.7910/DVN/N3WF2P,2019,tvinner,Arts and Humanities;Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/A785G7,2018,bigKRLS,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/YSS19O,2020,ajps,Social Sciences
+doi:10.7910/DVN/TF046M,2018,isq,Social Sciences
+doi:10.7910/DVN/4W1JHE,2016,harvard,Social Sciences
+doi:10.7910/DVN/4JXJWI,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/9NXGHP,2017,pan,Social Sciences
+doi:10.7910/DVN/28763,2015,djmallinson,Social Sciences
+doi:10.7910/DVN/NW8RCM,2019,harvard,Social Sciences
+doi:10.7910/DVN/ZPMPE9,2019,harvard,Social Sciences
+doi:10.7910/DVN/SJBWC3,2017,jop,Social Sciences
+doi:10.7910/DVN/NSVSBY,2019,harvard,Social Sciences
+doi:10.7910/DVN/G3BKWG,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/LF9H7Q,2020,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/TALNRF,2017,harvard,Social Sciences
+doi:10.7910/DVN/OI4U3L,2017,harvard,Social Sciences
+doi:10.7910/DVN/H11ITR,2016,harvard,Social Sciences
+doi:10.7910/DVN/78JPNJ,2018,jop,Social Sciences
+doi:10.7910/DVN/UTJGTF,2017,jop,Social Sciences
+doi:10.7910/DVN/WHCZJR,2018,jhr,Social Sciences
+doi:10.7910/DVN/2JT5JK,2019,perspectives,Social Sciences
+doi:10.7910/DVN/5P03UL,2019,bpsr,Social Sciences
+doi:10.7910/DVN/CI1J5T,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/VJLVYU,2019,ajps,Social Sciences
+doi:10.7910/DVN/MS8XES,2017,harvard,Social Sciences
+doi:10.7910/DVN/H9X2AB,2019,pan,Computer and Information Science;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/GQK9MC,2017,bk,Social Sciences
+doi:10.7910/DVN/BIJWCU,2017,harvard,Mathematical Sciences;Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/LI9CAY,2016,harvard,Social Sciences
+doi:10.7910/DVN/QPESTS,2019,wBCRmosm,Earth and Environmental Sciences
+doi:10.7910/DVN/SV9B3E,2020,pan,Social Sciences
+doi:10.7910/DVN/ACYZIC,2017,ajps,Social Sciences
+doi:10.7910/DVN/1WDJVC,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/4BPRUI,2018,PSRM,Social Sciences
+doi:10.7910/DVN/PB8X8P,2018,ajps,Social Sciences
+doi:10.7910/DVN/IJ2OQJ,2016,harvard,Social Sciences
+doi:10.7910/DVN/LVNZE2,2015,pan,Social Sciences
+doi:10.7910/DVN/KSKR7F,2017,xps,Social Sciences
+doi:10.7910/DVN/IFZXDG,2018,pltjmms,Other;Physics
+doi:10.7910/DVN/X0AOON,2015,fsolt,Social Sciences
+doi:10.7910/DVN/2HTWSU,2017,PSRM,Social Sciences
+doi:10.7910/DVN/KNKRNP,2018,harvard,Social Sciences
+doi:10.7910/DVN/SWC7UH,2018,dinopc,Social Sciences
+doi:10.7910/DVN/JNFMNQ,2017,jop,Social Sciences
+doi:10.7910/DVN/6LTHVZ,2015,jop,Social Sciences
+doi:10.7910/DVN/QSICEX,2016,harvard,Social Sciences
+doi:10.7910/DVN/XJQALC,2019,ajps,Social Sciences
+doi:10.7910/DVN/A3HBWB,2017,FPA,Social Sciences
+doi:10.7910/DVN/GPRVC6,2018,ajps,Social Sciences
+doi:10.7910/DVN/GMWOY6,2016,jop,Social Sciences
+doi:10.7910/DVN/LA4QBU,2020,harvard,Social Sciences
+doi:10.7910/DVN/BPIXRS,2016,heireport_pm10,Earth and Environmental Sciences;Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/Y7KGDK,2017,bulk_density_PTF,Agricultural Sciences;Other
+doi:10.7910/DVN/O6HR6R,2019,cklarner,Social Sciences
+doi:10.7910/DVN/BFLOTT,2020,PSRM,Social Sciences
+doi:10.7910/DVN/O5LNTG,2017,xps,Social Sciences
+doi:10.7910/DVN/IZWWBC,2015,pan,Social Sciences
+doi:10.7910/DVN/IBKYRX,2019,PSRM,Social Sciences
+doi:10.7910/DVN/9ZPFF9,2018,harvard,Social Sciences
+doi:10.7910/DVN/QXM09F,2017,bayesiancalibrationtutorial,Medicine; Health and Life Sciences
+doi:10.7910/DVN/XVPHO1,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/LYSP42,2017,PSRM,Social Sciences
+doi:10.7910/DVN/JN22VJ,2017,harvard,Social Sciences
+doi:10.7910/DVN/SMLV5D,2018,jop,Social Sciences
+doi:10.7910/DVN/FFBNBU,2018,guygrossman,Social Sciences
+doi:10.7910/DVN/PGFOXW,2019,ajps,Social Sciences
+doi:10.7910/DVN/FAH6KL,2018,ipsr-risp,Social Sciences
+doi:10.7910/DVN/0WKEHJ,2020,bluecarbondriversmodel,Earth and Environmental Sciences
+doi:10.7910/DVN/BGTAGA,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/0KL6JK,2019,PSRM,Social Sciences
+doi:10.7910/DVN/S2VGJ1,2018,registration,Social Sciences
+doi:10.7910/DVN/YAIXFQ,2017,PSRM,Social Sciences
+doi:10.7910/DVN/S4IZ8K,2018,Schoonvelde,Social Sciences
+doi:10.7910/DVN/SZ9YXZ,2019,ajps,Social Sciences
+doi:10.7910/DVN/C3OKEJ,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/RNMB1Q,2016,pan,Social Sciences
+doi:10.7910/DVN/USFTTP,2018,harvard,Social Sciences
+doi:10.7910/DVN/KXXA5C,2019,harvard,Law
+doi:10.7910/DVN/J2YRUN,2017,kbanda,Social Sciences
+doi:10.7910/DVN/NX5QIU,2019,mattingram,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/5NJPTT,2018,jslapin,Social Sciences
+doi:10.7910/DVN/5MYZKI,2019,cervas,Social Sciences
+doi:10.7910/DVN/2DLCPZ,2018,isq,Social Sciences
+doi:10.7910/DVN/KVZXE8,2018,pan,Social Sciences
+doi:10.7910/DVN/GSDZNV,2020,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/J2NDPP,2019,PSRM,Social Sciences
+doi:10.7910/DVN/MTQEE1,2019,ajps,Social Sciences
+doi:10.7910/DVN/GCOLDC,2020,harvard,Other;Social Sciences
+doi:10.7910/DVN/2V2LGK,2019,harvard,Social Sciences
+doi:10.7910/DVN/SK7JVV,2015,harvard,Agricultural Sciences
+doi:10.7910/DVN/WYA1S2,2018,ajps,Social Sciences
+doi:10.7910/DVN/PRIRVH,2019,harvard,Social Sciences
+doi:10.7910/DVN/QFWIHD,2019,PSRM,Social Sciences
+doi:10.7910/DVN/4QRUPR,2017,jop,Social Sciences
+doi:10.7910/DVN/UAWGPU,2016,jop,Other;Social Sciences
+doi:10.7910/DVN/MGAVHG,2020,kwtrp,Medicine; Health and Life Sciences
+doi:10.7910/DVN/UQZUPO,2018,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/BQMLQW,2017,pan,Social Sciences
+doi:10.7910/DVN/EUIGEO,2016,harvard,Social Sciences
+doi:10.7910/DVN/EMM5MP,2020,yuhuawang,Business and Management;Law;Social Sciences
+doi:10.7910/DVN/UO5XSW,2020,harvard,Social Sciences
+doi:10.7910/DVN/VWBTL5,2020,the_review,Social Sciences
+doi:10.7910/DVN/U6YTI5,2018,harvard,Social Sciences
+doi:10.7910/DVN/DE8THR,2018,harvard,Social Sciences
+doi:10.7910/DVN/YGKKRU,2018,isq,Social Sciences
+doi:10.7910/DVN/N7XQMY,2019,harvard,Social Sciences
+doi:10.7910/DVN/LNM0D9,2020,harvard,Social Sciences
+doi:10.7910/DVN/X3586I,2019,PSRM,Social Sciences
+doi:10.7910/DVN/GNCDZR,2019,perspectives,Social Sciences
+doi:10.7910/DVN/RHAXDD,2019,PSRM,Social Sciences
+doi:10.7910/DVN/MP5XXC,2017,jhomola,Social Sciences
+doi:10.7910/DVN/RTB1IG,2017,isq,Social Sciences
+doi:10.7910/DVN/5MUUMN,2018,harvard,Social Sciences
+doi:10.7910/DVN/ART3M9,2018,sliao,Social Sciences
+doi:10.7910/DVN/MXKRDE,2020,pan,Social Sciences
+doi:10.7910/DVN/KTGFRE,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/HIQ4BV,2017,ajps,Social Sciences
+doi:10.7910/DVN/82CULX,2019,harvard,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/M7FYU8,2019,harvard,Social Sciences
+doi:10.7910/DVN/XHGDPA,2019,lsq,Social Sciences
+doi:10.7910/DVN/LRP3SZ,2020,IOJ,Social Sciences
+doi:10.7910/DVN/U4Q0FR,2018,PSRM,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/3GBS1I,2019,gov2001,Social Sciences
+doi:10.7910/DVN/9HO5J8,2017,evolution-of-sustainability,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/UERKTM,2016,PSRM,Social Sciences
+doi:10.7910/DVN/ZLEFIB,2019,harvard,Social Sciences
+doi:10.7910/DVN/NMJ4W9,2017,ajps,Social Sciences
+doi:10.7910/DVN/OZTK8P,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/GOLMTC,2016,jop,Social Sciences
+doi:10.7910/DVN/LQNCBW,2016,harvard,Other
+doi:10.7910/DVN/XNXZGB,2016,jop,Social Sciences
+doi:10.7910/DVN/KRWG8E,2019,JJPS,Social Sciences
+doi:10.7910/DVN/WVFZGE,2019,xps,Social Sciences
+doi:10.7910/DVN/A84A9E,2015,zhongjunhu,Social Sciences
+doi:10.7910/DVN/J8SXIZ,2019,PSRM,Social Sciences
+doi:10.7910/DVN/XW1YYI,2018,PSRM,Social Sciences
+doi:10.7910/DVN/ZOUXHF,2016,djmallinson,Social Sciences
+doi:10.7910/DVN/EAXI4K,2015,REVAMPNottingham,Social Sciences
+doi:10.7910/DVN/PENDX4,2017,the_review,Social Sciences
+doi:10.7910/DVN/FL08PZ,2016,jop,Social Sciences
+doi:10.7910/DVN/8DWAZW,2019,pan,Social Sciences
+doi:10.7910/DVN/BHKSZR,2019,jop,Social Sciences
+doi:10.7910/DVN/C6WCUY,2019,markmanger,Social Sciences
+doi:10.7910/DVN/RTB67K,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/2TCFTF,2017,chanret,Social Sciences
+doi:10.7910/DVN/X0VSTL,2020,martinhuber,Social Sciences
+doi:10.7910/DVN/XWAT9E,2016,tomlouwerse,Social Sciences
+doi:10.7910/DVN/Y8KIUK,2020,ajps,Social Sciences
+doi:10.7910/DVN/EMTSV8,2017,internationalinteractions,Social Sciences
+doi:10.7910/DVN/EHWM14,2019,jop,Social Sciences
+doi:10.7910/DVN/GT6EJJ,2015,mbuntaine,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/I2CZQY,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/JQMMVD,2018,JAERE,Social Sciences
+doi:10.7910/DVN/9SF3TI,2019,ajps,Social Sciences
+doi:10.7910/DVN/KJV6OJ,2016,censusethnic,Social Sciences
+doi:10.7910/DVN/SUQC9N,2018,jop,Social Sciences
+doi:10.7910/DVN/SYSQDB,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/61JJI3,2017,jop,Social Sciences
+doi:10.7910/DVN/QTG6FQ,2016,ajps,Social Sciences
+doi:10.7910/DVN/OTHBVU,2016,ir_dataverse,Social Sciences
+doi:10.7910/DVN/MCWFCS,2019,harvard,Social Sciences
+doi:10.7910/DVN/FYGY6V,2016,PSRM,Social Sciences
+doi:10.7910/DVN/EBF7XW,2016,ajps,Social Sciences
+doi:10.7910/DVN/GS8IFM,2018,jop,Social Sciences
+doi:10.7910/DVN/XLYTC7,2020,IOJ,Social Sciences
+doi:10.7910/DVN/IWMH4T,2019,lsq,Social Sciences
+doi:10.7910/DVN/6MRVOM,2020,xps,Social Sciences
+doi:10.7910/DVN/WJ9T9R,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/HD7UUU,2020,the_review,Social Sciences
+doi:10.7910/DVN/ZEVYO1,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/UEOK3H,2019,ajps,Social Sciences
+doi:10.7910/DVN/X7J1WC,2018,Chesthurber,Social Sciences
+doi:10.7910/DVN/AGUVBE,2018,pan,Social Sciences
+doi:10.7910/DVN/Y3IMBH,2019,bobreednz,Business and Management;Social Sciences
+doi:10.7910/DVN/T8OYHT,2019,ajps,Social Sciences
+doi:10.7910/DVN/DDIWGS,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/ROUWNS,2018,jop,Social Sciences
+doi:10.7910/DVN/UMG39H,2019,imai,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/PSOFAU,2019,isq,Social Sciences
+doi:10.7910/DVN/14RSGX,2016,jop,Social Sciences
+doi:10.7910/DVN/XPCVEI,2016,euspeech,Social Sciences
+doi:10.7910/DVN/MJKCHZ,2018,PSRM,Social Sciences
+doi:10.7910/DVN/ZTTCOX,2019,jop,Social Sciences
+doi:10.7910/DVN/BONQSQ,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/9AMKHL,2020,the_review,Social Sciences
+doi:10.7910/DVN/S6B7SE,2020,PSRM,Social Sciences
+doi:10.7910/DVN/F0GMX1,2019,pan,Social Sciences
+doi:10.7910/DVN/WUBZNL,2016,harvard,Social Sciences
+doi:10.7910/DVN/YLENUI,2017,chanret,Social Sciences
+doi:10.7910/DVN/4LIO9F,2017,isq,Social Sciences
+doi:10.7910/DVN/KYOABG,2019,harvard,Social Sciences
+doi:10.7910/DVN/GSMBFX,2019,jop,Social Sciences
+doi:10.7910/DVN/DFEH8S,2017,pan,Social Sciences
+doi:10.7910/DVN/4IMZRQ,2019,harvard,Other
+doi:10.7910/DVN/UMKD0K,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/BVWFG1,2018,ilundberg,Social Sciences
+doi:10.7910/DVN/64PBG7,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/XWMSHO,2017,harvard,Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/M7JKP6,2016,gov2001,Social Sciences
+doi:10.7910/DVN/WKJMZY,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/R3GZZW,2017,ajps,Social Sciences
+doi:10.7910/DVN/XDDN2Y,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/4XQUKB,2018,isq,Social Sciences
+doi:10.7910/DVN/5D6YPB,2018,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/VSLUQX,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/SEOCQ0,2019,the_review,Social Sciences
+doi:10.7910/DVN/QV7AJH,2017,jop,Social Sciences
+doi:10.7910/DVN/OLTXFC,2019,the_review,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/AJYEDA,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/VWPPVQ,2018,jop,Social Sciences
+doi:10.7910/DVN/X7PCPB,2016,hickswd,Social Sciences
+doi:10.7910/DVN/L1Y2KJ,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/W08NIR,2020,ajps,Social Sciences
+doi:10.7910/DVN/FYGHFO,2019,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/N5EGWL,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/I9GCXV,2019,harvard,Social Sciences
+doi:10.7910/DVN/VVDOUK,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/EHVYNN,2017,jop,Social Sciences
+doi:10.7910/DVN/CFPBRI,2017,peterbucchianeri,Social Sciences
+doi:10.7910/DVN/5CYWWF,2019,the_review,Social Sciences
+doi:10.7910/DVN/8AKACJ,2016,pan,Social Sciences
+doi:10.7910/DVN/9WPVEY,2016,evolution-of-sustainability,Business and Management;Other;Social Sciences
+doi:10.7910/DVN/Z7P7RL,2019,the_review,Social Sciences
+doi:10.7910/DVN/WPVSMH,2018,ajps,Social Sciences
+doi:10.7910/DVN/W8HUKY,2019,the_review,Social Sciences
+doi:10.7910/DVN/HXHL97,2020,harvard,Social Sciences
+doi:10.7910/DVN/TIIJAK,2015,thesiswz2300,Social Sciences
+doi:10.7910/DVN/6GPLRU,2017,mbuntaine,Social Sciences
+doi:10.7910/DVN/P1UZGG,2017,chanret,Law;Social Sciences
+doi:10.7910/DVN/IOPELZ,2019,jop,Social Sciences
+doi:10.7910/DVN/PDM9UH,2019,IOJ,Social Sciences
+doi:10.7910/DVN/1EMHTK,2017,king,Social Sciences
+doi:10.7910/DVN/HDGUDZ,2020,the_review,Social Sciences
+doi:10.7910/DVN/1DMAAJ,2016,registration,Social Sciences
+doi:10.7910/DVN/TONE1D,2019,harvard,Social Sciences
+doi:10.7910/DVN/VZLM35,2019,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/CNQUN3,2019,JAERE,Social Sciences
+doi:10.7910/DVN/FUJGY1,2017,isq,Social Sciences
+doi:10.7910/DVN/Q0CXGA,2018,jmmf,Social Sciences
+doi:10.7910/DVN/2IO3DL,2019,isq,Social Sciences
+doi:10.7910/DVN/4S2NIW,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/ZJTWVY,2019,tropical_reforestation_study,Social Sciences
+doi:10.7910/DVN/JTLAIG,2017,klm,Social Sciences
+doi:10.7910/DVN/9F0SMU,2019,jop,Social Sciences
+doi:10.7910/DVN/C8FMWZ,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/WMRQ16,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/AI3VM8,2018,the_review,Social Sciences
+doi:10.7910/DVN/POCRVT,2020,harvard,Social Sciences
+doi:10.7910/DVN/FPMUUG,2018,harvard,Social Sciences
+doi:10.7910/DVN/XTJRQN,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/RLWSVJ,2017,PSRM,Social Sciences
+doi:10.7910/DVN/1HNIFT,2018,jop,Social Sciences
+doi:10.7910/DVN/JGYOCZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/UO5WQ4,2016,pan,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/SYJZNG,2020,IOJ,Social Sciences
+doi:10.7910/DVN/T6GPSX,2019,beber,Social Sciences
+doi:10.7910/DVN/TOZUDO,2020,pan,Social Sciences
+doi:10.7910/DVN/ZJTLSW,2019,the_review,Social Sciences
+doi:10.7910/DVN/ETNFCY,2018,isq,Social Sciences
+doi:10.7910/DVN/JLRL6P,2016,harvard,Social Sciences
+doi:10.7910/DVN/GBRVWY,2020,timothyfraser,Social Sciences
+doi:10.7910/DVN/TVNVN3,2016,pan,Social Sciences
+doi:10.7910/DVN/GLEY3J,2018,isq,Social Sciences
+doi:10.7910/DVN/WPKTKJ,2016,ajps,Social Sciences
+doi:10.7910/DVN/RA3RUJ,2018,shanepsingh,Social Sciences
+doi:10.7910/DVN/59NTIL,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/1AZYRE,2018,Big5Ambition,Social Sciences
+doi:10.7910/DVN/SSEZKB,2016,harvard,Social Sciences
+doi:10.7910/DVN/OAGZZD,2017,jop,Social Sciences
+doi:10.7910/DVN/DAR56O,2018,the_review,Social Sciences
+doi:10.7910/DVN/EHR4QG,2016,srm,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/QYQNBJ,2016,harvard,Social Sciences
+doi:10.7910/DVN/USIYOG,2018,harvard,Social Sciences
+doi:10.7910/DVN/YUSU8X,2018,harvard,Social Sciences
+doi:10.7910/DVN/QR0GFU,2016,chilton,Law;Social Sciences
+doi:10.7910/DVN/KUNWOP,2019,harvard,Social Sciences
+doi:10.7910/DVN/HQZOOB,2017,ironworks,Chemistry;Earth and Environmental Sciences;Other;Social Sciences
+doi:10.7910/DVN/USKUR2,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/JX0ESJ,2018,bstewart,Social Sciences
+doi:10.7910/DVN/DCYDHS,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/OVLKN9,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/BGHLAX,2016,BJPolS,Social Sciences
+doi:10.7910/DVN/HJ4KH7,2018,jop,Social Sciences
+doi:10.7910/DVN/SIJ1OC,2020,south_korea_covid19,Medicine; Health and Life Sciences
+doi:10.7910/DVN/K7IKES,2017,harvard,Law;Social Sciences
+doi:10.7910/DVN/BZN2QC,2019,SLU,Business and Management;Social Sciences
+doi:10.7910/DVN/BJIAKI,2016,naijia,Social Sciences
+doi:10.7910/DVN/7BLIA3,2020,IOJ,Social Sciences
+doi:10.7910/DVN/HDZEOP,2019,harvard,Social Sciences
+doi:10.7910/DVN/KGIBK5,2019,ajps,Social Sciences
+doi:10.7910/DVN/STRA2P,2018,latent_tb_modelling_review,Medicine; Health and Life Sciences
+doi:10.7910/DVN/5D4UAY,2018,crowdfunding,Business and Management;Social Sciences
+doi:10.7910/DVN/CMQYMO,2019,TRABALHO--FINAL--AD--UFPE,Social Sciences
+doi:10.7910/DVN/N1DE4Q,2018,isq,Social Sciences
+doi:10.7910/DVN/QR73H6,2016,the_review,Social Sciences
+doi:10.7910/DVN/0BFF0K,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/RXYHGK,2019,Demo_Desenveco,Social Sciences
+doi:10.7910/DVN/ORDLXK,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/HZTTY8,2018,harvard,Social Sciences
+doi:10.7910/DVN/OU552V,2017,harvard,Social Sciences
+doi:10.7910/DVN/IY9B1T,2019,harvard,Social Sciences
+doi:10.7910/DVN/NN0TSC,2017,fbailo,Social Sciences
+doi:10.7910/DVN/ZBRTJH,2019,ajps,Social Sciences
+doi:10.7910/DVN/HPMEVO,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/BSKHUF,2016,PSRM,Social Sciences
+doi:10.7910/DVN/2YZO3K,2016,cqs,Social Sciences
+doi:10.7910/DVN/MIU9K3,2016,fbailo,Social Sciences
+doi:10.7910/DVN/W1REJL,2018,radioproxy,Social Sciences
+doi:10.7910/DVN/KWM3CY,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/LZGQOH,2016,ajps,Social Sciences
+doi:10.7910/DVN/IS2KTU,2018,xps,Social Sciences
+doi:10.7910/DVN/56EZPS,2017,jop,Social Sciences
+doi:10.7910/DVN/GFRHAK,2016,harvard,Social Sciences
+doi:10.7910/DVN/ZVPP1H,2017,harvard,Social Sciences
+doi:10.7910/DVN/EP7DXB,2015,jop,Social Sciences
+doi:10.7910/DVN/ITYDK1,2017,chanret,Social Sciences
+doi:10.7910/DVN/JZZWER,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/VGWNP9,2019,the_review,Social Sciences
+doi:10.7910/DVN/NCV3EX,2018,stefan_mueller,Social Sciences
+doi:10.7910/DVN/TGIX8T,2018,jslapin,Social Sciences
+doi:10.7910/DVN/URXZX5,2016,trackingdecoy,Computer and Information Science;Physics;Social Sciences
+doi:10.7910/DVN/K8SC39,2016,jop,Social Sciences
+doi:10.7910/DVN/FFKC2P,2020,rdesai2,Medicine; Health and Life Sciences
+doi:10.7910/DVN/QSXDUN,2017,ajps,Social Sciences
+doi:10.7910/DVN/2BF2HB,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/ZQPWUJ,2019,harvard,Social Sciences
+doi:10.7910/DVN/KBPZ5V,2019,harvard,Business and Management;Law;Social Sciences
+doi:10.7910/DVN/OXIOI9,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/T9P4WG,2017,harvard,Social Sciences
+doi:10.7910/DVN/BZYEIY,2019,restat,Social Sciences
+doi:10.7910/DVN/EKZQSZ,2019,the_review,Social Sciences
+doi:10.7910/DVN/BE99YA,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/RUZL8U,2020,martinhuber,Social Sciences
+doi:10.7910/DVN/D5WS0Y,2016,jop,Social Sciences
+doi:10.7910/DVN/DW7Y5W,2019,eused,Social Sciences
+doi:10.7910/DVN/N1NUST,2019,harvard,Social Sciences
+doi:10.7910/DVN/JDH6KR,2016,PSRM,Social Sciences
+doi:10.7910/DVN/MYDZNF,2018,ajps,Social Sciences
+doi:10.7910/DVN/FTYHPJ,2019,the_review,Social Sciences
+doi:10.7910/DVN/DSDD7W,2016,mattblackwell,Social Sciences
+doi:10.7910/DVN/ULHZSG,2020,DiaphorinaSexEPG,Agricultural Sciences
+doi:10.7910/DVN/DSHYUJ,2016,fbailo,Social Sciences
+doi:10.7910/DVN/U6EC8N,2020,ajps,Social Sciences
+doi:10.7910/DVN/GYY3H5,2016,registration,Social Sciences
+doi:10.7910/DVN/YRFNJ6,2015,Owsiak,Social Sciences
+doi:10.7910/DVN/PB2MLX,2018,gov2001,Social Sciences
+doi:10.7910/DVN/CLMQ8E,2017,jop,Social Sciences
+doi:10.7910/DVN/0QOVCH,2020,ajps,Social Sciences
+doi:10.7910/DVN/GUATS6,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/MDAHHQ,2020,south_korea_covid19,Medicine; Health and Life Sciences
+doi:10.7910/DVN/SKPPLH,2019,ajps,Social Sciences
+doi:10.7910/DVN/AHBXWA,2017,isq,Social Sciences
+doi:10.7910/DVN/GSY2TA,2018,isq,Social Sciences
+doi:10.7910/DVN/ZBZPV3,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/JIJJYE,2019,isec,Social Sciences
+doi:10.7910/DVN/SFBX6Z,2018,the_review,Social Sciences
+doi:10.7910/DVN/7FYH0T,2017,Schoonvelde,Social Sciences
+doi:10.7910/DVN/TT7NZJ,2019,NicoleJanz,Social Sciences
+doi:10.7910/DVN/29171,2016,monogan,Social Sciences
+doi:10.7910/DVN/V5P0SM,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/RAMHWP,2017,the_review,Social Sciences
+doi:10.7910/DVN/3SLMJY,2016,restat,Social Sciences
+doi:10.7910/DVN/QKJHCI,2017,jop,Social Sciences
+doi:10.7910/DVN/LNUSBB,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/CTMZX8,2018,isq,Social Sciences
+doi:10.7910/DVN/UBRRHG,2019,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/LNMEXL,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/W03YWD,2019,IOJ,Social Sciences
+doi:10.7910/DVN/XQY6CZ,2018,monogan,Social Sciences
+doi:10.7910/DVN/FCHU0J,2016,trackingdecoy,Computer and Information Science;Physics;Social Sciences
+doi:10.7910/DVN/CBJELO,2016,harvard,Social Sciences
+doi:10.7910/DVN/NW4LIO,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/0K6LWF,2019,lsq,Social Sciences
+doi:10.7910/DVN/FLXHAZ,2019,JAERE,Social Sciences
+doi:10.7910/DVN/QZNGVJ,2019,ajps,Social Sciences
+doi:10.7910/DVN/5UMCKK,2017,the_review,Social Sciences
+doi:10.7910/DVN/MPMIJU,2017,SpaceBetweenUs,Social Sciences
+doi:10.7910/DVN/RQLGLH,2017,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/OZGUH9,2018,ditellaPolSci,Social Sciences
+doi:10.7910/DVN/ZJCMYZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/ALFLK6,2018,lsq,Social Sciences
+doi:10.7910/DVN/KHE44F,2018,pan,Social Sciences
+doi:10.7910/DVN/LRSICH,2018,SpaceBetweenUs,Social Sciences
+doi:10.7910/DVN/EBBP1O,2016,pan,Social Sciences
+doi:10.7910/DVN/VGSSNX,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/LPLJCL,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/XZ0IZE,2018,ajps,Social Sciences
+doi:10.7910/DVN/IKVXOM,2019,harvard,Social Sciences
+doi:10.7910/DVN/G7EOGT,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/UDVEXN,2016,jop,Social Sciences
+doi:10.7910/DVN/NI225N,2016,restat,Social Sciences
+doi:10.7910/DVN/RMHOHL,2016,jop,Social Sciences
+doi:10.7910/DVN/24259,2014,javiermarquez,Social Sciences
+doi:10.7910/DVN/7ZVSYO,2019,ajps,Social Sciences
+doi:10.7910/DVN/7WIRJ7,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/ADRRNX,2018,harvard,Social Sciences
+doi:10.7910/DVN/4GPTTD,2019,harvard,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/HG0YSS,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/YSVMS2,2019,world-politics,Social Sciences
+doi:10.7910/DVN/KOKLPH,2020,harvard,Social Sciences
+doi:10.7910/DVN/S2VOLH,2017,PSRM,Social Sciences
+doi:10.7910/DVN/XKC4R4,2017,ajps,Social Sciences
+doi:10.7910/DVN/JE6R2R,2020,RiceResearch,Agricultural Sciences
+doi:10.7910/DVN/RBECVN,2019,govdept,Social Sciences
+doi:10.7910/DVN/D5DEHM,2017,ajps,Social Sciences
+doi:10.7910/DVN/RJF61A,2017,pan,Social Sciences
+doi:10.7910/DVN/WJKQ1C,2017,harvard,Social Sciences
+doi:10.7910/DVN/JXSJ1G,2019,wBCRmosm,Agricultural Sciences;Other
+doi:10.7910/DVN/XTXS4P,2018,PSRM,Social Sciences
+doi:10.7910/DVN/1ZOEEX,2018,the_review,Social Sciences
+doi:10.7910/DVN/OOLBO9,2019,jop,Social Sciences
+doi:10.7910/DVN/ALEBMM,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/STH14F,2020,pan,Social Sciences
+doi:10.7910/DVN/THNDTR,2017,jhomola,Social Sciences
+doi:10.7910/DVN/KWPEKK,2018,the_review,Social Sciences
+doi:10.7910/DVN/PYIFPF,2018,harvard,Social Sciences
+doi:10.7910/DVN/BFJ7RX,2019,kwtrp,Medicine; Health and Life Sciences
+doi:10.7910/DVN/NVRBC9,2017,harvard,Social Sciences
+doi:10.7910/DVN/7D48YB,2015,ajps,Social Sciences
+doi:10.7910/DVN/VKLZ2V,2016,researchandpolitics,Law;Social Sciences
+doi:10.7910/DVN/TUUYLQ,2018,pan,Social Sciences
+doi:10.7910/DVN/8YWCF9,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/SNCKJW,2018,yutakamahara,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/JNEQYJ,2018,ajps,Social Sciences
+doi:10.7910/DVN/05BSPP,2018,harvard,Social Sciences
+doi:10.7910/DVN/AFFHAH,2015,monogan,Social Sciences
+doi:10.7910/DVN/LVFRCL,2019,world-politics,Social Sciences
+doi:10.7910/DVN/VB6GAD,2018,rebeccacordell,Social Sciences
+doi:10.7910/DVN/UQOMMF,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/DDWWJW,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/HL8HCA,2018,deliberativeminipublics,Social Sciences
+doi:10.7910/DVN/4EPUIA,2018,seconlab,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/TWVXKZ,2019,the_review,Social Sciences
+doi:10.7910/DVN/MYRDQC,2016,harvard,Social Sciences
+doi:10.7910/DVN/KMQVUA,2018,leeper,Social Sciences
+doi:10.7910/DVN/GIYFMV,2016,harvard,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/R9PGXI,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/E6D8RI,2020,Gehlbach,Social Sciences
+doi:10.7910/DVN/V8DLYR,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/O6VHZZ,2019,ajps,Social Sciences
+doi:10.7910/DVN/WY7PR8,2017,harvard,Social Sciences
+doi:10.7910/DVN/QQBARG,2017,jop,Social Sciences
+doi:10.7910/DVN/MSV9AS,2016,harvard,Social Sciences
+doi:10.7910/DVN/VLS3XL,2016,PSRM,Social Sciences
+doi:10.7910/DVN/TLPMVI,2017,pan,Social Sciences
+doi:10.7910/DVN/IX6PBW,2018,researchandpolitics,Social Sciences
+doi:10.7910/DVN/QKGBSE,2019,palcomms,Arts and Humanities;Computer and Information Science;Social Sciences
+doi:10.7910/DVN/85KUC8,2019,harvard,Social Sciences
+doi:10.7910/DVN/IFR1FC,2018,harvard,Social Sciences
+doi:10.7910/DVN/FYXNIM,2020,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/GJLYGI,2016,jop,Social Sciences
+doi:10.7910/DVN/P7RVGF,2018,matthitt,Social Sciences
+doi:10.7910/DVN/TWHEZ9,2018,pan,Social Sciences
+doi:10.7910/DVN/SYCAOH,2017,PSRM,Social Sciences
+doi:10.7910/DVN/HUEPQJ,2019,harvard,Social Sciences
+doi:10.7910/DVN/LA4RAC,2016,pbalan,Social Sciences
+doi:10.7910/DVN/VPZZCQ,2018,isq,Social Sciences
+doi:10.7910/DVN/NNJXDY,2018,PSRM,Computer and Information Science;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/JGGUZE,2017,harvard,Social Sciences
+doi:10.7910/DVN/OEEF37,2019,harvard,Social Sciences
+doi:10.7910/DVN/STXADQ,2019,ajps,Social Sciences
+doi:10.7910/DVN/UGKVTJ,2018,perspectives,Social Sciences
+doi:10.7910/DVN/VOF11U,2016,jop,Social Sciences
+doi:10.7910/DVN/TALJOT,2020,harvard,Social Sciences
+doi:10.7910/DVN/HMGNSP,2018,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/AAI7VA,2019,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/LZPEQT,2017,harvard,Social Sciences
+doi:10.7910/DVN/VCXVVF,2018,schaffner,Social Sciences
+doi:10.7910/DVN/RO34OK,2016,PSVCC,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/NC06GQ,2015,ajps,Law;Social Sciences
+doi:10.7910/DVN/LG3DWV,2019,harvard,Social Sciences
+doi:10.7910/DVN/2BBRQ6,2019,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/PAW3RR,2018,jslapin,Social Sciences
+doi:10.7910/DVN/ZLFP3A,2016,harvard,Social Sciences
+doi:10.7910/DVN/W2JM0L,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/3RNFFH,2019,jop,Social Sciences
+doi:10.7910/DVN/O824I7,2018,AgreementIndiff,Social Sciences
+doi:10.7910/DVN/OIQA8Y,2019,govdept,Social Sciences
+doi:10.7910/DVN/OJK8GC,2019,harvard,Social Sciences
+doi:10.7910/DVN/YDCL7Z,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/WVBZNE,2019,the_review,Social Sciences
+doi:10.7910/DVN/XZLGAZ,2018,jop,Social Sciences
+doi:10.7910/DVN/WKIJST,2018,jop,Social Sciences
+doi:10.7910/DVN/KJCN21,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/T1TELH,2018,the_review,Social Sciences
+doi:10.7910/DVN/KMMN1B,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/DFPXHO,2015,SPSRleemann2015,Social Sciences
+doi:10.7910/DVN/BV7YUU,2016,FPA,Social Sciences
+doi:10.7910/DVN/XTAEY9,2019,PSRM,Social Sciences
+doi:10.7910/DVN/6EOZAY,2019,isq,Social Sciences
+doi:10.7910/DVN/GL2WN8,2020,the_review,Social Sciences
+doi:10.7910/DVN/PUIVRF,2017,isq,Social Sciences
+doi:10.7910/DVN/KL0FDF,2016,harvard,Social Sciences
+doi:10.7910/DVN/YFQE9W,2019,perspectives,Social Sciences
+doi:10.7910/DVN/C15VOD,2018,jop,Social Sciences
+doi:10.7910/DVN/Z7DN56,2018,isq,Social Sciences
+doi:10.7910/DVN/AMMFVZ,2018,jop,Social Sciences
+doi:10.7910/DVN/MVCLDA,2017,isq,Social Sciences
+doi:10.7910/DVN/LBO6KC,2020,bb_dataverse,Social Sciences
+doi:10.7910/DVN/WHUEZA,2016,harvard,Social Sciences
+doi:10.7910/DVN/HHMXU3,2018,the_review,Social Sciences
+doi:10.7910/DVN/18QB3V,2019,bioscience,Medicine; Health and Life Sciences
+doi:10.7910/DVN/KMUYUK,2017,jkarreth,Social Sciences
+doi:10.7910/DVN/VLBOBH,2016,thesis2015,Social Sciences
+doi:10.7910/DVN/ZFS7LI,2016,bullock,Social Sciences
+doi:10.7910/DVN/1SBQCX,2020,harvard,Social Sciences
+doi:10.7910/DVN/6NDYHC,2018,jop,Social Sciences
+doi:10.7910/DVN/ZFLG25,2016,ajps,Social Sciences
+doi:10.7910/DVN/L716E8,2015,jstaton,Social Sciences
+doi:10.7910/DVN/QYS2EZ,2019,harvard,Social Sciences
+doi:10.7910/DVN/JNMDCO,2020,xps,Social Sciences
+doi:10.7910/DVN/L4LWMP,2016,harvard,Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/UQSZDY,2019,xps,Social Sciences
+doi:10.7910/DVN/UZSCUT,2018,tnsilva,Social Sciences
+doi:10.7910/DVN/PITOXP,2019,harvard,Social Sciences
+doi:10.7910/DVN/PGCVDP,2017,ajps,Social Sciences
+doi:10.7910/DVN/G2RADZ,2019,zucco,Social Sciences
+doi:10.7910/DVN/UORFM0,2018,jslapin,Social Sciences
+doi:10.7910/DVN/NZFAXI,2017,jhomola,Social Sciences
+doi:10.7910/DVN/0XYQR3,2019,harvard,Social Sciences
+doi:10.7910/DVN/UVC4CI,2018,isq,Social Sciences
+doi:10.7910/DVN/ZIYOQ3,2017,jop,Social Sciences
+doi:10.7910/DVN/TKTN5J,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/WLVZQH,2017,zhukov,Social Sciences
+doi:10.7910/DVN/IGDKXP,2015,harvard,Social Sciences
+doi:10.7910/DVN/I0VEMG,2017,ajps,Social Sciences
+doi:10.7910/DVN/NCUSPZ,2019,jop,Law;Social Sciences
+doi:10.7910/DVN/QJEV1J,2018,harvard,Social Sciences
+doi:10.7910/DVN/INVDWM,2017,the_review,Social Sciences
+doi:10.7910/DVN/EAL0CY,2019,internationalinteractions,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/I42PPJ,2016,PSRM,Social Sciences
+doi:10.7910/DVN/J7HUX3,2016,pan,Social Sciences
+doi:10.7910/DVN/TJ5XMF,2018,PSRM,Social Sciences
+doi:10.7910/DVN/XPRQWH,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/Q7U1GP,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/B9SCDJ,2018,ajps,Social Sciences
+doi:10.7910/DVN/WXEWWU,2018,SpaceBetweenUs,Social Sciences
+doi:10.7910/DVN/PZKBUX,2016,pan,Social Sciences
+doi:10.7910/DVN/MLTXHB,2020,harvard,Social Sciences
+doi:10.7910/DVN/U7MANI,2020,harvard,Social Sciences
+doi:10.7910/DVN/FHTQL5,2018,harvard,Social Sciences
+doi:10.7910/DVN/TMVVDO,2018,klm,Social Sciences
+doi:10.7910/DVN/ELHTWJ,2017,pan,Social Sciences
+doi:10.7910/DVN/XQTCHB,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/PTKD7K,2017,harvard,Social Sciences
+doi:10.7910/DVN/EE7UJZ,2016,colgate,Business and Management
+doi:10.7910/DVN/6M4LFJ,2016,FPA,Social Sciences
+doi:10.7910/DVN/TLBTYD,2018,isq,Social Sciences
+doi:10.7910/DVN/ZKNZRJ,2018,harvard,Social Sciences
+doi:10.7910/DVN/DAC9NX,2017,isq,Social Sciences
+doi:10.7910/DVN/RT5JTV,2017,harvard,Social Sciences
+doi:10.7910/DVN/BANJL7,2017,jop,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/HQKQCQ,2016,jop,Social Sciences
+doi:10.7910/DVN/2VFWT2,2016,harvard,Social Sciences
+doi:10.7910/DVN/UMSSKG,2019,jop,Social Sciences
+doi:10.7910/DVN/LAMWDB,2019,harvard,Social Sciences
+doi:10.7910/DVN/QLKRGD,2019,bpsr,Social Sciences
+doi:10.7910/DVN/L3NT6P,2020,kpeyton,Social Sciences
+doi:10.7910/DVN/3HDSM8,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/MOTRM2,2017,jop,Social Sciences
+doi:10.7910/DVN/HQBRHO,2018,FPA,Social Sciences
+doi:10.7910/DVN/XZJRA2,2020,harvard,Social Sciences
+doi:10.7910/DVN/4U6TQA,2015,harvard,Social Sciences
+doi:10.7910/DVN/4YANG7,2020,harvard,Social Sciences
+doi:10.7910/DVN/96WYRS,2015,jop,Social Sciences
+doi:10.7910/DVN/LNUYXZ,2018,ajps,Social Sciences
+doi:10.7910/DVN/9GFJEA,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/X9V201,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/X093TV,2018,harvard,Social Sciences
+doi:10.7910/DVN/DF4DFH,2017,jop,Social Sciences
+doi:10.7910/DVN/9FWNBM,2017,astrezh,Law;Social Sciences
+doi:10.7910/DVN/0VIYXT,2019,jlc,Law;Social Sciences
+doi:10.7910/DVN/9JLCSY,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/VO7WW5,2016,PSRM,Social Sciences
+doi:10.7910/DVN/8L1SHV,2020,ajps,Social Sciences
+doi:10.7910/DVN/FZHJUM,2018,isq,Social Sciences
+doi:10.7910/DVN/XRJ43D,2017,ajps,Social Sciences
+doi:10.7910/DVN/OZ7YZ1,2016,pan,Social Sciences
+doi:10.7910/DVN/MOTEJH,2016,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/BPSZZS,2018,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/UEFVV5,2016,pierskalla,Social Sciences
+doi:10.7910/DVN/CQXHTH,2018,ajps,Social Sciences
+doi:10.7910/DVN/RZTWFD,2017,cqs,Social Sciences
+doi:10.7910/DVN/K8MWBX,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/F08NDH,2019,ssoroka,Social Sciences
+doi:10.7910/DVN/OB00VG,2015,jop,Social Sciences
+doi:10.7910/DVN/MRIWOI,2019,restat,Social Sciences
+doi:10.7910/DVN/D5VRDE,2019,jop,Social Sciences
+doi:10.7910/DVN/6WY3LI,2018,mmpereira,Social Sciences
+doi:10.7910/DVN/J3DGWA,2018,tylerreny,Social Sciences
+doi:10.7910/DVN/YBCZHI,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/ZJQZH5,2015,klm,Social Sciences
+doi:10.7910/DVN/DZQDQO,2017,isq,Social Sciences
+doi:10.7910/DVN/SRPTCV,2017,ajps,Social Sciences
+doi:10.7910/DVN/9IKGYY,2018,ajps,Social Sciences
+doi:10.7910/DVN/YUI2BC,2019,restat,Social Sciences
+doi:10.7910/DVN/UN3KML,2020,the_review,Social Sciences
+doi:10.7910/DVN/ZUE1BI,2017,jop,Social Sciences
+doi:10.7910/DVN/TVGIJJ,2020,worldfish,Medicine; Health and Life Sciences
+doi:10.7910/DVN/L7IT9L,2019,harvard,Social Sciences
+doi:10.7910/DVN/RQZ3HJ,2020,harvard,Social Sciences
+doi:10.7910/DVN/PQUUEF,2017,monogan,Social Sciences
+doi:10.7910/DVN/0MXT0H,2020,ajps,Social Sciences
+doi:10.7910/DVN/NNNPOU,2019,the_review,Social Sciences
+doi:10.7910/DVN/SEXLPX,2017,jop,Social Sciences
+doi:10.7910/DVN/EKNEIH,2017,jop,Social Sciences
+doi:10.7910/DVN/II7FGU,2017,chanret,Law;Social Sciences
+doi:10.7910/DVN/BHLMVC,2020,hamelbrian,Social Sciences
+doi:10.7910/DVN/FRGHVR,2020,polbehavior,Social Sciences
+doi:10.7910/DVN/WSJX0X,2016,jop,Social Sciences
+doi:10.7910/DVN/YAWIJB,2018,joshualjackson,Social Sciences
+doi:10.7910/DVN/FXRIOS,2015,jop,Social Sciences
+doi:10.7910/DVN/OE6TS2,2019,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/PEKMYL,2017,economics,Social Sciences
+doi:10.7910/DVN/MUJHGR,2016,leeper,Social Sciences
+doi:10.7910/DVN/BJX91O,2019,internationalinteractions,Social Sciences
+doi:10.7910/DVN/HHWL1K,2017,harvard,Social Sciences
+doi:10.7910/DVN/S9G9XS,2017,pan,Social Sciences
+doi:10.7910/DVN/Q2MHDM,2018,jop,Social Sciences
+doi:10.7910/DVN/TTKJJ9,2019,harvard,Social Sciences
+doi:10.7910/DVN/SE2CIX,2019,BARI,Social Sciences
+doi:10.7910/DVN/GCBZXY,2016,zsqac,Social Sciences
+doi:10.7910/DVN/GY8PXP,2020,sliao,Social Sciences
+doi:10.7910/DVN/OJESO0,2020,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/0DE35E,2018,xps,Social Sciences
+doi:10.7910/DVN/NDJY0J,2019,harvard,Social Sciences
+doi:10.7910/DVN/CAEEG7,2016,jop,Social Sciences
+doi:10.7910/DVN/BSIFTF,2019,xps,Social Sciences
+doi:10.7910/DVN/CFT901,2016,jop,Social Sciences
+doi:10.7910/DVN/LDRTZI,2017,jop,Social Sciences
+doi:10.7910/DVN/JGU9X5,2019,PSRM,Social Sciences
+doi:10.7910/DVN/98FIZD,2020,IOJ,Social Sciences
+doi:10.7910/DVN/EPBPMJ,2020,harvard,Social Sciences
+doi:10.7910/DVN/HWLW0J,2019,ajps,Social Sciences
+doi:10.7910/DVN/DBSEQC,2016,harvard,Social Sciences
+doi:10.7910/DVN/P0AEHQ,2015,stephenpettigrew,Other;Social Sciences
+doi:10.7910/DVN/TPW36W,2016,jop,Social Sciences
+doi:10.7910/DVN/KFIKH8,2016,DJHOPKINS,Social Sciences
+doi:10.7910/DVN/RZHL3X,2017,seconlab,Computer and Information Science
+doi:10.7910/DVN/XBFBBJ,2019,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/QOEBOC,2018,harvard,Social Sciences
+doi:10.7910/DVN/V2HIVR,2015,jop,Social Sciences
+doi:10.7910/DVN/PUIJIU,2019,the_review,Social Sciences
+doi:10.7910/DVN/FAU3VR,2017,miwahirofumi,Social Sciences
+doi:10.7910/DVN/YZRJWD,2019,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/JTO5PG,2019,MPOdatabase,Other
+doi:10.7910/DVN/25641,2017,tomlouwerse,Social Sciences
+doi:10.7910/DVN/W9DGRR,2019,pan,Social Sciences
+doi:10.7910/DVN/VTF26G,2020,harvard,Social Sciences
+doi:10.7910/DVN/XTIHGR,2018,jop,Social Sciences
+doi:10.7910/DVN/CC2AU2,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/1WDVZB,2018,perspectives,Social Sciences
+doi:10.7910/DVN/WG8VCK,2019,jop,Social Sciences
+doi:10.7910/DVN/1Q2Z92,2018,PSRM,Social Sciences
+doi:10.7910/DVN/BRJAPZ,2019,pdsl,Social Sciences
+doi:10.7910/DVN/0DLNBL,2018,jop,Social Sciences
+doi:10.7910/DVN/GAASQW,2018,harvard,Social Sciences
+doi:10.7910/DVN/KKS1R0,2016,jop,Social Sciences
+doi:10.7910/DVN/SBOMZD,2018,ajps,Social Sciences
+doi:10.7910/DVN/YPBBA1,2017,harvard,Medicine; Health and Life Sciences
+doi:10.7910/DVN/PL6RHK,2019,harvard,Social Sciences
+doi:10.7910/DVN/TIIHB8,2019,PSRM,Social Sciences
+doi:10.7910/DVN/AOTVAU,2018,the_review,Social Sciences
+doi:10.7910/DVN/QPRZD4,2020,xps,Social Sciences
+doi:10.7910/DVN/L2JYUS,2020,jhomola,Social Sciences
+doi:10.7910/DVN/KJ6X76,2018,jop,Social Sciences
+doi:10.7910/DVN/V7TQOZ,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/2XSNPC,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/C1GTRV,2018,world-politics,Social Sciences
+doi:10.7910/DVN/4WNGEJ,2018,alexandercoppock,Social Sciences
+doi:10.7910/DVN/BH6SVA,2019,impact_eval,Medicine; Health and Life Sciences
+doi:10.7910/DVN/UUPZ6Z,2019,restat,Social Sciences
+doi:10.7910/DVN/PLVYXH,2018,monogan,Social Sciences
+doi:10.7910/DVN/29080,2015,ajps,Social Sciences
+doi:10.7910/DVN/KG3XNC,2019,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/ZIWLCJ,2016,BJPolS,Social Sciences
+doi:10.7910/DVN/XG6QQX,2019,jop,Social Sciences
+doi:10.7910/DVN/Y3VPIG,2016,nilsw,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/QRWFKX,2016,harvard,Social Sciences
+doi:10.7910/DVN/BB6IFG,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/8QLBSA,2015,harvard,Social Sciences
+doi:10.7910/DVN/0XDYNK,2019,govdept,Social Sciences
+doi:10.7910/DVN/LGDIZD,2016,jop,Social Sciences
+doi:10.7910/DVN/MNQ1IU,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/6RMWBD,2016,southkoreamediaslant,Social Sciences
+doi:10.7910/DVN/5KL1NQ,2019,transmissionlinebiodiversity,Earth and Environmental Sciences
+doi:10.7910/DVN/DF9UXB,2019,PSRM,Social Sciences
+doi:10.7910/DVN/434DSB,2020,harvard,Social Sciences
+doi:10.7910/DVN/NWFACJ,2010,nilsw,Social Sciences
+doi:10.7910/DVN/FYQWMS,2020,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/UBQYXT,2019,polbehavior,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/RTJ38N,2016,jop,Social Sciences
+doi:10.7910/DVN/4TEDMI,2019,stevenmvanhauwaert,Social Sciences
+doi:10.7910/DVN/LKFOMW,2019,researchandpolitics,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/IDJAWT,2020,harvard,Social Sciences
+doi:10.7910/DVN/JV2PQS,2015,smazumder,Social Sciences
+doi:10.7910/DVN/SQ5WBN,2015,smazumder,Social Sciences
+doi:10.7910/DVN/NSTBR7,2020,monogan,Social Sciences
+doi:10.7910/DVN/PQ7NZD,2019,mpvink,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/X5FLRX,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/BTKZEQ,2015,jkarreth,Social Sciences
+doi:10.7910/DVN/PT2IB9,2015,mpvink,Arts and Humanities;Law;Social Sciences
+doi:10.7910/DVN/I57L3O,2019,martinhuber,Social Sciences
+doi:10.7910/DVN/PLEZWE,2016,harvard,Social Sciences
+doi:10.7910/DVN/BPQ4F4,2019,govdept,Social Sciences
+doi:10.7910/DVN/B1HHGV,2019,the_review,Social Sciences
+doi:10.7910/DVN/IEX6BE,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/24122,2018,Schoonvelde,Social Sciences
+doi:10.7910/DVN/VX6QVB,2019,harvard,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/JIYDQT,2018,restat,Social Sciences
+doi:10.7910/DVN/HYOWFW,2017,Rodrigues-Silveira,Social Sciences
+doi:10.7910/DVN/Q0OHLV,2019,harvard,Social Sciences
+doi:10.7910/DVN/XNMFRU,2018,harvard,Social Sciences
+doi:10.7910/DVN/JWTBUG,2020,harvard,Social Sciences
+doi:10.7910/DVN/OSSY4B,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/AJ7Q9B,2020,harvard,Social Sciences
+doi:10.7910/DVN/22O4DB,2017,researchandpolitics,Social Sciences
+doi:10.7910/DVN/GDZTK8,2018,jop,Social Sciences
+doi:10.7910/DVN/AYYRE5,2018,harvard,Social Sciences
+doi:10.7910/DVN/15YF0R,2018,mbuntaine,Social Sciences
+doi:10.7910/DVN/NS5W59,2016,monogan,Social Sciences
+doi:10.7910/DVN/HJSQNL,2019,jop,Social Sciences
+doi:10.7910/DVN/LLHLEW,2020,kpeyton,Social Sciences
+doi:10.7910/DVN/CSNTTG,2017,jop,Social Sciences
+doi:10.7910/DVN/27864,2016,PSRM,Social Sciences
+doi:10.7910/DVN/ZKGJAV,2019,govdept,Social Sciences
+doi:10.7910/DVN/VNXEM6,2019,mattblackwell,Social Sciences
+doi:10.7910/DVN/QJ4MK0,2019,perspectives,Social Sciences
+doi:10.7910/DVN/ERMN4H,2020,harvard,Social Sciences
+doi:10.7910/DVN/KG1DEC,2017,samharper,Law;Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/8JW4Q7,2018,jop,Social Sciences
+doi:10.7910/DVN/ZUH3UG,2019,ajps,Social Sciences
+doi:10.7910/DVN/MZIKCS,2018,jop,Social Sciences
+doi:10.7910/DVN/3BSCKY,2017,PSRM,Social Sciences
+doi:10.7910/DVN/TAXCB3,2015,harvard,Social Sciences
+doi:10.7910/DVN/8SR1GY,2017,the_review,Social Sciences
+doi:10.7910/DVN/LTGH26,2019,JJPS,Social Sciences
+doi:10.7910/DVN/S9VBBL,2019,isq,Social Sciences
+doi:10.7910/DVN/UJE5AS,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/DO43V5,2018,the_review,Social Sciences
+doi:10.7910/DVN/FZI6NO,2016,ajps,Social Sciences
+doi:10.7910/DVN/NUGAJB,2019,govdept,Social Sciences
+doi:10.7910/DVN/84NYFE,2020,JAERE,Social Sciences
+doi:10.7910/DVN/HER2YX,2018,tylerreny,Social Sciences
+doi:10.7910/DVN/2HCGWN,2018,PSRM,Social Sciences
+doi:10.7910/DVN/S3K4RH,2019,IOJ,Social Sciences
+doi:10.7910/DVN/QE6ERU,2019,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/NPQF5G,2017,harvard,Law;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/GYIS2O,2019,govdept,Law;Social Sciences
+doi:10.7910/DVN/ELZZ8V,2019,sfm,Social Sciences
+doi:10.7910/DVN/8EHQWP,2019,IOJ,Social Sciences
+doi:10.7910/DVN/WN3EDC,2015,jhkirkland,Social Sciences
+doi:10.7910/DVN/P3HJGS,2018,harvard,Social Sciences
+doi:10.7910/DVN/8XPBSA,2016,jop,Social Sciences
+doi:10.7910/DVN/7MN7OD,2020,harvard,Social Sciences
+doi:10.7910/DVN/DI5O9H,2020,harvard,Social Sciences
+doi:10.7910/DVN/BGPIWF,2018,PSRM,Social Sciences
+doi:10.7910/DVN/0E9KON,2016,jop,Social Sciences
+doi:10.7910/DVN/Q5PV4U,2020,ajps,Social Sciences
+doi:10.7910/DVN/DE0OVP,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/SYYMJ0,2019,ajps,Social Sciences
+doi:10.7910/DVN/3YK0HL,2018,isq,Social Sciences
+doi:10.7910/DVN/VHNONI,2018,jop,Social Sciences
+doi:10.7910/DVN/LVGYYW,2018,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/VELJKG,2019,qje,Social Sciences
+doi:10.7910/DVN/CC8VFT,2018,perspectives,Social Sciences
+doi:10.7910/DVN/INR9AQ,2018,PSRM,Social Sciences
+doi:10.7910/DVN/1JNPUA,2018,restat,Social Sciences
+doi:10.7910/DVN/GUAFU0,2020,kpeyton,Medicine; Health and Life Sciences
+doi:10.7910/DVN/J7WNTM,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/PJTOCG,2018,harvard,Social Sciences
+doi:10.7910/DVN/HJZSIM,2019,zucco,Social Sciences
+doi:10.7910/DVN/NHKKE2,2020,harvard,Social Sciences
+doi:10.7910/DVN/3DPSFR,2017,harvard,Social Sciences
+doi:10.7910/DVN/4VAHBW,2017,zhukov,Social Sciences
+doi:10.7910/DVN/FR4HOU,2019,lsq,Social Sciences
+doi:10.7910/DVN/XYUWYJ,2018,ajps,Social Sciences
+doi:10.7910/DVN/MPQQC0,2017,ajps,Social Sciences
+doi:10.7910/DVN/KJVJUW,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/MSTR3F,2016,jop,Social Sciences
+doi:10.7910/DVN/5KM8VO,2018,xps,Social Sciences
+doi:10.7910/DVN/KH9N7W,2020,ajps,Social Sciences
+doi:10.7910/DVN/0UDCQC,2016,heireport_casestudy2,Earth and Environmental Sciences;Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/Z1REHB,2019,harvard,Social Sciences
+doi:10.7910/DVN/EMLHCT,2017,isq,Social Sciences
+doi:10.7910/DVN/JL9UUK,2017,chanret,Law;Social Sciences
+doi:10.7910/DVN/MLH2FY,2017,jop,Social Sciences
+doi:10.7910/DVN/WP7ETR,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/TX160A,2016,FPA,Social Sciences
+doi:10.7910/DVN/SSEN5A,2019,ajps,Social Sciences
+doi:10.7910/DVN/SVAONZ,2019,pan,Social Sciences
+doi:10.7910/DVN/92GMLB,2016,pan,Social Sciences
+doi:10.7910/DVN/SCFL3L,2019,harvard,Social Sciences
+doi:10.7910/DVN/BEQRZC,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/MUPGQM,2019,PSRM,Social Sciences
+doi:10.7910/DVN/YDGVJ4,2020,harvard,Social Sciences
+doi:10.7910/DVN/CUBQSN,2017,mattblackwell,Social Sciences
+doi:10.7910/DVN/RPHJBO,2016,harvard,Social Sciences
+doi:10.7910/DVN/PG5FA9,2015,Gehlbach,Social Sciences
+doi:10.7910/DVN/FQEMZU,2018,economics,Social Sciences
+doi:10.7910/DVN/EY2I6M,2017,the_review,Social Sciences
+doi:10.7910/DVN/CEJSVJ,2017,jop,Social Sciences
+doi:10.7910/DVN/ZQEEHO,2019,yioryos-nardis,Social Sciences
+doi:10.7910/DVN/7ROIBN,2018,seconlab,Computer and Information Science
+doi:10.7910/DVN/IKDTPZ,2019,harvard,Social Sciences
+doi:10.7910/DVN/O3ETO9,2019,galdinont,Social Sciences
+doi:10.7910/DVN/MUYFH1,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/IJEWYV,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/ADIFOV,2020,pan,Social Sciences
+doi:10.7910/DVN/8N79E6,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/LP1F7C,2018,isq,Social Sciences
+doi:10.7910/DVN/3RF1X0,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/D6HU1J,2016,pan,Social Sciences
+doi:10.7910/DVN/NEAG2L,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/OABGY2,2019,harvard,Social Sciences
+doi:10.7910/DVN/HJ10XP,2019,harvard,Social Sciences
+doi:10.7910/DVN/NZQIWM,2015,fsolt,Social Sciences
+doi:10.7910/DVN/1SBYFJ,2018,PSRM,Social Sciences
+doi:10.7910/DVN/KGHEU4,2018,jop,Social Sciences
+doi:10.7910/DVN/O1DKBV,2018,harvard,Social Sciences
+doi:10.7910/DVN/E0LSH2,2019,harvard,Arts and Humanities;Computer and Information Science;Law;Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/WONDKB,2017,LeeHannah,Social Sciences
+doi:10.7910/DVN/LNPAOC,2017,jop,Social Sciences
+doi:10.7910/DVN/6PJDLG,2018,highplainsdrought,Earth and Environmental Sciences
+doi:10.7910/DVN/C6QTF2,2017,harvard,Social Sciences
+doi:10.7910/DVN/QOL1UK,2019,borbademiranda,Social Sciences
+doi:10.7910/DVN/EDGRDC,2016,jop,Social Sciences
+doi:10.7910/DVN/CFTMK2,2019,the_review,Social Sciences
+doi:10.7910/DVN/OCI9KN,2018,montag,Law;Social Sciences
+doi:10.7910/DVN/LBRAFG,2019,dalstonward,Social Sciences
+doi:10.7910/DVN/K6PRPG,2018,PSRM,Social Sciences
+doi:10.7910/DVN/BT7OZQ,2017,PSRM,Social Sciences
+doi:10.7910/DVN/J4MKWF,2019,kbanda,Social Sciences
+doi:10.7910/DVN/COZDRV,2016,ktmccabetmccabemkt,Social Sciences
+doi:10.7910/DVN/EZSJ1S,2018,ajps,Social Sciences
+doi:10.7910/DVN/THXYMC,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/3IWTGB,2018,pan,Social Sciences
+doi:10.7910/DVN/ZFQMCP,2018,jop,Social Sciences
+doi:10.7910/DVN/JXGZKX,2019,IOJ,Social Sciences
+doi:10.7910/DVN/Z7H44N,2017,PSRM,Social Sciences
+doi:10.7910/DVN/YIEAF1,2019,PSRM,Social Sciences
+doi:10.7910/DVN/RTJ02G,2019,perspectives,Social Sciences
+doi:10.7910/DVN/SREUHV,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/MYF97D,2020,the_review,Social Sciences
+doi:10.7910/DVN/UFZTYU,2019,jop,Social Sciences
+doi:10.7910/DVN/CPVIOF,2019,ajps,Social Sciences
+doi:10.7910/DVN/ONSPYO,2018,lsq,Social Sciences
+doi:10.7910/DVN/5UZF0X,2018,economics,Social Sciences
+doi:10.7910/DVN/BCQM3Y,2016,pan,Social Sciences
+doi:10.7910/DVN/FAB3FE,2016,BJPolS,Social Sciences
+doi:10.7910/DVN/S1IJEG,2016,bk,Social Sciences
+doi:10.7910/DVN/BPON3K,2017,ajps,Social Sciences
+doi:10.7910/DVN/UODSVV,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/QTBTB1,2020,researchandpolitics,Social Sciences
+doi:10.7910/DVN/RWIHSL,2019,harvard,Social Sciences
+doi:10.7910/DVN/LUOZJL,2019,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/1ANAKP,2020,monogan,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/JPE2BY,2019,replication_studies,Medicine; Health and Life Sciences
+doi:10.7910/DVN/Q02JJQ,2019,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/G4SZXG,2016,FPA,Social Sciences
+doi:10.7910/DVN/9M6EHS,2020,harvard,Agricultural Sciences;Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/FEP8O2,2016,jop,Social Sciences
+doi:10.7910/DVN/U8NMJZ,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/SVY5VF,2016,pan,Social Sciences
+doi:10.7910/DVN/IUG9LC,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/5QA9YS,2017,CJFariss,Social Sciences
+doi:10.7910/DVN/GOGH2L,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/PIV1KX,2019,pan,Social Sciences
+doi:10.7910/DVN/0XEUCP,2017,jop,Social Sciences
+doi:10.7910/DVN/BNAEDJ,2016,harvard,Social Sciences
+doi:10.7910/DVN/PLXNE3,2020,harvard,Social Sciences
+doi:10.7910/DVN/MCV1LU,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/YM7IWP,2016,fbailo,Social Sciences
+doi:10.7910/DVN/XRBKEY,2019,trabalho_davi,Social Sciences
+doi:10.7910/DVN/W2YELC,2019,harvard,Social Sciences
+doi:10.7910/DVN/SKGWTS,2017,pan,Social Sciences
+doi:10.7910/DVN/VNZWPQ,2016,heireport_casestudy2,Earth and Environmental Sciences;Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/PC6CQC,2019,PSRM,Social Sciences
+doi:10.7910/DVN/SLPNTI,2019,harvard,Social Sciences
+doi:10.7910/DVN/WQRZHS,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/BBVSBU,2018,ipsr-risp,Social Sciences
+doi:10.7910/DVN/Q90FOB,2020,Braumoeller,Social Sciences
+doi:10.7910/DVN/RFECVH,2019,ajps,Social Sciences
+doi:10.7910/DVN/JJB3QT,2019,tboas,Social Sciences
+doi:10.7910/DVN/YLW1AZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/CGH7BR,2015,jtchatagnier,Social Sciences
+doi:10.7910/DVN/NDJFNZ,2018,vec,Medicine; Health and Life Sciences
+doi:10.7910/DVN/Q8CSU8,2016,ajps,Social Sciences
+doi:10.7910/DVN/RJAUNW,2016,ajps,Social Sciences
+doi:10.7910/DVN/SIUWVJ,2018,gov2001,Social Sciences
+doi:10.7910/DVN/IM4UE3,2018,isq,Social Sciences
+doi:10.7910/DVN/3ZLC8E,2016,HistPat,Social Sciences
+doi:10.7910/DVN/BKN5EJ,2020,harvard,Social Sciences
+doi:10.7910/DVN/XONPX2,2018,jop,Social Sciences
+doi:10.7910/DVN/LG2RLS,2020,jhr,Social Sciences
+doi:10.7910/DVN/8E1IIM,2019,xps,Social Sciences
+doi:10.7910/DVN/9QUMY3,2020,ajps,Social Sciences
+doi:10.7910/DVN/RXDTTS,2017,isq,Social Sciences
+doi:10.7910/DVN/AGRX5U,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/JPYYLA,2019,monogan,Social Sciences
+doi:10.7910/DVN/G3WF1H,2016,internationalinteractions,Social Sciences
+doi:10.7910/DVN/QUGW8V,2020,culturalanalytics,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/SDGTMU,2018,PSRM,Social Sciences
+doi:10.7910/DVN/CLOTQP,2019,lsq,Social Sciences
+doi:10.7910/DVN/INCJ3I,2020,harvard,Social Sciences
+doi:10.7910/DVN/SIGIAU,2018,bstewart,Social Sciences
+doi:10.7910/DVN/0FXKKX,2019,harvard,Social Sciences
+doi:10.7910/DVN/CSX1VL,2019,PSRM,Social Sciences
+doi:10.7910/DVN/B075NQ,2017,harvard,Social Sciences
+doi:10.7910/DVN/3YCVOF,2016,BJPolS,Social Sciences
+doi:10.7910/DVN/PFSCIY,2019,perspectives,Social Sciences
+doi:10.7910/DVN/UVTZZV,2018,internationalinteractions,Social Sciences
+doi:10.7910/DVN/7K3RJC,2019,patrickbayer,Social Sciences
+doi:10.7910/DVN/ZBTIIK,2017,harvard,Social Sciences
+doi:10.7910/DVN/GTSXC1,2016,pan,Social Sciences
+doi:10.7910/DVN/QYUBN2,2018,bittleston,Medicine; Health and Life Sciences
+doi:10.7910/DVN/NZJXDB,2017,harvard,Social Sciences
+doi:10.7910/DVN/CDFEGV,2017,jop,Social Sciences
+doi:10.7910/DVN/CV9AYE,2017,jop,Social Sciences
+doi:10.7910/DVN/YIVU1L,2015,harvard,Social Sciences
+doi:10.7910/DVN/BZ5BLZ,2016,PSRM,Social Sciences
+doi:10.7910/DVN/HTMX3K,2020,ajps,Mathematical Sciences;Social Sciences
+doi:10.7910/DVN/W2CXVU,2019,harvard,Social Sciences
+doi:10.7910/DVN/JM0QLY,2020,harvard,Agricultural Sciences
+doi:10.7910/DVN/X1TGCJ,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/2JCJLX,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/DQCFUN,2019,jop,Social Sciences
+doi:10.7910/DVN/GITJQ4,2017,cycdennis,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/ZQBVJ0,2020,harvard,Social Sciences
+doi:10.7910/DVN/2E2M9Z,2018,ajps,Business and Management;Social Sciences
+doi:10.7910/DVN/DIIQF7,2016,polbehavior,Social Sciences
+doi:10.7910/DVN/XZEI7M,2019,harvard,Social Sciences
+doi:10.7910/DVN/AE5BPK,2017,jop,Social Sciences
+doi:10.7910/DVN/SUS2KV,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/3Q79C3,2019,NickDietrich,Social Sciences
+doi:10.7910/DVN/CRLKIF,2016,pan,Social Sciences
+doi:10.7910/DVN/2XP8YF,2016,ajps,Social Sciences
+doi:10.7910/DVN/DH1IUI,2015,pan,Social Sciences
+doi:10.7910/DVN/TPGPCR,2018,the_review,Social Sciences
+doi:10.7910/DVN/DOHYPR,2018,tylerreny,Social Sciences
+doi:10.7910/DVN/WCTILJ,2020,harvard,Business and Management;Social Sciences
+doi:10.7910/DVN/MUDDIH,2019,PSRM,Social Sciences
+doi:10.7910/DVN/OZEQ77,2019,PSRM,Social Sciences
+doi:10.7910/DVN/MP1NSJ,2017,jop,Social Sciences
+doi:10.7910/DVN/M5QYVV,2017,governator,Social Sciences
+doi:10.7910/DVN/VXCUOU,2016,PSRM,Social Sciences
+doi:10.7910/DVN/VTUSLV,2018,the_review,Social Sciences
+doi:10.7910/DVN/FB0R8A,2016,matanock,Social Sciences
+doi:10.7910/DVN/OMJYE5,2016,pan,Social Sciences
+doi:10.7910/DVN/SZODIL,2018,harvard,Social Sciences
+doi:10.7910/DVN/UT25HQ,2020,jop,Social Sciences
+doi:10.7910/DVN/DXDQV3,2017,pan,Social Sciences
+doi:10.7910/DVN/EEFBL5,2018,fbailo,Social Sciences
+doi:10.7910/DVN/U42CYV,2016,bk,Social Sciences
+doi:10.7910/DVN/4FEJZ3,2017,brmr,Social Sciences
+doi:10.7910/DVN/XQ9RJT,2018,jop,Social Sciences
+doi:10.7910/DVN/KSSFDI,2020,harvard,Social Sciences
+doi:10.7910/DVN/WCXK3Z,2015,smapp,Social Sciences
+doi:10.7910/DVN/XC4E1I,2019,world-politics,Social Sciences
+doi:10.7910/DVN/NGGAQ5,2019,txtlab,Arts and Humanities
+doi:10.7910/DVN/7LUZS5,2016,zsqac,Social Sciences
+doi:10.7910/DVN/HNFYY0,2017,harvard,Social Sciences
+doi:10.7910/DVN/RFRIEV,2019,harvard,Social Sciences
+doi:10.7910/DVN/5DYMJL,2018,harvard,Social Sciences
+doi:10.7910/DVN/SK8AGA,2015,jop,Social Sciences
+doi:10.7910/DVN/GOB7NW,2019,JAERE,Social Sciences
+doi:10.7910/DVN/WT4I9N,2015,harvard,Social Sciences
+doi:10.7910/DVN/52UGJT,2017,pan,Social Sciences
+doi:10.7910/DVN/C8AMXR,2018,harvard,Social Sciences
+doi:10.7910/DVN/X5C2T4,2019,harvard,Social Sciences
+doi:10.7910/DVN/J6SEGJ,2019,perspectives,Social Sciences
+doi:10.7910/DVN/L2OZPI,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/XVCKRS,2020,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/8R3LTP,2018,ajps,Social Sciences
+doi:10.7910/DVN/KD4MXV,2015,pan,Social Sciences
+doi:10.7910/DVN/2FM7Z3,2018,jlc,Social Sciences
+doi:10.7910/DVN/KERZQY,2018,txtlab,Arts and Humanities;Computer and Information Science
+doi:10.7910/DVN/GZH5L9,2020,harvard,Social Sciences
+doi:10.7910/DVN/W1YJZQ,2015,ajps,Social Sciences
+doi:10.7910/DVN/VWDGHT,2019,qje,Social Sciences
+doi:10.7910/DVN/VEZQVS,2016,beber,Social Sciences
+doi:10.7910/DVN/G9NOQO,2016,bullock,Social Sciences
+doi:10.7910/DVN/F32IWX,2018,harvard,Law;Social Sciences
+doi:10.7910/DVN/U23L09,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/I8YHPT,2018,tpmnewsletter,Social Sciences
+doi:10.7910/DVN/2PNZNU,2018,Schoonvelde,Social Sciences
+doi:10.7910/DVN/CECD9V,2018,lorenabarberia,Social Sciences
+doi:10.7910/DVN/3QNR8Q,2018,jop,Social Sciences
+doi:10.7910/DVN/YTZZIT,2018,xps,Social Sciences
+doi:10.7910/DVN/JIEWR3,2016,pan,Social Sciences
+doi:10.7910/DVN/RRBQAU,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/EMK9FB,2018,isq,Social Sciences
+doi:10.7910/DVN/N2I9LC,2015,pan,Social Sciences
+doi:10.7910/DVN/MRBUP1,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/Z02C8Y,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/REUOXC,2018,qje,Social Sciences
+doi:10.7910/DVN/PAO1LI,2016,matthewjdenny,Social Sciences
+doi:10.7910/DVN/VSVBTP,2019,ajps,Social Sciences
+doi:10.7910/DVN/LAUVGR,2018,harvard,Social Sciences
+doi:10.7910/DVN/9Q5DFZ,2020,harvard,Social Sciences
+doi:10.7910/DVN/IGLWYD,2018,isq,Social Sciences
+doi:10.7910/DVN/HKURUI,2016,jop,Social Sciences
+doi:10.7910/DVN/EVM78E,2018,LPGCleanCook_JEPO,Social Sciences
+doi:10.7910/DVN/1MGPNZ,2018,harvard,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/5YB7KD,2016,heireport_pm10,Earth and Environmental Sciences;Mathematical Sciences;Medicine; Health and Life Sciences
+doi:10.7910/DVN/RGK5E1,2018,harvard,Computer and Information Science;Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/37ZBCF,2018,restat,Social Sciences
+doi:10.7910/DVN/OBDQ3H,2017,PSRM,Social Sciences
+doi:10.7910/DVN/CRLCQG,2020,harvard,Business and Management
+doi:10.7910/DVN/OJVSY9,2019,harvard,Social Sciences
+doi:10.7910/DVN/KPCLFQ,2019,jop,Social Sciences
+doi:10.7910/DVN/AGTZ36,2016,ipsr-risp,Arts and Humanities
+doi:10.7910/DVN/TOJ1UH,2019,harvard,Arts and Humanities;Social Sciences
+doi:10.7910/DVN/HVKKHL,2020,harvard,Social Sciences
+doi:10.7910/DVN/9OP7YH,2019,harvard,Social Sciences
+doi:10.7910/DVN/K3QWZW,2018,the_review,Social Sciences
+doi:10.7910/DVN/4O4R79,2017,isq,Social Sciences
+doi:10.7910/DVN/SWUYZR,2018,jslapin,Social Sciences
+doi:10.7910/DVN/0W3VCA,2019,replication_studies,Social Sciences
+doi:10.7910/DVN/GJIBCB,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/GYNPF8,2019,harvard,Earth and Environmental Sciences;Social Sciences
+doi:10.7910/DVN/6Q0UJO,2015,jkarreth,Social Sciences
+doi:10.7910/DVN/A48JP7,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/WVVJFZ,2019,lsq,Social Sciences
+doi:10.7910/DVN/2HSIZ1,2019,harvard,Social Sciences
+doi:10.7910/DVN/OYI55F,2017,isq,Social Sciences
+doi:10.7910/DVN/KGVBNC,2018,the_review,Social Sciences
+doi:10.7910/DVN/FPG4S1,2016,monogan,Social Sciences
+doi:10.7910/DVN/7190MT,2018,ajps,Social Sciences
+doi:10.7910/DVN/JJJXLV,2016,harvard,Social Sciences
+doi:10.7910/DVN/RDQZUM,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/FIL6J1,2019,jop,Social Sciences
+doi:10.7910/DVN/PLLBQJ,2016,ajps,Social Sciences
+doi:10.7910/DVN/KVHEKR,2020,harvard,Social Sciences
+doi:10.7910/DVN/ATHARK,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/W9FU5T,2018,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/CKCTJS,2015,bk,Social Sciences
+doi:10.7910/DVN/MTBJ3S,2020,harvard,Social Sciences
+doi:10.7910/DVN/S17DDJ,2018,BJPolS,Social Sciences
+doi:10.7910/DVN/GB0OA1,2019,ad-anacarolina-costa,Social Sciences
+doi:10.7910/DVN/W8AAYK,2018,isq,Social Sciences
+doi:10.7910/DVN/XGQ2ZA,2018,alexandercoppock,Social Sciences
+doi:10.7910/DVN/WM3X3D,2017,pan,Social Sciences
+doi:10.7910/DVN/1GHCOT,2016,harvard,Social Sciences
+doi:10.7910/DVN/YCXXCW,2018,kenya_mwananchi,Social Sciences
+doi:10.7910/DVN/J0VEYF,2017,facebook,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/0DOFEF,2016,tvinner,Social Sciences
+doi:10.7910/DVN/TRR0DK,2020,polbehavior,Social Sciences
+doi:10.7910/DVN/UAQZRO,2018,tylerreny,Social Sciences
+doi:10.7910/DVN/7SXKSF,2016,leeper,Social Sciences
+doi:10.7910/DVN/PHHZI7,2017,harvard,Social Sciences
+doi:10.7910/DVN/C4QGBT,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/OUAYYH,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/OOIEAO,2018,ajps,Social Sciences
+doi:10.7910/DVN/ON3RET,2019,harvard,Social Sciences
+doi:10.7910/DVN/N52H3M,2016,harvard,Law;Social Sciences
+doi:10.7910/DVN/GOSVG6,2019,harvard,Social Sciences
+doi:10.7910/DVN/BPU1XG,2018,pan,Social Sciences
+doi:10.7910/DVN/PDPQFB,2020,BJPolS,Social Sciences
+doi:10.7910/DVN/WSUHI3,2017,polbehavior,Social Sciences
+doi:10.7910/DVN/KG2APR,2019,ajps,Social Sciences
+doi:10.7910/DVN/Y1EUAY,2018,jop,Social Sciences
+doi:10.7910/DVN/GJIRV0,2018,the_review,Social Sciences
+doi:10.7910/DVN/VCFMBI,2020,harvard,Social Sciences
+doi:10.7910/DVN/CL183T,2019,harvard,Social Sciences
+doi:10.7910/DVN/VC4EXB,2020,jpan,Social Sciences
+doi:10.7910/DVN/XYYAQC,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/DVMT2R,2018,isq,Social Sciences
+doi:10.7910/DVN/JXXNDO,2019,economics,Social Sciences
+doi:10.7910/DVN/KPS1KY,2019,the_review,Social Sciences
+doi:10.7910/DVN/4YU9LJ,2020,harvard,Social Sciences
+doi:10.7910/DVN/FAGL6V,2019,researchandpolitics,Social Sciences
+doi:10.7910/DVN/WY3QZS,2018,isq,Social Sciences
+doi:10.7910/DVN/L2GSK6,2018,perspectives,Social Sciences
+doi:10.7910/DVN/TTPOJB,2019,isq,Social Sciences
+doi:10.7910/DVN/MUFCFA,2018,gov2001,Social Sciences
+doi:10.7910/DVN/PPW3SI,2017,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/SIPXCZ,2016,researchandpolitics,Social Sciences
+doi:10.7910/DVN/CBE7I0,2017,jhkirkland,Social Sciences
+doi:10.7910/DVN/1QJCDJ,2019,spid,Social Sciences
+doi:10.7910/DVN/SIAOJ2,2018,mmpereira,Social Sciences
+doi:10.7910/DVN/REXZ8H,2020,ajps,Social Sciences
+doi:10.7910/DVN/BM8N4C,2017,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/O0JVDU,2019,jop,Social Sciences
+doi:10.7910/DVN/FV8QQ9,2018,harvard,Social Sciences
+doi:10.7910/DVN/ZQSBNA,2019,harvard,Social Sciences
+doi:10.7910/DVN/AK10AT,2018,jop,Social Sciences
+doi:10.7910/DVN/XMLDSI,2018,harvard,Social Sciences
+doi:10.7910/DVN/DTFR60,2016,ajps,Social Sciences
+doi:10.7910/DVN/P7Z8FH,2017,harvard,Social Sciences
+doi:10.7910/DVN/HOH1F0,2017,jop,Social Sciences
+doi:10.7910/DVN/RT5HRL,2018,isq,Social Sciences
+doi:10.7910/DVN/YTPJ1N,2017,pan,Social Sciences
+doi:10.7910/DVN/XBNJD9,2017,ajps,Social Sciences
+doi:10.7910/DVN/VJLWTZ,2018,PSRM,Social Sciences
+doi:10.7910/DVN/QTUFUW,2020,world-politics,Social Sciences
+doi:10.7910/DVN/KHIMOS,2020,sjuhl,Social Sciences
+doi:10.7910/DVN/SEHMGR,2018,ajps,Social Sciences
+doi:10.7910/DVN/U19R5G,2019,dalstonward,Social Sciences
+doi:10.7910/DVN/FF3DQM,2019,the_review,Law;Social Sciences
+doi:10.7910/DVN/O6PQTW,2019,renatacavalcantiufpe,Social Sciences
+doi:10.7910/DVN/PBLRV6,2020,urban_attitudes_on_environmental_migrants,Social Sciences
+doi:10.7910/DVN/59F366,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/RFYOH6,2019,jop,Social Sciences
+doi:10.7910/DVN/S39TAI,2018,harvard,Social Sciences
+doi:10.7910/DVN/1VDZE9,2019,JPublicPolicy,Social Sciences
+doi:10.7910/DVN/6RCYDU,2015,djmallinson,Social Sciences
+doi:10.7910/DVN/O4BMLG,2017,BJPolS,Social Sciences
+doi:10.7910/DVN/SURSEO,2016,ajps,Social Sciences
+doi:10.7910/DVN/K0OYQF,2019,pan,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/XAQMIA,2018,jop,Social Sciences
+doi:10.7910/DVN/TYD3EC,2016,harvard,Social Sciences
+doi:10.7910/DVN/EEARKA,2019,harvard,Social Sciences
+doi:10.7910/DVN/NJHQ8Y,2018,isq,Social Sciences
+doi:10.7910/DVN/7PAB1N,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/A2EIZC,2016,jop,Social Sciences
+doi:10.7910/DVN/H1CCWM,2019,the_review,Social Sciences
+doi:10.7910/DVN/JLKTEE,2015,mpvink,Arts and Humanities;Law;Social Sciences
+doi:10.7910/DVN/5TZWT2,2015,researchandpolitics,Social Sciences
+doi:10.7910/DVN/TG2AOT,2017,harvard,Social Sciences
+doi:10.7910/DVN/VSVMY7,2019,BJPolS,Social Sciences
+doi:10.7910/DVN/JQWCZH,2019,replication_studies,Computer and Information Science;Social Sciences
+doi:10.7910/DVN/VZSO5S,2018,perspectives,Law;Social Sciences
+doi:10.7910/DVN/FRWBPJ,2016,DJHOPKINS,Social Sciences
+doi:10.7910/DVN/1HPT9N,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/MPLQUI,2019,polbehavior,Social Sciences
+doi:10.7910/DVN/TEFCBL,2019,harvard,Social Sciences
+doi:10.7910/DVN/6AL5YC,2019,harvard,Social Sciences
+doi:10.7910/DVN/4KLEOU,2019,harvard,Social Sciences
+doi:10.7910/DVN/FXKA3J,2016,naijia,Social Sciences
+doi:10.7910/DVN/DFRSKZ,2019,pan,Social Sciences
+doi:10.7910/DVN/8GEYKS,2015,ajps,Social Sciences
+doi:10.7910/DVN/DJKH4H,2018,jop,Social Sciences
+doi:10.7910/DVN/DZ1NFG,2019,ajps,Social Sciences
+doi:10.7910/DVN/FZKUGL,2018,harvard,Social Sciences
+doi:10.7910/DVN/T17S0X,2017,jop,Social Sciences
+doi:10.7910/DVN/RVV3YW,2016,PSRM,Social Sciences
+doi:10.7910/DVN/MO3KOQ,2018,the_review,Social Sciences
+doi:10.7910/DVN/UNIGJT,2017,harvard,Social Sciences
+doi:10.7910/DVN/NEIYVD,2017,the_review,Social Sciences
+doi:10.7910/DVN/TKORD8,2018,polbehavior,Social Sciences
+doi:10.7910/DVN/TXFTKV,2019,jop,Social Sciences
+doi:10.7910/DVN/8W0PXP,2018,LAPS,Computer and Information Science;Law;Social Sciences
+doi:10.7910/DVN/UDGOFR,2020,harvard,Social Sciences
+doi:10.7910/DVN/4KFU8S,2019,jop,Social Sciences
+doi:10.7910/DVN/NQ32VR,2017,PSRM,Social Sciences
+doi:10.7910/DVN/ACUDFD,2016,ir_dataverse,Social Sciences
+doi:10.7910/DVN/M68ULI,2019,harvard,Social Sciences
+doi:10.7910/DVN/K1XN7Q,2017,the_review,Social Sciences
+doi:10.7910/DVN/OAPCH9,2018,jop,Social Sciences
+doi:10.7910/DVN/56L9JP,2018,isq,Social Sciences
+doi:10.7910/DVN/JOO3PP,2019,bgolds,Social Sciences
+doi:10.7910/DVN/VEPHLS,2017,ajps,Social Sciences
+doi:10.7910/DVN/BZ9Z2D,2019,ajps,Social Sciences
+doi:10.7910/DVN/YAPXVG,2018,isq,Social Sciences
+doi:10.7910/DVN/MJF2D5,2018,harvard,Earth and Environmental Sciences
+doi:10.7910/DVN/HPB1CA,2015,ajps,Social Sciences
+doi:10.7910/DVN/AEZKFD,2019,maxgroemping,Social Sciences
+doi:10.7910/DVN/KFVJ4O,2019,gov2001,Medicine; Health and Life Sciences;Other
+doi:10.7910/DVN/GF65E4,2020,bengelsma,Social Sciences
+doi:10.7910/DVN/F8YTX2,2018,monogan,Social Sciences
+doi:10.7910/DVN/HUZGPJ,2019,ajps,Social Sciences
+doi:10.7910/DVN/V7HWP4,2019,PSRM,Social Sciences
+doi:10.7910/DVN/TC1F9R,2020,harvard,Social Sciences
+doi:10.7910/DVN/XPYPMF,2019,retrieval-practice,Medicine; Health and Life Sciences
+doi:10.7910/DVN/61DEUA,2020,phatemi,Medicine; Health and Life Sciences;Social Sciences
+doi:10.7910/DVN/W6P50R,2016,EMCWE,Medicine; Health and Life Sciences
+doi:10.7910/DVN/AMJXCB,2018,jop,Social Sciences
