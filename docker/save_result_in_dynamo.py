@@ -18,9 +18,8 @@ with open('run_log.csv') as csv_file:
         	mydict = {
             		'doi':rows[0],
             		'filename':rows[1],
-            		'run_type':rows[2],
-            		'error':rows[3],
-					'date_time':datetime.now().isoformat()
+            		'error':rows[2],
+			'date_time':datetime.now().isoformat()
         	}
         	items.append(mydict)
 	print(items)

@@ -13,10 +13,13 @@ WORKDIR /usr/workdir
 RUN echo 'alias ll="ls -ls"' >> ~/.bashrc
 RUN echo 'alias vim="vim.tiny"' >> ~/.bashrc
 
-RUN conda create -y --name r_3.2.1 -c r r=3.2.1 r-essentials
+RUN conda create -y --name r_3.2.1 -c conda-forge r=3.2.1 r-essentials
 RUN conda create -y --name r_3.6.0 -c r r=3.6.0 r-essentials
+RUN conda create -y -n r_4.0.1 -c conda-forge r-base=4.0.1 r-essentials
 
-RUN echo "conda activate r_3.6.0" >> ~/.bashrc
+ARG r_ver=r_4.0.1
+RUN echo "conda activate $r_ver" >> ~/.bashrc
+ENV PATH="/opt/conda/envs/$r_ver/bin:${PATH}"
 
 COPY run_analysis.sh .
 RUN ["chmod", "+x", "run_analysis.sh"]
