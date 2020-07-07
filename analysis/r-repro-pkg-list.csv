@@ -1,0 +1,79 @@
+utils::Sweave, lit-prog, render Sweave
+knitr, lit-prog, render markdown and other
+brew, lit-prog, ?
+R.rsp, lit-prog, ?
+lazyWeave, lit-prog, generate latex
+R2HTML, lit-prog, generate html
+R2wd, lit-prog, generate Word doc
+R2PPT, lit-prog, generate powerpoint
+rtf, lit-prog, generate rich text
+Hmisc, object-conv, summary tables/statistics
+NMOF, object-conv, summary tables/statistics
+papeR, object-conv, summary tables/statistics
+quantreg, object-conv, summary tables/statistics
+rapport, object-conv, summary tables/statistics
+reporttools, object-conv, summary tables/statistics
+sparktex, object-conv, summary tables/statistics
+tables, object-conv, summary tables/statistics
+xtable, object-conv, summary tables/statistics
+ztable, object-conv, summary tables/statistics
+Hmisc, object-conv, tables/cross-tabulations
+lazyWeave, object-conv, tables/cross-tabulations
+knitLatex, object-conv, tables/cross-tabulations
+knitr, object-conv, tables/cross-tabulations
+reporttools, object-conv, tables/cross-tabulations
+ztable, object-conv, tables/cross-tabulations
+animation, object-conv, graphics
+Hmisc, object-conv, graphics
+grDevices:::pictex, object-conv, graphics
+sparktex, object-conv, graphics
+tikzDevice, object-conv, graphics
+apsrtable, object-conv, statistical models/methods
+memisc, object-conv, statistical models/methods
+quantreg, object-conv, statistical models/methods
+rms, object-conv, statistical models/methods
+stargazer, object-conv, statistical models/methods
+suRtex, object-conv, statistical models/methods
+texreg, object-conv, statistical models/methods
+xtable, object-conv, statistical models/methods
+ztable, object-conv, statistical models/methods
+bibtex, object-conv, bibtex
+RefManageR, object-conv, bibtex
+latex2exp, object-conv, converts LaTeX equations to plotmath expressions
+Hmisc, object-conv, escape speial characters
+drake, pipeline, 
+repo, pipeline, 
+checkpoint, package management, 
+rbundler, package management, 
+packrat, package management, 
+renv, package management, 
+miniCRAN, package management, 
+cabinets, workflow, 
+here, workflow, 
+prodigenr, workflow, 
+RepoGenerator, workflow, 
+rrtools, workflow, GitHub only
+starters, workflow, GitHub only
+usethis, workflow, 
+adapr, workflow, 
+exreport, workflow, 
+madrat, workflow, 
+makeProject, workflow, 
+orderly, workflow, 
+projects, workflow, 
+ProjectTemplate, workflow, 
+RSuite, workflow, 
+tinyProject, workflow, 
+workflowr, workflow, 
+highlightformatR, formatting, 
+highr, formatting, 
+humanFormat, formatting, data formatting
+lubridate, formatting, data formatting
+prettyunits, formatting, data formatting
+rprintf, formatting, data formatting
+pander, document conversion, pandoc
+R.cache, object caching,
+archivist, object caching,
+storr, object caching,
+knitr, caching supported, 
+weaver, caching supported, sweave
