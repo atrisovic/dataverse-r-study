@@ -14,7 +14,7 @@ def get_list_of_all():
     list_of_all = glob.glob("*")
     study_files = ['run_analysis.sh', 'download_dataset.py', 'set_environment.py', \
             'exec_r_files.R', 'save_result_in_dynamo.py', 'run_log_ds.csv', \
-            'run_log_st.csv', 'run_log_st1.csv']
+            'run_log_st.csv', 'run_log_st1.csv', 'execute_files.py']
     for sf in study_files:
         if sf in list_of_all: list_of_all.remove(sf)
 
@@ -80,6 +80,7 @@ def fix_abs_path_in_readcsv(line):
 def main():
     total_libraries = 0 # count of dependencies
     total_comments = 0 # count of comments
+    list_of_libs = []
 
     for r_file in list_of_r_files:
         libraries_no = 0 # libraries per file
@@ -113,17 +114,23 @@ def main():
                 for match in re.finditer("library", line):
                     print(line.replace(line, parse_dependencies(line[match.start():])))
                 print(line.rstrip())
+
+                list_of_libs.extend(re.findall(r'library\((.*?)\)', line))
                 continue
 
             elif line.strip().startswith("install.packages"):
                 libraries_no += 1
                 print(line.rstrip())
+
+                list_of_libs.extend(re.findall(r'install.packages\((.*?)\)', line))
                 continue
                 
             elif line.strip().startswith("require"):
                 libraries_no += 1
                 print(line.replace(line, parse_dependencies(line)))
                 print(line.rstrip())
+
+                list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
                 continue
 
             temp_line = line.replace(" ", "") # remove white spaces to detect function calls easier
@@ -141,12 +148,13 @@ def main():
                 print(line.replace(line, fix_abs_paths(line, index)))
 
             elif "source(" in temp_line and "/" in line:
-                index = line.find('source')+6
-                rest = line[index:]
-                # find (
-                b = rest.find("(")+1
-                index = index + b
-                print(line.replace(line, fix_abs_paths(line, index)))
+                if "http" not in line:
+                    index = line.find('source')+6
+                    rest = line[index:]
+                    # finding (
+                    b = rest.find("(")+1
+                    index = index + b
+                    print(line.replace(line, fix_abs_paths(line, index)))
 
             elif "read.csv(" in temp_line and "/" in line:
                 print(line.replace(line, fix_abs_path_in_readcsv(line)))
@@ -165,10 +173,16 @@ def main():
                 lines_no, comments_no, libraries_no, func_no, test_no, class_no, encoding, confidence))
 
 
+    list_of_libs = [l.replace('"',"") for l in list_of_libs]
+    list_of_libs = [l.replace(' ',"") for l in list_of_libs]
+    list_of_libs = [l.replace("'","") for l in list_of_libs]
+
+    list_of_libs = set(list_of_libs)
+
     with open('run_log_st.csv','a') as f:
         # number of comments, number of dependencies, size, list of files
         size = get_size_of_replication_package()
-        f.write("{},{},{},{}\n".format(total_comments, total_libraries, size, ";".join(get_list_of_all())))
+        f.write("{},{},{},{},{}\n".format(total_comments, total_libraries, size, ";".join(get_list_of_all()), ";".join(list_of_libs)))
 
 
 if __name__ == "__main__":
