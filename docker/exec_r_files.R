@@ -36,12 +36,12 @@ for (r_file in r_files) {
             # trim whitespace from beginning and end of string
 	    error = str_trim(error[1])
 	    # parse all the quotes from the error string
-	    error = str_replace_all(error, "\"", "")
+	    error = str_replace_all(error, "\"", "'")
 		# parse all the quotes from the error string
 	    error = str_replace_all(error, "‘", "'") 
 		error = str_replace_all(error, "’", "'")
 	    # replace all newline characters in middle of string with special string
-	    error = str_replace_all(error, "[\n]", "[newline]")
+	    error = str_replace_all(error, "[\n]", "")
 	}
 	else {
 		error = "success"
@@ -60,5 +60,6 @@ for (r_file in r_files) {
 	write.table(new_log_data, file="run_log.csv", sep=",", append=TRUE,
 				row.names=FALSE, col.names=FALSE)
 
-	print(new_log_data)
+	#print(version[['version.string']])
+	#print(new_log_data)
 	}

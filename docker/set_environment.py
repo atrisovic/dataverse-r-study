@@ -1,5 +1,6 @@
 # find libraries in R files
 import os
+import re
 import sys
 import glob
 import chardet
@@ -97,33 +98,67 @@ def main():
                 wd = sys.argv[1]
                 print("setwd('{}')\n".format(wd))
 
-            if ("#" in line) or (line.strip().startswith('"')): # count comments
+            # ===================
+            # = CODE PROPERTIES =
+            # ===================
+
+            # if line is commented no point analyzing it
+            if line.strip().startswith('#') or line.strip().startswith('"'):
                 comments_no += 1
                 print(line.rstrip())
-                continue # go to the next line 
+                continue
 
-            if line.strip().startswith("setwd"): # setwd already set, remove this to avoid absolute paths
+            # count comments elsewhere in code
+            if "#" in line: 
+                comments_no += 1
+
+            if "test" in line:
+                test_no += 1
+
+            # remove white spaces to detect function calls easier
+            temp_line = line.replace(" ", "") 
+
+            if "<-function(" in temp_line: 
+                func_no += 1
+        
+            if "class(" in temp_line: 
+                class_no += 1
+
+            # ===============
+            # = CHANGE CODE =
+            # ===============
+
+            # setwd already set, remove this to avoid absolute paths
+            if line.strip().startswith("setwd"): 
                 print(line.replace(line, ''))
                 continue
 
-            if "library" in line.strip():
-                libraries_no += 1
 
-                # more than one lib
-                import re
+            if "library" in line and "install.packages" in line and "#" not in line:
+                libraries_no += 1
+                print(line.rstrip())
+
+                list_of_libs.extend(re.findall(r'library\((.*?)\)', line))
+
+            elif "require" in line and "install.packages" in line and "#" not in line:
+                libraries_no += 1
+                print(line.rstrip())
+
+                list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
+
+            elif "library" in line.strip():
+                libraries_no += 1
                 for match in re.finditer("library", line):
                     print(line.replace(line, parse_dependencies(line[match.start():])))
                 print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'library\((.*?)\)', line))
-                continue
 
             elif line.strip().startswith("install.packages"):
                 libraries_no += 1
                 print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'install.packages\((.*?)\)', line))
-                continue
                 
             elif line.strip().startswith("require"):
                 libraries_no += 1
@@ -131,17 +166,6 @@ def main():
                 print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
-                continue
-
-            temp_line = line.replace(" ", "") # remove white spaces to detect function calls easier
-            if "test" in line:
-                test_no += 1
-        
-            if "<-function(" in temp_line: # use temp line
-                func_no += 1
-        
-            if "class(" in temp_line: # use temp line
-                class_no += 1
 
             if "file.path(" in temp_line:
                 index = line.find('file.path')
