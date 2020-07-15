@@ -38,7 +38,10 @@ def parse_dependencies(line):
     lib = lib.strip('"')
     lib = lib.strip("'")
     return_str = 'install.packages(\"{}\", repos=\"http://cran.us.r-project.org\")\n'.format(lib)
-    return return_str
+    
+    if 'install.packages' in line:
+        return return_str+'library({})'.format(lib)
+    return return_str+line
 
 
 def fix_abs_paths(line, index):
@@ -129,7 +132,7 @@ def main():
             # ===============
 
             # setwd already set, remove this to avoid absolute paths
-            if line.strip().startswith("setwd"): 
+            if "setwd(" in temp_line: 
                 print(line.replace(line, ''))
                 continue
 
@@ -139,33 +142,37 @@ def main():
                 print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'library\((.*?)\)', line))
+                continue
 
             elif "require" in line and "install.packages" in line and "#" not in line:
                 libraries_no += 1
                 print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
+                continue
 
             elif "library" in line.strip():
                 libraries_no += 1
                 for match in re.finditer("library", line):
                     print(line.replace(line, parse_dependencies(line[match.start():])))
-                print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'library\((.*?)\)', line))
+                continue
 
             elif line.strip().startswith("install.packages"):
                 libraries_no += 1
-                print(line.rstrip())
+                for match in re.finditer("install.packages", line):
+                    print(line.replace(line, parse_dependencies(line[match.start():])))
 
                 list_of_libs.extend(re.findall(r'install.packages\((.*?)\)', line))
+                continue
                 
             elif line.strip().startswith("require"):
                 libraries_no += 1
                 print(line.replace(line, parse_dependencies(line)))
-                print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
+                continue
 
             if "file.path(" in temp_line:
                 index = line.find('file.path')
