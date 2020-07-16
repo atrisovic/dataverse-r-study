@@ -34,11 +34,16 @@ def detect_encoding(input):
 
 def parse_dependencies(line):
     ''' finds libs between two brackets '''
+    lib = line.replace(" ", "") 
     lib = line[line.find("(")+1:line.find(")")]
     lib = lib.strip('"')
     lib = lib.strip("'")
     return_str = 'install.packages(\"{}\", repos=\"http://cran.us.r-project.org\")\n'.format(lib)
     
+    if 'install.packages' in line and 'repos' in line:
+        return line
+    if "," in lib: # there are unparced arguments
+        return line 
     if 'install.packages' in line:
         return return_str+'library({})'.format(lib)
     return return_str+line
@@ -81,6 +86,15 @@ def fix_abs_path_in_readcsv(line):
     return newline
 
 
+def parse_libraries(line):
+    temp = line.replace(" ", "")
+    temp = temp.replace('"', "")
+    temp = temp.replace("'", "")
+
+    libs = re.findall(r'libraries\((.*?)\)', temp)
+    return libs[0].split(",")
+
+
 def main():
     total_libraries = 0 # count of dependencies
     total_comments = 0 # count of comments
@@ -104,6 +118,7 @@ def main():
             # ===================
             # = CODE PROPERTIES =
             # ===================
+
 
             # if line is commented no point analyzing it
             if line.strip().startswith('#') or line.strip().startswith('"'):
@@ -136,8 +151,10 @@ def main():
                 print(line.replace(line, ''))
                 continue
 
+            if "libraries(" in temp_line:
+                list_of_libs.extend(parse_libraries(line))
 
-            if "library" in line and "install.packages" in line and "#" not in line:
+            if "library(" in temp_line and "install.packages" in line and "#" not in line:
                 libraries_no += 1
                 print(line.rstrip())
 
@@ -151,7 +168,7 @@ def main():
                 list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
                 continue
 
-            elif "library" in line.strip():
+            elif "library(" in temp_line:
                 libraries_no += 1
                 for match in re.finditer("library", line):
                     print(line.replace(line, parse_dependencies(line[match.start():])))
@@ -167,7 +184,7 @@ def main():
                 list_of_libs.extend(re.findall(r'install.packages\((.*?)\)', line))
                 continue
                 
-            elif line.strip().startswith("require"):
+            elif temp_line.strip().startswith("require("):
                 libraries_no += 1
                 print(line.replace(line, parse_dependencies(line)))
 

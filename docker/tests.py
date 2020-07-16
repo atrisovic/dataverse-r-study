@@ -5,13 +5,13 @@ class SimpleTest(unittest.TestCase):
     def test_parse_dependencies1(self):
         from set_environment import parse_dependencies
         line = "library(dplyr)"
-        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\n'
+        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\nlibrary(dplyr)'
         self.assertEqual(parse_dependencies(line), correct) 
 
     def test_parse_dependencies2(self):
         from set_environment import parse_dependencies
         line = "require(dplyr)"
-        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\n'
+        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\nrequire(dplyr)'
         self.assertEqual(parse_dependencies(line), correct) 
 
     def test_fix_abs_paths1(self):
@@ -65,6 +65,13 @@ class SimpleTest(unittest.TestCase):
         a, b = detect_encoding(input)
         self.assertEqual(a, 'ascii')
         self.assertEqual(b, 1.0)
+
+    def test_parse_libraries(self):
+        from set_environment import parse_libraries
+        input = 'libraries("dplyr", "ggplot2", "RMySQL", "data.table")'
+        correct = ['dplyr', 'ggplot2', 'RMySQL', 'data.table']
+        result = parse_libraries(input)
+        self.assertEqual(result, correct)
 
 if __name__ == '__main__': 
     unittest.main()
