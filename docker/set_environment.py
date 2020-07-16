@@ -108,8 +108,14 @@ def main():
         test_no =0 # count of 'test' appearance 
         class_no=0 # count 'class' appearances
 
+        not_authorized = False
+
         for linenum, line in enumerate(fileinput.input(r_file, inplace=True)):
             lines_no +=1 # increase no of lines
+
+            if "you are not authorized to access this object via this api endpoint" in line:
+                not_authorized = True
+                break
 
             if linenum == 0:
                 wd = sys.argv[1]
@@ -215,10 +221,11 @@ def main():
         total_comments += comments_no
         
         encoding, confidence = detect_encoding(open(r_file, 'r').read())
-        with open('run_log_st1.csv','a') as f:
-            # file_name, total lines, number of comments, number of dependencies
-            f.write("{},{},{},{},{},{},{},{},{}\n".format(r_file, \
-                lines_no, comments_no, libraries_no, func_no, test_no, class_no, encoding, confidence))
+        if not_authorized is False:
+            with open('run_log_st1.csv','a') as f:
+                # file_name, total lines, number of comments, number of dependencies
+                f.write("{},{},{},{},{},{},{},{},{}\n".format(r_file, \
+                    lines_no, comments_no, libraries_no, func_no, test_no, class_no, encoding, confidence))
 
 
     list_of_libs = [l.replace('"',"") for l in list_of_libs]
@@ -227,10 +234,11 @@ def main():
 
     list_of_libs = set(list_of_libs)
 
-    with open('run_log_st.csv','a') as f:
-        # number of comments, number of dependencies, size, list of files
-        size = get_size_of_replication_package()
-        f.write("{},{},{},{},{}\n".format(total_comments, total_libraries, size, ";".join(get_list_of_all()), ";".join(list_of_libs)))
+    if not_authorized is False:
+        with open('run_log_st.csv','a') as f:
+            # number of comments, number of dependencies, size, list of files
+            size = get_size_of_replication_package()
+            f.write("{},{},{},{},{}\n".format(total_comments, total_libraries, size, ";".join(get_list_of_all()), ";".join(list_of_libs)))
 
 
 if __name__ == "__main__":

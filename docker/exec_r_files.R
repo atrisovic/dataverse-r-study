@@ -52,6 +52,10 @@ for (r_file in r_files) {
 		error = "time limit exceeded"
 	}
 
+	noauth <- c("status", "ERROR")
+	if (all(sapply(noauth, grepl, error))){
+		error = "not authorized"
+	}          
 
 	# create dataframe from doi, filename, and errors to facilitate csv writing
 	new_log_data = data.frame(doi=c(dir_path_doi), filename=c(r_file),
