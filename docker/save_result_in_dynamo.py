@@ -27,11 +27,11 @@ if os.path.isfile('run_log.csv'):
 				items.append(mydict)
 		print(items)
 
-	'''
+	
 	with table1.batch_writer() as batch:
 		for item in items:
 			batch.put_item(Item=item)
-	'''
+	
 
 
 # table 2: checksum check
@@ -51,17 +51,17 @@ if os.path.isfile('run_log_ds.csv'):
 				items.append(mydict)
 		print(items)
 
-	'''
+	
 	with table2.batch_writer() as batch:
 		for item in items:
 			batch.put_item(Item=item)
-	'''
+	
 
 
 # table 3: in file info
 
 if os.path.isfile('run_log_st.csv'):
-	table3 = dynamodb.Table("run_log_stats")
+	table3 = dynamodb.Table("run_log_stats_36")
 	items = []
 
 	with open('run_log_st.csv') as csv_file:
@@ -78,16 +78,16 @@ if os.path.isfile('run_log_st.csv'):
 				items.append(mydict)
 		print(items)
 
-	'''
+	
 	with table3.batch_writer() as batch:
 		for item in items:
 			batch.put_item(Item=item)
-	'''
+	
 
 # table 4: in file info per file
 
 if os.path.isfile('run_log_st1.csv'):
-	table4 = dynamodb.Table("run_log_file_stats")
+	table4 = dynamodb.Table("run_log_file_stats_36")
 	items = []
 
 	with open('run_log_st1.csv') as csv_file:
@@ -108,8 +108,8 @@ if os.path.isfile('run_log_st1.csv'):
 				items.append(mydict)
 		print(items)
 
-	'''
+	
 	with table4.batch_writer() as batch:
 		for item in items:
 			batch.put_item(Item=item)
-	'''
+	
