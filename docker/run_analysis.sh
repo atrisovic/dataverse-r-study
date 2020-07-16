@@ -7,10 +7,22 @@ if [ -n "$2" ]; then
     test=True
 fi
 
+# set default CRAN mirror
+echo 'local({r <- getOption("repos");
+       r["CRAN"] <- "http://cran.us.r-project.org"; 
+       options(repos=r)})' >> ~/.Rprofile
+echo '\n' >> ~/.Rprofile
+
 # download dataset
 python2 download_dataset.py "$doi"
+
+# TODO testing
 #sleep 10
-#echo "a <- 10 + 2" > temp.R
+#echo "a <- 10 + 2
+#install.packages('stringr')
+#require('a')
+#install.packages('plyr')
+#library('b')" > temp.R
 
 # only needed for R 3.2.1
 #ln -s /lib/x86_64-linux-gnu/libreadline.so.7.0 /lib/x86_64-linux-gnu/libreadline.so.6
