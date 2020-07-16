@@ -1,5 +1,11 @@
 #!/bin/bash
 doi="$1" # get DOI
+test=False
+
+# check if testing arg provided
+if [ -n "$2" ]; then
+    test=True
+fi
 
 # download dataset
 python2 download_dataset.py "$doi"
@@ -16,10 +22,9 @@ python2 set_environment.py $PWD
 timeout 3h Rscript exec_r_files.R "$doi"
 
 # note if 3hr time limit exceeded 
-if [ $? -eq 124 ]
- then
+if [ $? -eq 124 ]; then
      echo "$doi,unknown,time limit exceeded" >> run_log.csv
- fi
+fi
 
 # send results 
-python2 save_result_in_dynamo.py "$doi"
+python2 save_result_in_dynamo.py "$doi" "$test"

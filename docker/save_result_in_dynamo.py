@@ -5,6 +5,7 @@ from datetime import datetime
 
 import sys
 doi = sys.argv[1]
+test = sys.argv[2]
 
 session = boto3.session.Session(region_name= 'us-east-2')
 dynamodb = session.resource('dynamodb')
@@ -12,7 +13,7 @@ dynamodb = session.resource('dynamodb')
 # table 1: success or error
 
 if os.path.isfile('run_log.csv'): 
-	table1 = dynamodb.Table("run_log_36")
+	table1 = dynamodb.Table("run_log_40")
 	items = []
 
 	with open('run_log.csv') as csv_file:
@@ -27,17 +28,17 @@ if os.path.isfile('run_log.csv'):
 				items.append(mydict)
 		print(items)
 
-	
-	with table1.batch_writer() as batch:
-		for item in items:
-			batch.put_item(Item=item)
+	if test == 'False':
+		with table1.batch_writer() as batch:
+			for item in items:
+				batch.put_item(Item=item)
 	
 
 
 # table 2: checksum check
 
 if os.path.isfile('run_log_ds.csv'):
-	table2 = dynamodb.Table("run_log_download_36")
+	table2 = dynamodb.Table("run_log_download_40")
 	items = []
 
 	with open('run_log_ds.csv') as csv_file:
@@ -51,17 +52,16 @@ if os.path.isfile('run_log_ds.csv'):
 				items.append(mydict)
 		print(items)
 
+	if test == 'False':
+		with table2.batch_writer() as batch:
+			for item in items:
+				batch.put_item(Item=item)
 	
-	with table2.batch_writer() as batch:
-		for item in items:
-			batch.put_item(Item=item)
-	
-
 
 # table 3: in file info
 
 if os.path.isfile('run_log_st.csv'):
-	table3 = dynamodb.Table("run_log_stats_36")
+	table3 = dynamodb.Table("run_log_stats")
 	items = []
 
 	with open('run_log_st.csv') as csv_file:
@@ -78,16 +78,16 @@ if os.path.isfile('run_log_st.csv'):
 				items.append(mydict)
 		print(items)
 
-	
-	with table3.batch_writer() as batch:
-		for item in items:
-			batch.put_item(Item=item)
+	if test == 'False':
+		with table3.batch_writer() as batch:
+			for item in items:
+				batch.put_item(Item=item)
 	
 
 # table 4: in file info per file
 
 if os.path.isfile('run_log_st1.csv'):
-	table4 = dynamodb.Table("run_log_file_stats_36")
+	table4 = dynamodb.Table("run_log_file_stats")
 	items = []
 
 	with open('run_log_st1.csv') as csv_file:
@@ -108,8 +108,8 @@ if os.path.isfile('run_log_st1.csv'):
 				items.append(mydict)
 		print(items)
 
-	
-	with table4.batch_writer() as batch:
-		for item in items:
-			batch.put_item(Item=item)
+	if test == 'False':
+		with table4.batch_writer() as batch:
+			for item in items:
+				batch.put_item(Item=item)
 	
