@@ -87,11 +87,32 @@ def fix_abs_path_in_readcsv(line):
 
 
 def parse_libraries(line):
+    temp = line.strip()
     temp = line.replace(" ", "")
     temp = temp.replace('"', "")
     temp = temp.replace("'", "")
+    temp = temp.rstrip(",")
 
-    libs = re.findall(r'libraries\((.*?)\)', temp)
+    if ")" in line:
+        libs = re.findall(r'\((.*?)\)', temp)
+        return libs[0].split(",")
+
+    libs = re.findall(r'\((.*)', temp)
+    return libs[0].split(",")
+
+
+def parse_packages(line):
+    temp = line.strip()
+    temp = temp.replace(" ", "")
+    temp = temp.replace('"', "")
+    temp = temp.replace("'", "")
+    temp = temp.rstrip(",")
+
+    if ")" in line:
+        libs = re.findall(r'\((.*?)\)', temp)
+        return libs[0].split(",")
+
+    libs = re.findall(r'\((.*)', temp)
     return libs[0].split(",")
 
 
@@ -196,6 +217,10 @@ def main():
 
                 list_of_libs.extend(re.findall(r'require\((.*?)\)', line))
                 continue
+
+            # find packages that did not qualify for "install.packages"
+            if "packages" in temp_line and "," in temp_line and "(" in temp_line:
+                list_of_libs.extend(parse_packages(line))
 
             if "file.path(" in temp_line:
                 index = line.find('file.path')

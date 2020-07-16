@@ -73,6 +73,21 @@ class SimpleTest(unittest.TestCase):
         result = parse_libraries(input)
         self.assertEqual(result, correct)
 
+    def test_parse_packages1(self):
+        from set_environment import parse_packages
+        input = '    packages <- c("dplyr", "stringr", "stargazer", "ggplot2", "scales",\n\n\n'
+        result = parse_packages(input)
+        correct = ["dplyr", "stringr", "stargazer", "ggplot2", "scales"]
+        self.assertEqual(result, correct)
+
+    def test_parse_packages2(self):
+        from set_environment import parse_packages
+        input = '    packages <- c("dplyr", "stringr", "stargazer", "ggplot2", "scales")'
+        result = parse_packages(input)
+        correct = ["dplyr", "stringr", "stargazer", "ggplot2", "scales"]
+        self.assertEqual(result, correct)
+
+
 if __name__ == '__main__': 
     unittest.main()
 
