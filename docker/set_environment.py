@@ -33,20 +33,20 @@ def detect_encoding(input):
 
 
 def parse_dependencies(line):
-    ''' finds libs between two brackets '''
+    ''' finds libs between two brackets 
+    library(ABC) should be transformed into require(ABC)
+    and if not accessible install ABC'''
+
     lib = line.replace(" ", "") 
     lib = line[line.find("(")+1:line.find(")")]
     lib = lib.strip('"')
     lib = lib.strip("'")
-    return_str = 'install.packages(\"{}\", repos=\"http://cran.us.r-project.org\")\n'.format(lib)
-    
-    if 'install.packages' in line and 'repos' in line:
-        return line
+
+    return_str = 'if (!require(\"{}\")) install.packages(\"{}\")\n'.format(lib, lib)
+
     if "," in lib: # there are unparced arguments
         return line 
-    if 'install.packages' in line:
-        return return_str+'library({})'.format(lib)
-    return return_str+line
+    return return_str
 
 
 def fix_abs_paths(line, index):
@@ -204,9 +204,9 @@ def main():
                 continue
 
             elif line.strip().startswith("install.packages"):
+                # install packages should work as is when default CRAN mirror is set
                 libraries_no += 1
-                for match in re.finditer("install.packages", line):
-                    print(line.replace(line, parse_dependencies(line[match.start():])))
+                print(line.rstrip())
 
                 list_of_libs.extend(re.findall(r'install.packages\((.*?)\)', line))
                 continue

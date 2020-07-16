@@ -5,13 +5,13 @@ class SimpleTest(unittest.TestCase):
     def test_parse_dependencies1(self):
         from set_environment import parse_dependencies
         line = "library(dplyr)"
-        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\nlibrary(dplyr)'
+        correct = 'if (!require(\"dplyr\")) install.packages(\"dplyr\")\n'
         self.assertEqual(parse_dependencies(line), correct) 
 
     def test_parse_dependencies2(self):
         from set_environment import parse_dependencies
         line = "require(dplyr)"
-        correct = 'install.packages(\"dplyr\", repos=\"http://cran.us.r-project.org\")\nrequire(dplyr)'
+        correct = 'if (!require(\"dplyr\")) install.packages(\"dplyr\")\n'
         self.assertEqual(parse_dependencies(line), correct) 
 
     def test_fix_abs_paths1(self):
