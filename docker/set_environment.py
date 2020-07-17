@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import glob
+import codecs
 import chardet
 import fileinput
 
@@ -122,6 +123,15 @@ def main():
     list_of_libs = []
 
     for r_file in list_of_r_files:
+
+        # encode to ascii
+        allcode = open(r_file, 'r').read()
+        encoding, confidence = detect_encoding(allcode)
+        if encoding != 'ascii':
+            allcode = allcode.decode(encoding).encode('ascii', 'ignore')
+            with codecs.open(r_file, 'w', encoding='ascii') as f:
+                f.write(allcode)     
+
         libraries_no = 0 # libraries per file
         comments_no = 0 # count of comments per file
         lines_no = 0 # count of total lines of code per file
@@ -141,6 +151,11 @@ def main():
             if linenum == 0:
                 wd = sys.argv[1]
                 print("setwd('{}')\n".format(wd))
+
+            # ignore empty lines
+            if not line.strip():
+                print(line.rstrip())
+                continue
 
             # ===================
             # = CODE PROPERTIES =
@@ -245,7 +260,7 @@ def main():
         total_libraries += libraries_no 
         total_comments += comments_no
         
-        encoding, confidence = detect_encoding(open(r_file, 'r').read())
+        
         if not_authorized is False:
             with open('run_log_st1.csv','a') as f:
                 # file_name, total lines, number of comments, number of dependencies
