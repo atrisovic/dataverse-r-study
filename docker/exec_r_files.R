@@ -5,7 +5,7 @@ dir_path_doi = args[1]
 setwd("/usr/workdir")
 library(stringr)
 
-install.packages("R.utils",repos = "http://cran.us.r-project.org")
+install.packages("R.utils")
 library(R.utils)
 
 r_files = list.files(".", pattern="\\.[Rr]\\>", recursive=FALSE, full.names=FALSE)
@@ -47,7 +47,20 @@ for (r_file in r_files) {
 		error = "success"
 		}
 	
+	# Plan B - source cannot parse R file and sees 
+	# syntax errors even when there are none
+	planb <- c("Error in source", "unexpected")
+	if (all(sapply(planb, grepl, error))){
+		print("Running plan B")
+		install.packages("reticulate")
+		library(reticulate)
+		# try rerunning script with python
+		use_python("/opt/conda/envs/py3/bin/python3.5")
 
+		source_python('execute_files.py')
+		error = execute_files(r_file)
+	}  
+	
 	if (grepl("reached CPU time limit", error, fixed = TRUE)){
 		error = "time limit exceeded"
 	}
