@@ -25,7 +25,7 @@ for (r_file in r_files) {
 	# try to run the R file with error handling
 	error <- withTimeout({ 
 		try(source(r_file), silent = TRUE);
-	}, timeout=600, onTimeout="silent");
+	}, timeout=3600, onTimeout="silent");
 
 	# restore local variables
 	load("get_reprod.RData")
@@ -77,6 +77,4 @@ for (r_file in r_files) {
 	write.table(new_log_data, file="run_log.csv", sep=",", append=TRUE,
 				row.names=FALSE, col.names=FALSE)
 
-	#print(version[['version.string']])
-	#print(new_log_data)
 	}

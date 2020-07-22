@@ -7,12 +7,9 @@ def execute_files(f):
     res = ""
 
     try:
-        stdout, stderr = p3.communicate(timeout=600)
+        stdout, stderr = p3.communicate(timeout=3600)
         if p3.returncode != 0:
             res = stderr.splitlines()[-5:-1]
-            #for device in res:
-            #   device = device.decode('latin1')
-            #res="".join(chr(x) for x in res)
             res = b' '.join(res)
             res_str = res.decode("utf-8") if type(res) is bytes else res
             import re

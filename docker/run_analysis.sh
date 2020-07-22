@@ -14,28 +14,24 @@ echo 'local({r <- getOption("repos");
 echo '\n' >> ~/.Rprofile
 
 # download dataset
-python2 download_dataset.py "$doi"
+timeout 1h python2 download_dataset.py "$doi"
 
-# TODO testing
-#sleep 10
-#echo "a <- 10 + 2
-#install.packages('stringr')
-#require('a')
-#install.packages('plyr')
-#library('b')" > temp.R
-
-# only needed for R 3.2.1
-#ln -s /lib/x86_64-linux-gnu/libreadline.so.7.0 /lib/x86_64-linux-gnu/libreadline.so.6
-
-# process all R files and collect data
-python2 set_environment.py $PWD
-
-# execute R files with 3 hour limit
-timeout 3h Rscript exec_r_files.R "$doi"
-
-# note if 3hr time limit exceeded 
 if [ $? -eq 124 ]; then
-     echo "$doi,unknown,time limit exceeded" >> run_log.csv
+     echo "$doi,unknown,download error" >> run_log.csv
+else
+     # only needed for R 3.2.1
+     #ln -s /lib/x86_64-linux-gnu/libreadline.so.7.0 /lib/x86_64-linux-gnu/libreadline.so.6
+
+     # process all R files and collect data
+     python2 set_environment.py $PWD
+
+     # execute R files with 3 hour limit
+     timeout 5h Rscript exec_r_files.R "$doi"
+
+     # note if 3hr time limit exceeded 
+     if [ $? -eq 124 ]; then
+          echo "$doi,unknown,time limit exceeded" >> run_log.csv
+     fi
 fi
 
 # send results 
