@@ -27,6 +27,11 @@ for (r_file in r_files) {
 		try(source(r_file), silent = TRUE);
 	}, timeout=3600, onTimeout="silent");
 
+	local_vars <- c('dir_path_doi', 'local_vars', 'external_vars', 'error', 'filename', 'r_file', 'r_files', 'new_log_data', 'noauth', 'planb')
+	external_vars <- ls()
+	external_vars <- external_vars[!external_vars %in% local_vars]
+	write(paste(external_vars, collapse=' '), file="vars.txt", append=TRUE)
+
 	# restore local variables
 	load("get_reprod.RData")
 

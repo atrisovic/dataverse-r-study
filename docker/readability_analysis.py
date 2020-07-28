@@ -1,8 +1,9 @@
 from __future__ import division
 import collections
+import json
 import re
 
-def get_readability_metrics(all_code):
+def get_readability_metrics(all_code, filename):
     code_lines = all_code.split('\n')
     line_no = len(code_lines) # no of lines
 
@@ -14,6 +15,7 @@ def get_readability_metrics(all_code):
     comments = 0
     branches = 0
     line_len = 0
+    keywords = 0
     blank_line = 0
     assignments = 0
     max_numbers = 0
@@ -24,6 +26,9 @@ def get_readability_metrics(all_code):
     arithmetic_operators = 0
     comparison_operators = 0
     max_occurrence_of_character = 0
+    r_keywords = ['if','else','repeat','while','function','for','in','next','break',\
+        'TRUE','FALSE','NULL','Inf','NaN','NA','NA_integer_','NA_real_','NA_complex_',\
+            'NA_character_','...','..1','..2','..3']
 
     for line in code_lines:
         line_len += len(line)
@@ -53,6 +58,7 @@ def get_readability_metrics(all_code):
         arithmetic_operators += len(re.findall(r'\+|-|\*\*|\*|\/|\^|%%|%\/%', line))
         comparison_operators += len(re.findall(r'<|>|==|<=|>=|!=', line))
         assignments += len(re.findall(r'(?<!\!|<|>|=)=|<-|->|<<-|->>', line))
+        keywords += len(re.findall(re.compile("|".join(r_keywords)), line))
 
         char, char_count = collections.Counter(line).most_common(1)[0]
         max_occurrence_of_character = max (max_occurrence_of_character, char_count)
@@ -60,6 +66,7 @@ def get_readability_metrics(all_code):
         # letters = sum(c.isalpha() for c in line)
 
     metrics_dict = {
+                'filename': filename,
                 'avg_line_len': line_len / line_no,
                 'max_line_len': max_line_len,
                 'avg_indentation': indentation / line_no,
@@ -76,8 +83,12 @@ def get_readability_metrics(all_code):
                 'avg_assignments': assignments / line_no,
                 'avg_branches': branches / line_no,
                 'avg_loops': loops / line_no,
+                'avg_keywords': keywords / line_no,
                 'avg_blank_lines': blank_line / line_no,
                 'max_occurrence_of_character': max_occurrence_of_character
 				}
-    
-    print(metrics_dict)
+
+    # print(metrics_dict)
+    with open('metrics.txt', 'a') as f:
+        json.dump(metrics_dict, f)
+        f.write(',')

@@ -23,6 +23,9 @@ else
      #ln -s /lib/x86_64-linux-gnu/libreadline.so.7.0 /lib/x86_64-linux-gnu/libreadline.so.6
 
      # process all R files and collect data
+
+     # add brackets to metrics.txt so that the file is readable with json
+     echo "[" >> metrics.txt
      python2 set_environment.py $PWD
 
      # execute R files with 3 hour limit
@@ -32,6 +35,9 @@ else
      if [ $? -eq 124 ]; then
           echo "$doi,unknown,time limit exceeded" >> run_log.csv
      fi
+
+     sed -i '$s/,$//' metrics.txt
+     echo "]" >> metrics.txt
 fi
 
 # send results 

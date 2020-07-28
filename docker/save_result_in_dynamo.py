@@ -13,7 +13,7 @@ dynamodb = session.resource('dynamodb')
 # table 1: success or error
 
 if os.path.isfile('run_log.csv'): 
-	table1 = dynamodb.Table("run_log_40")
+	table1 = dynamodb.Table("run_log_36_1h_and_5h")
 	items = []
 
 	with open('run_log.csv') as csv_file:
@@ -38,7 +38,7 @@ if os.path.isfile('run_log.csv'):
 # table 2: checksum check
 
 if os.path.isfile('run_log_ds.csv'):
-	table2 = dynamodb.Table("run_log_download_40")
+	table2 = dynamodb.Table("run_log_36_ds_1h_and_5h")
 	items = []
 
 	with open('run_log_ds.csv') as csv_file:
@@ -56,12 +56,39 @@ if os.path.isfile('run_log_ds.csv'):
 		with table2.batch_writer() as batch:
 			for item in items:
 				batch.put_item(Item=item)
-	
+
+
+# readability metrics
+
+if os.path.isfile('metrics.txt') and os.path.isfile('vars.txt'):
+	table3 = dynamodb.Table("run_log_metrics")
+	items = []
+
+	import json
+	metrics_list = json.load(open("metrics.txt"))
+
+	with open('vars.txt', 'r') as file:
+		var_list = file.read()
+	var_list = var_list.split('\n')
+
+	for m, v in zip(metrics_list, var_list):
+		m = {str(i): str(j) for i, j in m.items()}
+		m['vars'] = ";".join(set(v.strip().split(' ')))
+		m['doi'] = doi
+		items.append(m)
+
+	print(items)
+
+	if test == 'False':
+		with table3.batch_writer() as batch:
+			for item in items:
+				batch.put_item(Item=item)	
+
 
 # table 3: in file info
 
 if os.path.isfile('run_log_st.csv'):
-	table3 = dynamodb.Table("run_log_stats")
+	table3 = dynamodb.Table("run_log_stats_1h")
 	items = []
 
 	with open('run_log_st.csv') as csv_file:

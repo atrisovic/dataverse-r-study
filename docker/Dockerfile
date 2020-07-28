@@ -21,7 +21,7 @@ RUN conda create -y -n r_4.0.1 -c conda-forge r-base=4.0.1 r-essentials
 RUN conda create -y --name py3 python=3.5
 #RUN apt-get install -y libncurses5
 
-ARG r_ver=r_4.0.1 
+ARG r_ver=r_3.6.0
 RUN echo "conda activate $r_ver" >> ~/.bashrc
 ENV PATH="/opt/conda/envs/$r_ver/bin:${PATH}"
 
@@ -32,6 +32,7 @@ COPY set_environment.py .
 COPY exec_r_files.R .
 COPY execute_files.py .
 COPY save_result_in_dynamo.py .
+COPY readability_analysis.py .
 
 ARG DOI=doi
 ARG TEST=FALSE

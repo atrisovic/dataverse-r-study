@@ -16,7 +16,8 @@ def get_list_of_all():
     list_of_all = glob.glob("*")
     study_files = ['run_analysis.sh', 'download_dataset.py', 'set_environment.py', \
             'exec_r_files.R', 'save_result_in_dynamo.py', 'run_log_ds.csv', \
-            'run_log_st.csv', 'run_log_st1.csv', 'execute_files.py']
+            'run_log_st.csv', 'run_log_st1.csv', 'execute_files.py', 'readability_analysis.py', \
+            'readability_analysis.pyc', 'get_reprod.RData', 'run_log.csv', 'metrics.txt', 'vars.txt']
     for sf in study_files:
         if sf in list_of_all: list_of_all.remove(sf)
 
@@ -131,6 +132,10 @@ def main():
             allcode = allcode.decode(encoding).encode('ascii', 'ignore')
             with codecs.open(r_file, 'w', encoding='ascii') as f:
                 f.write(allcode)     
+        
+        # collect metrics
+        from readability_analysis import get_readability_metrics
+        get_readability_metrics(allcode, r_file)
 
         libraries_no = 0 # libraries per file
         comments_no = 0 # count of comments per file
