@@ -8,6 +8,9 @@ library(stringr)
 install.packages("R.utils")
 library(R.utils)
 
+install.packages("reticulate")
+library(reticulate)
+
 r_files = list.files(".", pattern="\\.[Rr]\\>", recursive=FALSE, full.names=FALSE)
 r_files <- r_files[r_files != "exec_r_files.R"]
 print(r_files)
@@ -30,7 +33,11 @@ for (r_file in r_files) {
 	local_vars <- c('dir_path_doi', 'local_vars', 'external_vars', 'error', 'filename', 'r_file', 'r_files', 'new_log_data', 'noauth', 'planb')
 	external_vars <- ls()
 	external_vars <- external_vars[!external_vars %in% local_vars]
-	write(paste(external_vars, collapse=' '), file="vars.txt", append=TRUE)
+
+	use_python("/usr/bin/python2.7")
+	source_python('readability_analysis.py')
+	arg_temp <- paste(external_vars, collapse=' ')
+	get_readability_metrics(arg_temp, filename=r_file) 
 
 	# restore local variables
 	load("get_reprod.RData")
@@ -57,8 +64,7 @@ for (r_file in r_files) {
 	planb <- c("Error in source", "unexpected")
 	if (all(sapply(planb, grepl, error))){
 		print("Running plan B")
-		install.packages("reticulate")
-		library(reticulate)
+		
 		# try rerunning script with python
 		use_python("/opt/conda/envs/py3/bin/python3.5")
 

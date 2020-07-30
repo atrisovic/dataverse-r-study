@@ -132,10 +132,6 @@ def main():
             allcode = allcode.decode(encoding).encode('ascii', 'ignore')
             with codecs.open(r_file, 'w', encoding='ascii') as f:
                 f.write(allcode)     
-        
-        # collect metrics
-        from readability_analysis import get_readability_metrics
-        get_readability_metrics(allcode, r_file)
 
         libraries_no = 0 # libraries per file
         comments_no = 0 # count of comments per file
