@@ -9,7 +9,7 @@ def get_readability_metrics(vars, filename=None, all_code=None, test=False):
         print("Error: function get_readability_metrics needs either filename or all_code string!")
         return 
 
-    if os.path.isfile(filename):
+    if filename and os.path.isfile(filename):
         all_code = open(filename, 'r').read()
 
     if all_code is None:
@@ -38,12 +38,13 @@ def get_readability_metrics(vars, filename=None, all_code=None, test=False):
     max_line_len = 0 
     max_vars_count = 0
     max_indentation = 0
+    max_occurence_of_var = 0
     arithmetic_operators = 0
     comparison_operators = 0
     max_occurrence_of_character = 0
     r_keywords = ['if','else','repeat','while','function','for','in','next','break',\
         'TRUE','FALSE','NULL','Inf','NaN','NA','NA_integer_','NA_real_','NA_complex_',\
-            'NA_character_','...','..1','..2','..3']
+            'NA_character_','\.\.\.','\.\.1','\.\.2','\.\.3']
 
     vars = set(vars.strip().split(' '))
 
@@ -73,9 +74,9 @@ def get_readability_metrics(vars, filename=None, all_code=None, test=False):
         commas += line.count(',')
         periods += line.count('.')
 
-        loops += len(re.findall(r'for\W|while\W|repeat\W', line))
+        loops += len(re.findall(r'(for|while|repeat)(\W|$)', line))
         parentheses += len(re.findall(r'\[|\(|\{|\}|\)|\]', line))
-        branches += len(re.findall(r'else if\W|if\W|else\W', line))
+        branches += len(re.findall(r'(else if|if|else)(\W|$)', line))
         arithmetic_operators += len(re.findall(r'\+|-|\*\*|\*|\/|\^|%%|%\/%', line))
         comparison_operators += len(re.findall(r'<|>|==|<=|>=|!=', line))
         assignments += len(re.findall(r'(?<!\!|<|>|=)=|<-|->|<<-|->>', line))
@@ -84,18 +85,25 @@ def get_readability_metrics(vars, filename=None, all_code=None, test=False):
         keywords += keywords_count_per_line
         max_keywords = max(max_keywords, keywords_count_per_line)
 
-        vars_count_per_line = len(re.findall(re.compile("|".join(vars)), line))
+        vars_pattern = re.compile("("+"|".join(vars)+")(\W|$)")
+
+        vars_count_per_line = len(re.findall(vars_pattern, line))
         max_vars_count = max(max_vars_count, vars_count_per_line)
         vars_count += vars_count_per_line
-        vars_list.extend(re.findall(re.compile("|".join(vars)), line))
-        
+
+        vars_list.extend(re.findall(vars_pattern, line))
+
         char, char_count = collections.Counter(line).most_common(1)[0]
         max_occurrence_of_character = max (max_occurrence_of_character, char_count)
 
-        # letters = sum(c.isalpha() for c in line)
-
+    # vars_list is a list of tuples
+    vars_list = [i[0] for i in vars_list]
     occurence_count = collections.Counter(vars_list)
-    max_occurence_of_var = occurence_count.most_common(1)[0][1]
+    try:
+        max_occurence_of_var = occurence_count.most_common(1)[0][1]
+    except:
+        pass
+
     metrics_dict = {
                 'filename': filename,
                 'line_no': line_no,
