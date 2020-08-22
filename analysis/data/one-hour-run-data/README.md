@@ -3,7 +3,7 @@
 | Version | Env & code cleaning                                  | No env & no code cleaning                                  |
 |---------|------------------------------------------------------|------------------------------------------------------------|
 | R 3.2   | `run_log_r32_env.csv` `run_log_r32_env_download.csv` | `run_log_r32_no_env.csv` `run_log_r32_no_env_download.csv` |
-| R 3.6   |                                                      |                                                            |
+| R 3.6   | `run_log_r36_env.csv` `run_log_r36_env_download.csv` | `run_log_r36_no_env.csv` `run_log_r36_no_env_download.csv` |
 | R 4.0   | `run_log_r40_env.csv` `run_log_r40_env_download.csv` | `run_log_r40_no_env.csv` `run_log_r40_no_env_download.csv` |
 
 
@@ -17,6 +17,14 @@
 
 | doi | file_id | download_status |
 |-----|---------|-----------------|
+
+## Header for `rfile_stats`
+
+doi, rfile_name, number_of_comments, number_of_libraries, number_of_funcs, number_of_test, number_of_class, encoding, total_lines
+
+## Header for `rpackage_stats`
+
+doi, list_of_all_files, total_number_of_comments, total_numebr_of_libraries, list_of_libraries, total_size
 
 ## Readability metrics header
 
