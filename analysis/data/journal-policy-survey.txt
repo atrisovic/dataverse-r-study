@@ -1,0 +1,13 @@
+name	link	type	level
+American Journal of Political Science (AJPS)	https://ajps.org/ajps-verification-policy/	verification	5
+British Journal of Political Science	https://www.cambridge.org/core/services/aop-file-manager/file/58ff2afb19dbda5f061e39b4/British-Journal-of-Political-Science-Dataverse-Guidelines-Dec-17.pdf	required	3
+American Political Science Review	https://www.apsanet.org/APSR-Submission-Guidelines	required	3
+Review of Economics and Statistics	https://www.mitpressjournals.org/journals/rest/sub	required	3
+Political Science Research and Methods (PSRM)	https://www.cambridge.org/core/journals/political-science-research-and-methods/information/instructions-contributors	verification	5
+Journal of Experimental Political Science	https://www.cambridge.org/core/journals/journal-of-experimental-political-science/information/instructions-contributors?	required	3
+International Studies Quarterly	https://academic.oup.com/isq/pages/General_Instructions	required	3
+International Interactions (II)	https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=gini20#dsp	encouraged	2
+The Journal of Politics	https://www.journals.uchicago.edu/journals/jop/instruct	no policy	1
+Political Analysis	https://www.cambridge.org/core/journals/political-analysis/information/instructions-contributors#Replication	reviewed	4
+Political Behavior	https://www.springer.com/journal/11109/submission-guidelines#Instructions%20for%20Authors%20_After%20acceptance	required	3
+Research & Politics	https://journals.sagepub.com/author-instructions/RAP#TransparencyOpennessReplicationPolicy	required	3

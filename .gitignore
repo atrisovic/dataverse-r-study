@@ -1,5 +1,8 @@
 env/
 env3/
-.pyc
+.vscode/
+*.pyc
+*.png
+analysis/*.pdf
 .idea/
 .ipynb_checkpoints/
