@@ -1,4 +1,4 @@
-DOI,publicationDate,publisher,subject
+doi,publicationDate,publisher,subject
 doi:10.7910/DVN/U3QJQZ,2020,harvard,Medicine; Health and Life Sciences
 doi:10.7910/DVN/HRLHA4,2016,pan,Mathematical Sciences;Social Sciences
 doi:10.7910/DVN/RJWU7A,2015,intertransferuschina,Social Sciences
