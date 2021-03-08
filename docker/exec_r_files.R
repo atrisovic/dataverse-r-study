@@ -1,6 +1,6 @@
-args = commandArgs(trailingOnly=TRUE)
+local_args = commandArgs(trailingOnly=TRUE)
 # parse command line args for path to the directory and preprocessing
-dir_path_doi = args[1]
+dir_path_doi = local_args[1]
 
 setwd("/usr/workdir")
 library(stringr)
@@ -30,7 +30,7 @@ for (r_file in r_files) {
 		try(source(r_file), silent = TRUE);
 	}, timeout=3600, onTimeout="silent");
 
-	local_vars <- c('dir_path_doi', 'local_vars', 'external_vars', 'error', 'filename', 'r_file', 'r_files', 'new_log_data', 'noauth', 'planb')
+	local_vars <- c('dir_path_doi', 'arg_temp', 'local_args', 'local_vars', 'external_vars', 'get_readability_metrics', 'error', 'filename', 'r_file', 'r_files', 'new_log_data', 'noauth', 'planb')
 	external_vars <- ls()
 	external_vars <- external_vars[!external_vars %in% local_vars]
 

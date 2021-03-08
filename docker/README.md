@@ -1,4 +1,12 @@
-# Testing
+# Analysis environment
+
+Building the Docker image:
+
+```
+docker build -t aws-image .
+```
+
+## Testing with existing image
 
 Test workflow on a local computer:
 
