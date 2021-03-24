@@ -1,6 +1,7 @@
 # A large-scale study on research code quality and execution
 
-![](https://img.shields.io/badge/DOI-doi%3A10.7910%2FDVN%2FUZLXSZ-orange)
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUZLXSZ">![](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FUZLXSZ-orange)</a>
+
 
 ## Step 1. `get-dois` 
 
@@ -20,4 +21,4 @@ All collected data is retrieved and analyzed in `analysis`.
 
 ## Figure
 
-![](https://i.imgur.com/DOBB1LI.jpeg)
+<img src="https://i.imgur.com/DOBB1LI.jpeg" height="450" />
