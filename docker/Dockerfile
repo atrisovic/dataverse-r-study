@@ -37,4 +37,4 @@ COPY readability_analysis.py .
 ARG DOI=doi
 ARG TEST=FALSE
 
-ENTRYPOINT sh run_analysis.sh ${DOI} ${TEST}
+#ENTRYPOINT sh run_analysis.sh ${DOI} ${TEST}

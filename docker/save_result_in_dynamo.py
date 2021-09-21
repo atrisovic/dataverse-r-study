@@ -13,7 +13,7 @@ dynamodb = session.resource('dynamodb')
 # table 1: success or error
 
 if os.path.isfile('run_log.csv'): 
-	table1 = dynamodb.Table("run_log_36_1h_and_5h")
+	table1 = dynamodb.Table("run_log_36_1h_no_env")
 	items = []
 
 	with open('run_log.csv') as csv_file:
@@ -38,7 +38,7 @@ if os.path.isfile('run_log.csv'):
 # table 2: checksum check
 
 if os.path.isfile('run_log_ds.csv'):
-	table2 = dynamodb.Table("run_log_36_ds_1h_and_5h")
+	table2 = dynamodb.Table("run_log_36_ds_1h_no_ev")
 	items = []
 
 	with open('run_log_ds.csv') as csv_file:
