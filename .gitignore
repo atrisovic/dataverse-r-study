@@ -1,8 +1,11 @@
 env/
 env3/
 .vscode/
+.DS_Store
 *.pyc
 *.png
 analysis/*.pdf
+analysis/plots
 .idea/
 .ipynb_checkpoints/
+**/__pycache__
