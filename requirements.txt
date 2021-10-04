@@ -4,7 +4,7 @@ awscli==1.16.253
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==3.1.0
+bleach==3.3.0
 boto3==1.9.243
 botocore==1.12.243
 certifi==2019.9.11
