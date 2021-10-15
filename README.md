@@ -1,7 +1,6 @@
 # A large-scale study on research code quality and execution
 
-<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUZLXSZ">![](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FUZLXSZ-orange)</a>
-
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUZLXSZ">![](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FUZLXSZ-orange)</a> [![arXiv](https://img.shields.io/badge/arXiv-2103.12793-b31b1b.svg?style=flat)](https://arxiv.org/abs/2103.12793) [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
 ## Step 1. `get-dois` 
 
